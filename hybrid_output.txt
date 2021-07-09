@@ -1,0 +1,4945 @@
+~HYBRID RECOMMENDER SYSTEM~
+
+Dataset: rate.csv
+Uniform Hybrid Similarity Criterion: Pearson
+User: 2 Movie: 333
+--Hybrid prediction: 2.984259808810626
+--Real value: 4.0
+User: 2 Movie: 58559
+--Hybrid prediction: 2.639870231133389
+--Real value: 4.5
+User: 2 Movie: 68157
+--Hybrid prediction: 3.4640000000000004
+--Real value: 4.5
+User: 2 Movie: 71535
+--Hybrid prediction: 3.9003426763904754
+--Real value: 3.0
+User: 2 Movie: 77455
+--Hybrid prediction: 3.0640000000000005
+--Real value: 3.0
+User: 2 Movie: 80489
+--Hybrid prediction: 3.9003426763904754
+--Real value: 4.5
+User: 2 Movie: 86345
+--Hybrid prediction: 3.9003426763904754
+--Real value: 4.0
+User: 2 Movie: 91529
+--Hybrid prediction: 1.856007797270955
+--Real value: 3.5
+User: 2 Movie: 109487
+--Hybrid prediction: 3.456007797270955
+--Real value: 3.0
+User: 2 Movie: 115713
+--Hybrid prediction: 1.856007797270955
+--Real value: 3.5
+User: 4 Movie: 21
+--Hybrid prediction: 2.9909319611206406
+--Real value: 3.0
+User: 4 Movie: 45
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 47
+--Hybrid prediction: 3.5995645536618444
+--Real value: 2.0
+User: 4 Movie: 125
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 171
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 215
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 235
+--Hybrid prediction: 3.1765846460609843
+--Real value: 2.0
+User: 4 Movie: 247
+--Hybrid prediction: 3.790931961120641
+--Real value: 3.0
+User: 4 Movie: 265
+--Hybrid prediction: 2.190931961120641
+--Real value: 5.0
+User: 4 Movie: 319
+--Hybrid prediction: 0.8138162233733237
+--Real value: 5.0
+User: 4 Movie: 345
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 351
+--Hybrid prediction: 1.6138162233733238
+--Real value: 3.0
+User: 4 Movie: 357
+--Hybrid prediction: 2.310919546792437
+--Real value: 3.0
+User: 4 Movie: 417
+--Hybrid prediction: 3.223778624751945
+--Real value: 2.0
+User: 4 Movie: 441
+--Hybrid prediction: 3.0533333333333332
+--Real value: 1.0
+User: 4 Movie: 457
+--Hybrid prediction: 3.341059439954449
+--Real value: 5.0
+User: 4 Movie: 475
+--Hybrid prediction: 3.790931961120641
+--Real value: 5.0
+User: 4 Movie: 509
+--Hybrid prediction: 3.223778624751945
+--Real value: 1.0
+User: 4 Movie: 539
+--Hybrid prediction: 2.4138162233733236
+--Real value: 1.0
+User: 4 Movie: 553
+--Hybrid prediction: 3.8533333333333335
+--Real value: 2.0
+User: 4 Movie: 593
+--Hybrid prediction: 3.9512581169294414
+--Real value: 5.0
+User: 4 Movie: 595
+--Hybrid prediction: 3.498208675634197
+--Real value: 3.0
+User: 4 Movie: 599
+--Hybrid prediction: 3.223778624751945
+--Real value: 2.0
+User: 4 Movie: 759
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 899
+--Hybrid prediction: 2.9053333333333335
+--Real value: 4.0
+User: 4 Movie: 919
+--Hybrid prediction: 3.8533333333333335
+--Real value: 5.0
+User: 4 Movie: 937
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 1025
+--Hybrid prediction: 3.8533333333333335
+--Real value: 4.0
+User: 4 Movie: 1057
+--Hybrid prediction: 2.4138162233733236
+--Real value: 3.0
+User: 4 Movie: 1073
+--Hybrid prediction: 3.5765846460609843
+--Real value: 4.0
+User: 4 Movie: 1077
+--Hybrid prediction: 2.4138162233733236
+--Real value: 5.0
+User: 4 Movie: 1079
+--Hybrid prediction: 3.2138162233733234
+--Real value: 2.0
+User: 4 Movie: 1103
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 1179
+--Hybrid prediction: 1.6138162233733238
+--Real value: 4.0
+User: 4 Movie: 1183
+--Hybrid prediction: 1.687909632571996
+--Real value: 1.0
+User: 4 Movie: 1197
+--Hybrid prediction: 3.7820000000000005
+--Real value: 5.0
+User: 4 Movie: 1199
+--Hybrid prediction: 3.223778624751945
+--Real value: 2.0
+User: 4 Movie: 1203
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 1211
+--Hybrid prediction: 3.223778624751945
+--Real value: 1.0
+User: 4 Movie: 1213
+--Hybrid prediction: 3.9020000000000006
+--Real value: 4.0
+User: 4 Movie: 1219
+--Hybrid prediction: 3.330359641564655
+--Real value: 4.0
+User: 4 Movie: 1225
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 1259
+--Hybrid prediction: 2.8256035294764192
+--Real value: 4.0
+User: 4 Movie: 1265
+--Hybrid prediction: 3.0158339755477606
+--Real value: 4.0
+User: 4 Movie: 1279
+--Hybrid prediction: 3.223778624751945
+--Real value: 2.0
+User: 4 Movie: 1283
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 1291
+--Hybrid prediction: 3.5953333333333335
+--Real value: 4.0
+User: 4 Movie: 1391
+--Hybrid prediction: 1.3817642437621338
+--Real value: 1.0
+User: 4 Movie: 1449
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 1517
+--Hybrid prediction: 3.1970263082313215
+--Real value: 4.0
+User: 4 Movie: 1597
+--Hybrid prediction: 2.0177642437621337
+--Real value: 1.0
+User: 4 Movie: 1617
+--Hybrid prediction: 3.597026308231322
+--Real value: 2.0
+User: 4 Movie: 1641
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 1719
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 1733
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 1883
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 1885
+--Hybrid prediction: 1.6138162233733238
+--Real value: 3.0
+User: 4 Movie: 1895
+--Hybrid prediction: 1.6138162233733238
+--Real value: 4.0
+User: 4 Movie: 1907
+--Hybrid prediction: 2.4138162233733236
+--Real value: 3.0
+User: 4 Movie: 1923
+--Hybrid prediction: 2.5793682622543104
+--Real value: 3.0
+User: 4 Movie: 1947
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 1967
+--Hybrid prediction: 3.3286666666666664
+--Real value: 5.0
+User: 4 Movie: 2019
+--Hybrid prediction: 4.239983567409089
+--Real value: 2.0
+User: 4 Movie: 2109
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 2145
+--Hybrid prediction: 1.9487064480632088
+--Real value: 3.0
+User: 4 Movie: 2203
+--Hybrid prediction: 2.4138162233733236
+--Real value: 4.0
+User: 4 Movie: 2351
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 2359
+--Hybrid prediction: 3.2138162233733234
+--Real value: 4.0
+User: 4 Movie: 2395
+--Hybrid prediction: 3.8533333333333335
+--Real value: 3.0
+User: 4 Movie: 2467
+--Hybrid prediction: 2.4138162233733236
+--Real value: 4.0
+User: 4 Movie: 2571
+--Hybrid prediction: 3.7915645536618445
+--Real value: 1.0
+User: 4 Movie: 2583
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 2599
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 2683
+--Hybrid prediction: 2.3868629279726603
+--Real value: 4.0
+User: 4 Movie: 2763
+--Hybrid prediction: 3.2138162233733234
+--Real value: 1.0
+User: 4 Movie: 2791
+--Hybrid prediction: 1.6138162233733238
+--Real value: 5.0
+User: 4 Movie: 2843
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 2921
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 2959
+--Hybrid prediction: 3.2110565238890327
+--Real value: 2.0
+User: 4 Movie: 2973
+--Hybrid prediction: 3.223778624751945
+--Real value: 2.0
+User: 4 Movie: 2997
+--Hybrid prediction: 3.1765846460609843
+--Real value: 4.0
+User: 4 Movie: 3033
+--Hybrid prediction: 2.536584646060984
+--Real value: 4.0
+User: 4 Movie: 3079
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 3083
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 3175
+--Hybrid prediction: 3.2138162233733234
+--Real value: 1.0
+User: 4 Movie: 3255
+--Hybrid prediction: 1.6138162233733238
+--Real value: 4.0
+User: 4 Movie: 3317
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 3365
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 3481
+--Hybrid prediction: 1.6138162233733238
+--Real value: 2.0
+User: 4 Movie: 3489
+--Hybrid prediction: 2.1365846460609843
+--Real value: 1.0
+User: 4 Movie: 3591
+--Hybrid prediction: 1.6138162233733238
+--Real value: 1.0
+User: 4 Movie: 3809
+--Hybrid prediction: 2.7765846460609844
+--Real value: 3.0
+User: 4 Movie: 3851
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 3897
+--Hybrid prediction: 3.1249300060864273
+--Real value: 4.0
+User: 4 Movie: 3911
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 3967
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 4021
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 4027
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 4029
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 4033
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 4121
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 4239
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 4273
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 4347
+--Hybrid prediction: 3.223778624751945
+--Real value: 4.0
+User: 4 Movie: 4381
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 4641
+--Hybrid prediction: 3.223778624751945
+--Real value: 1.0
+User: 4 Movie: 4741
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 4765
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 4 Movie: 4881
+--Hybrid prediction: 3.223778624751945
+--Real value: 3.0
+User: 4 Movie: 4967
+--Hybrid prediction: 3.223778624751945
+--Real value: 5.0
+User: 6 Movie: 3
+--Hybrid prediction: 2.952704181501043
+--Real value: 5.0
+User: 6 Movie: 5
+--Hybrid prediction: 3.3165648268586705
+--Real value: 5.0
+User: 6 Movie: 7
+--Hybrid prediction: 1.7052690921467157
+--Real value: 4.0
+User: 6 Movie: 11
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 13
+--Hybrid prediction: 2.5052690921467153
+--Real value: 3.0
+User: 6 Movie: 15
+--Hybrid prediction: 1.7052690921467157
+--Real value: 4.0
+User: 6 Movie: 17
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 19
+--Hybrid prediction: 1.7052690921467157
+--Real value: 2.0
+User: 6 Movie: 21
+--Hybrid prediction: 3.222666666666667
+--Real value: 2.0
+User: 6 Movie: 25
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 27
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 31
+--Hybrid prediction: 0.5395689790781817
+--Real value: 3.0
+User: 6 Movie: 41
+--Hybrid prediction: 2.3745745532141904
+--Real value: 4.0
+User: 6 Movie: 43
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 45
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 47
+--Hybrid prediction: 3.2342424242424244
+--Real value: 4.0
+User: 6 Movie: 61
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 65
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 79
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 87
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 89
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 93
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 95
+--Hybrid prediction: 2.7800000000000002
+--Real value: 4.0
+User: 6 Movie: 105
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 113
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 135
+--Hybrid prediction: 2.5052690921467153
+--Real value: 3.0
+User: 6 Movie: 141
+--Hybrid prediction: 0.9052690921467158
+--Real value: 4.0
+User: 6 Movie: 145
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 151
+--Hybrid prediction: 3.7960000000000003
+--Real value: 4.0
+User: 6 Movie: 153
+--Hybrid prediction: 2.434604908653585
+--Real value: 3.0
+User: 6 Movie: 159
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 161
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 163
+--Hybrid prediction: 3.7960000000000003
+--Real value: 3.0
+User: 6 Movie: 165
+--Hybrid prediction: 3.05012271832929
+--Real value: 3.0
+User: 6 Movie: 171
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 177
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 179
+--Hybrid prediction: 3.3165648268586705
+--Real value: 1.0
+User: 6 Movie: 181
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 185
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 189
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 191
+--Hybrid prediction: 3.3165648268586705
+--Real value: 2.0
+User: 6 Movie: 195
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 201
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 205
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 207
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 209
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 217
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 219
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 225
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 231
+--Hybrid prediction: 2.96937084816771
+--Real value: 3.0
+User: 6 Movie: 237
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 239
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 243
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 251
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 253
+--Hybrid prediction: 2.5890390822324956
+--Real value: 3.0
+User: 6 Movie: 257
+--Hybrid prediction: 3.3165648268586705
+--Real value: 5.0
+User: 6 Movie: 261
+--Hybrid prediction: 3.222666666666667
+--Real value: 4.0
+User: 6 Movie: 265
+--Hybrid prediction: 2.4226666666666667
+--Real value: 3.0
+User: 6 Movie: 267
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 271
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 273
+--Hybrid prediction: 0.9052690921467158
+--Real value: 3.0
+User: 6 Movie: 277
+--Hybrid prediction: 3.3165648268586705
+--Real value: 5.0
+User: 6 Movie: 279
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 281
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 289
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 291
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 293
+--Hybrid prediction: 2.6724105443758877
+--Real value: 3.0
+User: 6 Movie: 303
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 313
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 315
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 317
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 327
+--Hybrid prediction: 3.3165648268586705
+--Real value: 1.0
+User: 6 Movie: 329
+--Hybrid prediction: 1.7052690921467157
+--Real value: 4.0
+User: 6 Movie: 333
+--Hybrid prediction: 2.96937084816771
+--Real value: 5.0
+User: 6 Movie: 337
+--Hybrid prediction: 3.3165648268586705
+--Real value: 5.0
+User: 6 Movie: 339
+--Hybrid prediction: 2.5052690921467153
+--Real value: 4.0
+User: 6 Movie: 343
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 347
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 349
+--Hybrid prediction: 3.4960000000000004
+--Real value: 5.0
+User: 6 Movie: 351
+--Hybrid prediction: 1.7052690921467157
+--Real value: 4.0
+User: 6 Movie: 353
+--Hybrid prediction: 4.105269092146716
+--Real value: 4.0
+User: 6 Movie: 355
+--Hybrid prediction: 1.05602792753713
+--Real value: 4.0
+User: 6 Movie: 357
+--Hybrid prediction: 2.4557057488991623
+--Real value: 3.0
+User: 6 Movie: 359
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 361
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 367
+--Hybrid prediction: 3.5126666666666666
+--Real value: 4.0
+User: 6 Movie: 371
+--Hybrid prediction: 2.3745745532141904
+--Real value: 3.0
+User: 6 Movie: 377
+--Hybrid prediction: 2.9345504458688594
+--Real value: 5.0
+User: 6 Movie: 381
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 383
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 405
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 415
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 419
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 435
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 437
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 445
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 455
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 457
+--Hybrid prediction: 3.816666666666667
+--Real value: 5.0
+User: 6 Movie: 469
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 475
+--Hybrid prediction: 4.022666666666667
+--Real value: 4.0
+User: 6 Movie: 477
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 485
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 489
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 491
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 493
+--Hybrid prediction: 2.7800000000000002
+--Real value: 3.0
+User: 6 Movie: 497
+--Hybrid prediction: 2.5052690921467153
+--Real value: 3.0
+User: 6 Movie: 505
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 509
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 515
+--Hybrid prediction: 2.4226666666666667
+--Real value: 4.0
+User: 6 Movie: 527
+--Hybrid prediction: 2.476909090909091
+--Real value: 3.0
+User: 6 Movie: 531
+--Hybrid prediction: 3.222666666666667
+--Real value: 3.0
+User: 6 Movie: 537
+--Hybrid prediction: 0.9052690921467158
+--Real value: 3.0
+User: 6 Movie: 539
+--Hybrid prediction: 2.5052690921467153
+--Real value: 3.0
+User: 6 Movie: 543
+--Hybrid prediction: 2.952704181501043
+--Real value: 3.0
+User: 6 Movie: 553
+--Hybrid prediction: 3.7960000000000003
+--Real value: 5.0
+User: 6 Movie: 569
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 575
+--Hybrid prediction: 1.7052690921467157
+--Real value: 3.0
+User: 6 Movie: 587
+--Hybrid prediction: 2.196982463412719
+--Real value: 5.0
+User: 6 Movie: 589
+--Hybrid prediction: 3.615278260405884
+--Real value: 3.0
+User: 6 Movie: 593
+--Hybrid prediction: 4.1273776523695
+--Real value: 4.0
+User: 6 Movie: 595
+--Hybrid prediction: 3.1227524534984985
+--Real value: 5.0
+User: 6 Movie: 597
+--Hybrid prediction: 2.5541536797749367
+--Real value: 4.0
+User: 6 Movie: 609
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 631
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 637
+--Hybrid prediction: 1.7052690921467157
+--Real value: 4.0
+User: 6 Movie: 647
+--Hybrid prediction: 0.5395689790781817
+--Real value: 4.0
+User: 6 Movie: 667
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 697
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 709
+--Hybrid prediction: 1.7052690921467157
+--Real value: 5.0
+User: 6 Movie: 711
+--Hybrid prediction: 2.5052690921467153
+--Real value: 4.0
+User: 6 Movie: 719
+--Hybrid prediction: 1.7052690921467157
+--Real value: 2.0
+User: 6 Movie: 747
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 765
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 775
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 783
+--Hybrid prediction: 3.3052690921467156
+--Real value: 5.0
+User: 6 Movie: 795
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 799
+--Hybrid prediction: 2.5052690921467153
+--Real value: 3.0
+User: 6 Movie: 801
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 835
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 837
+--Hybrid prediction: 3.3052690921467156
+--Real value: 3.0
+User: 6 Movie: 839
+--Hybrid prediction: 0.9052690921467158
+--Real value: 3.0
+User: 6 Movie: 867
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 881
+--Hybrid prediction: 0.9052690921467158
+--Real value: 3.0
+User: 6 Movie: 891
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 979
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 981
+--Hybrid prediction: 3.3165648268586705
+--Real value: 3.0
+User: 6 Movie: 991
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 999
+--Hybrid prediction: 3.3165648268586705
+--Real value: 2.0
+User: 6 Movie: 1049
+--Hybrid prediction: 2.96937084816771
+--Real value: 5.0
+User: 6 Movie: 1061
+--Hybrid prediction: 3.3165648268586705
+--Real value: 4.0
+User: 6 Movie: 1073
+--Hybrid prediction: 3.7527041815010436
+--Real value: 3.0
+User: 8 Movie: 11
+--Hybrid prediction: 3.2332864460710873
+--Real value: 4.0
+User: 8 Movie: 21
+--Hybrid prediction: 3.604242424242425
+--Real value: 4.0
+User: 8 Movie: 39
+--Hybrid prediction: 2.8042424242424246
+--Real value: 3.0
+User: 8 Movie: 47
+--Hybrid prediction: 3.4186868686868688
+--Real value: 4.0
+User: 8 Movie: 141
+--Hybrid prediction: 0.4095462669146879
+--Real value: 3.0
+User: 8 Movie: 153
+--Hybrid prediction: 2.167548750088224
+--Real value: 2.0
+User: 8 Movie: 185
+--Hybrid prediction: 1.209546266914688
+--Real value: 5.0
+User: 8 Movie: 231
+--Hybrid prediction: 2.802092467380126
+--Real value: 4.0
+User: 8 Movie: 235
+--Hybrid prediction: 2.5376480229356817
+--Real value: 3.0
+User: 8 Movie: 253
+--Hybrid prediction: 2.712363876048087
+--Real value: 5.0
+User: 8 Movie: 317
+--Hybrid prediction: 3.2332864460710873
+--Real value: 3.0
+User: 8 Movie: 339
+--Hybrid prediction: 2.009546266914688
+--Real value: 3.0
+User: 8 Movie: 357
+--Hybrid prediction: 2.159982923667134
+--Real value: 5.0
+User: 8 Movie: 367
+--Hybrid prediction: 3.347682986541426
+--Real value: 3.0
+User: 8 Movie: 377
+--Hybrid prediction: 2.7103514301606406
+--Real value: 4.0
+User: 8 Movie: 457
+--Hybrid prediction: 3.610634920634921
+--Real value: 3.0
+User: 8 Movie: 527
+--Hybrid prediction: 3.3609090909090913
+--Real value: 5.0
+User: 8 Movie: 539
+--Hybrid prediction: 2.009546266914688
+--Real value: 3.0
+User: 8 Movie: 587
+--Hybrid prediction: 2.290116781037834
+--Real value: 3.0
+User: 8 Movie: 593
+--Hybrid prediction: 3.736099271581917
+--Real value: 4.0
+User: 8 Movie: 597
+--Hybrid prediction: 2.677478473590528
+--Real value: 3.0
+User: 10 Movie: 597
+--Hybrid prediction: 1.3953535353535356
+--Real value: 3.5
+User: 10 Movie: 1247
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 1307
+--Hybrid prediction: 1.4134471795613632
+--Real value: 3.0
+User: 10 Movie: 1907
+--Hybrid prediction: 1.4134471795613632
+--Real value: 4.0
+User: 10 Movie: 2571
+--Hybrid prediction: 2.392020202020202
+--Real value: 0.5
+User: 10 Movie: 2671
+--Hybrid prediction: 3.869540588760036
+--Real value: 3.5
+User: 10 Movie: 2959
+--Hybrid prediction: 2.1120202020202026
+--Real value: 0.5
+User: 10 Movie: 4447
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.5
+User: 10 Movie: 4993
+--Hybrid prediction: 2.438152986299779
+--Real value: 4.0
+User: 10 Movie: 4995
+--Hybrid prediction: 3.3150854230680284
+--Real value: 4.0
+User: 10 Movie: 5377
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 5943
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 5957
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 6155
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 6377
+--Hybrid prediction: 1.8711111111111114
+--Real value: 3.5
+User: 10 Movie: 6535
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 7149
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 7151
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 7153
+--Hybrid prediction: 3.1516145235971287
+--Real value: 4.0
+User: 10 Movie: 7169
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.5
+User: 10 Movie: 7293
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 7375
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 7451
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 8529
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 8533
+--Hybrid prediction: 3.325409580939985
+--Real value: 5.0
+User: 10 Movie: 8665
+--Hybrid prediction: 3.069540588760036
+--Real value: 3.5
+User: 10 Movie: 8869
+--Hybrid prediction: 3.325409580939985
+--Real value: 5.0
+User: 10 Movie: 8961
+--Hybrid prediction: 2.391752089734695
+--Real value: 2.5
+User: 10 Movie: 8969
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 30749
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 31433
+--Hybrid prediction: 3.325409580939985
+--Real value: 2.5
+User: 10 Movie: 31685
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.5
+User: 10 Movie: 33145
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 33679
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 40629
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 40819
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 41285
+--Hybrid prediction: 3.325409580939985
+--Real value: 2.5
+User: 10 Movie: 47099
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 51705
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.5
+User: 10 Movie: 56367
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 56949
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 58047
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 58559
+--Hybrid prediction: 1.280909090909091
+--Real value: 4.5
+User: 10 Movie: 59333
+--Hybrid prediction: 3.325409580939985
+--Real value: 2.5
+User: 10 Movie: 59421
+--Hybrid prediction: 3.325409580939985
+--Real value: 2.0
+User: 10 Movie: 60397
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 63113
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 64969
+--Hybrid prediction: 3.325409580939985
+--Real value: 0.5
+User: 10 Movie: 66203
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 70183
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 70293
+--Hybrid prediction: 3.325409580939985
+--Real value: 0.5
+User: 10 Movie: 71579
+--Hybrid prediction: 3.325409580939985
+--Real value: 5.0
+User: 10 Movie: 72011
+--Hybrid prediction: 3.325409580939985
+--Real value: 2.5
+User: 10 Movie: 72407
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 72737
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 73017
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 77841
+--Hybrid prediction: 3.325409580939985
+--Real value: 2.0
+User: 10 Movie: 79091
+--Hybrid prediction: 3.325409580939985
+--Real value: 5.0
+User: 10 Movie: 80549
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 81845
+--Hybrid prediction: 3.325409580939985
+--Real value: 5.0
+User: 10 Movie: 81847
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 82167
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 82499
+--Hybrid prediction: 3.325409580939985
+--Real value: 2.0
+User: 10 Movie: 88163
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 91529
+--Hybrid prediction: 1.0711111111111113
+--Real value: 5.0
+User: 10 Movie: 92259
+--Hybrid prediction: 3.325409580939985
+--Real value: 5.0
+User: 10 Movie: 95167
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 95449
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 95543
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 96079
+--Hybrid prediction: 3.325409580939985
+--Real value: 5.0
+User: 10 Movie: 98203
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.0
+User: 10 Movie: 103335
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 103339
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 105211
+--Hybrid prediction: 3.325409580939985
+--Real value: 2.5
+User: 10 Movie: 106489
+--Hybrid prediction: 3.325409580939985
+--Real value: 3.5
+User: 10 Movie: 107141
+--Hybrid prediction: 3.325409580939985
+--Real value: 2.0
+User: 10 Movie: 109487
+--Hybrid prediction: 2.6711111111111117
+--Real value: 0.5
+User: 10 Movie: 109853
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 10 Movie: 113275
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.5
+User: 10 Movie: 119145
+--Hybrid prediction: 3.325409580939985
+--Real value: 1.0
+User: 10 Movie: 137595
+--Hybrid prediction: 3.325409580939985
+--Real value: 4.0
+User: 12 Movie: 39
+--Hybrid prediction: 2.838560606060606
+--Real value: 4.0
+User: 12 Movie: 261
+--Hybrid prediction: 3.6385606060606057
+--Real value: 4.5
+User: 12 Movie: 277
+--Hybrid prediction: 3.855649693934335
+--Real value: 3.0
+User: 12 Movie: 357
+--Hybrid prediction: 3.32812394930816
+--Real value: 3.5
+User: 12 Movie: 543
+--Hybrid prediction: 3.6551223819100405
+--Real value: 3.5
+User: 12 Movie: 1265
+--Hybrid prediction: 4.004371711396818
+--Real value: 3.5
+User: 12 Movie: 1357
+--Hybrid prediction: 3.855649693934335
+--Real value: 5.0
+User: 12 Movie: 1405
+--Hybrid prediction: 3.2708079319921426
+--Real value: 3.0
+User: 12 Movie: 1721
+--Hybrid prediction: 4.0231922043010755
+--Real value: 5.0
+User: 12 Movie: 2421
+--Hybrid prediction: 3.855649693934335
+--Real value: 3.0
+User: 12 Movie: 2485
+--Hybrid prediction: 3.431020625889047
+--Real value: 5.0
+User: 12 Movie: 2581
+--Hybrid prediction: 3.431020625889047
+--Real value: 5.0
+User: 12 Movie: 2717
+--Hybrid prediction: 3.096021077468446
+--Real value: 5.0
+User: 12 Movie: 3967
+--Hybrid prediction: 3.855649693934335
+--Real value: 4.5
+User: 12 Movie: 8533
+--Hybrid prediction: 3.855649693934335
+--Real value: 5.0
+User: 12 Movie: 40629
+--Hybrid prediction: 3.855649693934335
+--Real value: 5.0
+User: 14 Movie: 7
+--Hybrid prediction: 1.5907814954542645
+--Real value: 3.0
+User: 14 Movie: 19
+--Hybrid prediction: 1.5907814954542645
+--Real value: 1.0
+User: 14 Movie: 25
+--Hybrid prediction: 2.9087438968328856
+--Real value: 4.0
+User: 14 Movie: 39
+--Hybrid prediction: 2.180909090909091
+--Real value: 3.0
+User: 14 Movie: 47
+--Hybrid prediction: 2.9053535353535356
+--Real value: 5.0
+User: 14 Movie: 95
+--Hybrid prediction: 2.8200000000000003
+--Real value: 5.0
+User: 14 Movie: 105
+--Hybrid prediction: 2.9087438968328856
+--Real value: 3.0
+User: 14 Movie: 153
+--Hybrid prediction: 2.0132601691039906
+--Real value: 2.0
+User: 14 Movie: 193
+--Hybrid prediction: 2.9087438968328856
+--Real value: 3.0
+User: 14 Movie: 231
+--Hybrid prediction: 2.4944444444444445
+--Real value: 3.0
+User: 14 Movie: 337
+--Hybrid prediction: 2.9087438968328856
+--Real value: 5.0
+User: 14 Movie: 339
+--Hybrid prediction: 2.3907814954542643
+--Real value: 4.0
+User: 14 Movie: 351
+--Hybrid prediction: 1.5907814954542645
+--Real value: 3.0
+User: 14 Movie: 367
+--Hybrid prediction: 2.8275757575757576
+--Real value: 1.0
+User: 14 Movie: 377
+--Hybrid prediction: 2.6111739602875184
+--Real value: 3.0
+User: 14 Movie: 383
+--Hybrid prediction: 2.9087438968328856
+--Real value: 4.0
+User: 14 Movie: 455
+--Hybrid prediction: 1.5907814954542645
+--Real value: 3.0
+User: 14 Movie: 477
+--Hybrid prediction: 2.9087438968328856
+--Real value: 4.0
+User: 14 Movie: 491
+--Hybrid prediction: 2.9087438968328856
+--Real value: 3.0
+User: 14 Movie: 509
+--Hybrid prediction: 2.9087438968328856
+--Real value: 5.0
+User: 14 Movie: 527
+--Hybrid prediction: 3.0409090909090915
+--Real value: 3.0
+User: 14 Movie: 539
+--Hybrid prediction: 2.3907814954542643
+--Real value: 4.0
+User: 14 Movie: 553
+--Hybrid prediction: 3.6944444444444446
+--Real value: 4.0
+User: 14 Movie: 593
+--Hybrid prediction: 3.5066678334548262
+--Real value: 4.0
+User: 14 Movie: 597
+--Hybrid prediction: 2.14390850732491
+--Real value: 3.0
+User: 16 Movie: 47
+--Hybrid prediction: 2.60769319860181
+--Real value: 3.5
+User: 16 Movie: 111
+--Hybrid prediction: 2.96
+--Real value: 4.5
+User: 16 Movie: 293
+--Hybrid prediction: 2.119752987209128
+--Real value: 4.0
+User: 16 Movie: 319
+--Hybrid prediction: 0.7819448683132895
+--Real value: 4.0
+User: 16 Movie: 527
+--Hybrid prediction: 2.451147506388886
+--Real value: 4.0
+User: 16 Movie: 541
+--Hybrid prediction: 2.687065507749718
+--Real value: 4.5
+User: 16 Movie: 593
+--Hybrid prediction: 3.4713867618694065
+--Real value: 3.0
+User: 16 Movie: 745
+--Hybrid prediction: 3.181944868313289
+--Real value: 4.0
+User: 16 Movie: 849
+--Hybrid prediction: 2.025994745450886
+--Real value: 4.0
+User: 16 Movie: 913
+--Hybrid prediction: 3.9819448683132888
+--Real value: 4.0
+User: 16 Movie: 923
+--Hybrid prediction: 3.972
+--Real value: 3.5
+User: 16 Movie: 1089
+--Hybrid prediction: 2.636666666666667
+--Real value: 4.0
+User: 16 Movie: 1147
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 1193
+--Hybrid prediction: 3.0870655077497178
+--Real value: 4.0
+User: 16 Movie: 1197
+--Hybrid prediction: 3.036666666666667
+--Real value: 4.0
+User: 16 Movie: 1199
+--Hybrid prediction: 3.033240603025244
+--Real value: 5.0
+User: 16 Movie: 1201
+--Hybrid prediction: 3.76
+--Real value: 3.0
+User: 16 Movie: 1203
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 1207
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 1213
+--Hybrid prediction: 3.35
+--Real value: 3.5
+User: 16 Movie: 1219
+--Hybrid prediction: 2.7638216198379544
+--Real value: 3.0
+User: 16 Movie: 1223
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 1247
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 1261
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 1267
+--Hybrid prediction: 2.38194486831329
+--Real value: 4.0
+User: 16 Movie: 1281
+--Hybrid prediction: 3.033240603025244
+--Real value: 3.0
+User: 16 Movie: 1299
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 1617
+--Hybrid prediction: 2.9984882865046205
+--Real value: 3.5
+User: 16 Movie: 2019
+--Hybrid prediction: 3.456778879015721
+--Real value: 4.0
+User: 16 Movie: 2109
+--Hybrid prediction: 3.033240603025244
+--Real value: 3.5
+User: 16 Movie: 2329
+--Hybrid prediction: 3.0833333333333344
+--Real value: 3.5
+User: 16 Movie: 2427
+--Hybrid prediction: 4.055333333333333
+--Real value: 1.5
+User: 16 Movie: 2571
+--Hybrid prediction: 3.00769319860181
+--Real value: 3.5
+User: 16 Movie: 2641
+--Hybrid prediction: 2.7533799576676166
+--Real value: 3.0
+User: 16 Movie: 2707
+--Hybrid prediction: 3.033240603025244
+--Real value: 3.5
+User: 16 Movie: 2723
+--Hybrid prediction: 3.9819448683132888
+--Real value: 3.5
+User: 16 Movie: 2959
+--Hybrid prediction: 2.727185168828998
+--Real value: 3.5
+User: 16 Movie: 3429
+--Hybrid prediction: 3.033240603025244
+--Real value: 3.5
+User: 16 Movie: 3683
+--Hybrid prediction: 2.38194486831329
+--Real value: 4.0
+User: 16 Movie: 3741
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 3949
+--Hybrid prediction: 1.5171862828529499
+--Real value: 4.0
+User: 16 Movie: 4011
+--Hybrid prediction: 3.6010586510263924
+--Real value: 3.0
+User: 16 Movie: 4973
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 4993
+--Hybrid prediction: 3.393317341718371
+--Real value: 3.5
+User: 16 Movie: 5971
+--Hybrid prediction: 1.9893333333333336
+--Real value: 4.0
+User: 16 Movie: 7099
+--Hybrid prediction: 3.76
+--Real value: 3.5
+User: 16 Movie: 7153
+--Hybrid prediction: 3.5767788790157216
+--Real value: 3.5
+User: 16 Movie: 7361
+--Hybrid prediction: 3.033240603025244
+--Real value: 3.5
+User: 16 Movie: 27611
+--Hybrid prediction: 3.033240603025244
+--Real value: 4.0
+User: 16 Movie: 27773
+--Hybrid prediction: 2.96
+--Real value: 4.0
+User: 16 Movie: 58559
+--Hybrid prediction: 2.189333333333334
+--Real value: 4.5
+User: 16 Movie: 60069
+--Hybrid prediction: 1.9560000000000004
+--Real value: 4.0
+User: 16 Movie: 78499
+--Hybrid prediction: 2.96
+--Real value: 4.5
+User: 16 Movie: 91529
+--Hybrid prediction: 0.9524612794612797
+--Real value: 4.5
+User: 18 Movie: 1
+--Hybrid prediction: 3.0497948317422003
+--Real value: 3.5
+User: 18 Movie: 47
+--Hybrid prediction: 3.191299866787426
+--Real value: 4.5
+User: 18 Movie: 111
+--Hybrid prediction: 3.24
+--Real value: 4.0
+User: 18 Movie: 145
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 163
+--Hybrid prediction: 3.7533333333333334
+--Real value: 4.0
+User: 18 Movie: 165
+--Hybrid prediction: 2.800659130935447
+--Real value: 4.0
+User: 18 Movie: 223
+--Hybrid prediction: 2.420562464043329
+--Real value: 4.0
+User: 18 Movie: 231
+--Hybrid prediction: 2.8310183718849786
+--Real value: 2.5
+User: 18 Movie: 235
+--Hybrid prediction: 3.4576850385516438
+--Real value: 4.5
+User: 18 Movie: 293
+--Hybrid prediction: 2.7107247347598227
+--Real value: 4.5
+User: 18 Movie: 329
+--Hybrid prediction: 1.700249949197318
+--Real value: 4.0
+User: 18 Movie: 337
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 367
+--Hybrid prediction: 3.447720002157388
+--Real value: 2.5
+User: 18 Movie: 377
+--Hybrid prediction: 2.9455313029194614
+--Real value: 2.5
+User: 18 Movie: 431
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 435
+--Hybrid prediction: 1.700249949197318
+--Real value: 2.0
+User: 18 Movie: 457
+--Hybrid prediction: 3.4754931657784423
+--Real value: 3.5
+User: 18 Movie: 527
+--Hybrid prediction: 3.19964306346339
+--Real value: 4.5
+User: 18 Movie: 541
+--Hybrid prediction: 2.921370588633746
+--Real value: 4.0
+User: 18 Movie: 555
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 589
+--Hybrid prediction: 3.110666043863412
+--Real value: 4.5
+User: 18 Movie: 593
+--Hybrid prediction: 3.737660096721689
+--Real value: 4.5
+User: 18 Movie: 595
+--Hybrid prediction: 3.8217333105491003
+--Real value: 3.0
+User: 18 Movie: 653
+--Hybrid prediction: 1.700249949197318
+--Real value: 3.0
+User: 18 Movie: 673
+--Hybrid prediction: 1.6310183718849782
+--Real value: 3.0
+User: 18 Movie: 745
+--Hybrid prediction: 3.3002499491973176
+--Real value: 4.0
+User: 18 Movie: 849
+--Hybrid prediction: 2.4476331596682472
+--Real value: 3.5
+User: 18 Movie: 913
+--Hybrid prediction: 4.100249949197317
+--Real value: 4.0
+User: 18 Movie: 919
+--Hybrid prediction: 3.7533333333333334
+--Real value: 4.0
+User: 18 Movie: 923
+--Hybrid prediction: 3.6211428571428574
+--Real value: 5.0
+User: 18 Movie: 1059
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 1089
+--Hybrid prediction: 3.012
+--Real value: 4.0
+User: 18 Movie: 1095
+--Hybrid prediction: 2.9506982674076494
+--Real value: 4.0
+User: 18 Movie: 1193
+--Hybrid prediction: 3.4333705886337462
+--Real value: 4.5
+User: 18 Movie: 1201
+--Hybrid prediction: 4.04
+--Real value: 5.0
+User: 18 Movie: 1203
+--Hybrid prediction: 3.4315456839092726
+--Real value: 5.0
+User: 18 Movie: 1207
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 1209
+--Hybrid prediction: 2.8400000000000003
+--Real value: 5.0
+User: 18 Movie: 1213
+--Hybrid prediction: 3.6986666666666665
+--Real value: 4.5
+User: 18 Movie: 1219
+--Hybrid prediction: 3.0054600340553153
+--Real value: 4.5
+User: 18 Movie: 1221
+--Hybrid prediction: 3.64
+--Real value: 5.0
+User: 18 Movie: 1223
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 1227
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 1245
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 1247
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 1275
+--Hybrid prediction: 3.1148349820173773
+--Real value: 3.5
+User: 18 Movie: 1291
+--Hybrid prediction: 3.6520000000000015
+--Real value: 4.0
+User: 18 Movie: 1371
+--Hybrid prediction: 2.5173998926630508
+--Real value: 4.0
+User: 18 Movie: 1375
+--Hybrid prediction: 2.6333705886337464
+--Real value: 3.5
+User: 18 Movie: 1391
+--Hybrid prediction: 1.649531302919461
+--Real value: 3.0
+User: 18 Movie: 1517
+--Hybrid prediction: 3.128126700721982
+--Real value: 2.5
+User: 18 Movie: 1527
+--Hybrid prediction: 3.1441748214379794
+--Real value: 3.5
+User: 18 Movie: 1617
+--Hybrid prediction: 3.368126700721982
+--Real value: 4.0
+User: 18 Movie: 1625
+--Hybrid prediction: 3.8576850385516437
+--Real value: 3.5
+User: 18 Movie: 1653
+--Hybrid prediction: 3.3415081547713124
+--Real value: 3.5
+User: 18 Movie: 1721
+--Hybrid prediction: 3.7159999999999997
+--Real value: 4.0
+User: 18 Movie: 1729
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 1805
+--Hybrid prediction: 3.057685038551645
+--Real value: 3.5
+User: 18 Movie: 1917
+--Hybrid prediction: 2.8433257976021133
+--Real value: 3.0
+User: 18 Movie: 1961
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 2001
+--Hybrid prediction: 2.8375081547713132
+--Real value: 3.5
+User: 18 Movie: 2011
+--Hybrid prediction: 2.5217778748564417
+--Real value: 3.5
+User: 18 Movie: 2019
+--Hybrid prediction: 3.735528404344193
+--Real value: 4.0
+User: 18 Movie: 2115
+--Hybrid prediction: 3.2310183718849776
+--Real value: 4.0
+User: 18 Movie: 2291
+--Hybrid prediction: 3.7533333333333334
+--Real value: 4.0
+User: 18 Movie: 2329
+--Hybrid prediction: 3.610857142857144
+--Real value: 4.0
+User: 18 Movie: 2409
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 2411
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 2421
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 2571
+--Hybrid prediction: 3.440188755676315
+--Real value: 4.5
+User: 18 Movie: 2683
+--Hybrid prediction: 2.3019633204633205
+--Real value: 2.5
+User: 18 Movie: 2951
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 2953
+--Hybrid prediction: 2.500249949197318
+--Real value: 3.0
+User: 18 Movie: 2959
+--Hybrid prediction: 3.2183473925701693
+--Real value: 4.5
+User: 18 Movie: 2997
+--Hybrid prediction: 3.4576850385516438
+--Real value: 4.0
+User: 18 Movie: 3081
+--Hybrid prediction: 2.500249949197318
+--Real value: 4.0
+User: 18 Movie: 3147
+--Hybrid prediction: 3.7375238095238097
+--Real value: 4.0
+User: 18 Movie: 3253
+--Hybrid prediction: 2.8310183718849786
+--Real value: 3.0
+User: 18 Movie: 3257
+--Hybrid prediction: 1.700249949197318
+--Real value: 3.0
+User: 18 Movie: 3275
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 3681
+--Hybrid prediction: 3.64
+--Real value: 4.5
+User: 18 Movie: 3751
+--Hybrid prediction: 2.500249949197318
+--Real value: 3.5
+User: 18 Movie: 3785
+--Hybrid prediction: 0.9002499491973178
+--Real value: 2.0
+User: 18 Movie: 3793
+--Hybrid prediction: 3.2826026251857585
+--Real value: 4.0
+User: 18 Movie: 3949
+--Hybrid prediction: 2.495681839927454
+--Real value: 4.5
+User: 18 Movie: 4007
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 4011
+--Hybrid prediction: 4.012697065243755
+--Real value: 4.5
+User: 18 Movie: 4239
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 4327
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 4383
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 4643
+--Hybrid prediction: 1.5596766917293237
+--Real value: 3.0
+User: 18 Movie: 4963
+--Hybrid prediction: 3.9596766917293236
+--Real value: 4.0
+User: 18 Movie: 4973
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 4993
+--Hybrid prediction: 3.3742890892690665
+--Real value: 4.5
+User: 18 Movie: 4995
+--Hybrid prediction: 4.124364383180172
+--Real value: 4.5
+User: 18 Movie: 5349
+--Hybrid prediction: 3.5596766917293237
+--Real value: 4.0
+User: 18 Movie: 5445
+--Hybrid prediction: 3.2402534557004428
+--Real value: 4.0
+User: 18 Movie: 5459
+--Hybrid prediction: 3.1596766917293237
+--Real value: 2.5
+User: 18 Movie: 5481
+--Hybrid prediction: 3.7506982674076497
+--Real value: 3.0
+User: 18 Movie: 5669
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 5679
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 5903
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 5989
+--Hybrid prediction: 3.987221526037316
+--Real value: 4.0
+User: 18 Movie: 5995
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 6287
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 6333
+--Hybrid prediction: 3.9596766917293236
+--Real value: 4.0
+User: 18 Movie: 6365
+--Hybrid prediction: 3.9596766917293236
+--Real value: 3.5
+User: 18 Movie: 6373
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 6377
+--Hybrid prediction: 2.3854330270119743
+--Real value: 4.0
+User: 18 Movie: 6539
+--Hybrid prediction: 4.359676691729324
+--Real value: 4.5
+User: 18 Movie: 6709
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 6787
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 6807
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 6863
+--Hybrid prediction: 4.359676691729324
+--Real value: 3.5
+User: 18 Movie: 7147
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 7153
+--Hybrid prediction: 3.6955284043441936
+--Real value: 4.5
+User: 18 Movie: 7293
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 7317
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 7323
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 7361
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 7373
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 7753
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 7843
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 8117
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 8361
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 8641
+--Hybrid prediction: 3.4315456839092726
+--Real value: 2.5
+User: 18 Movie: 8665
+--Hybrid prediction: 3.5596766917293237
+--Real value: 4.0
+User: 18 Movie: 8917
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 8957
+--Hybrid prediction: 3.9596766917293236
+--Real value: 3.5
+User: 18 Movie: 8961
+--Hybrid prediction: 3.027221526037316
+--Real value: 3.5
+User: 18 Movie: 27689
+--Hybrid prediction: 3.4315456839092726
+--Real value: 2.5
+User: 18 Movie: 27773
+--Hybrid prediction: 3.24
+--Real value: 3.5
+User: 18 Movie: 27831
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 30793
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 31685
+--Hybrid prediction: 3.4315456839092726
+--Real value: 2.0
+User: 18 Movie: 32587
+--Hybrid prediction: 3.5596766917293237
+--Real value: 3.5
+User: 18 Movie: 33615
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 34405
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 36519
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 36529
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 37729
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 37733
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 37741
+--Hybrid prediction: 3.5596766917293237
+--Real value: 4.0
+User: 18 Movie: 38061
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 40819
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 44191
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 44199
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 44555
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 44665
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 45499
+--Hybrid prediction: 3.9596766917293236
+--Real value: 4.0
+User: 18 Movie: 45517
+--Hybrid prediction: 4.359676691729324
+--Real value: 3.5
+User: 18 Movie: 46965
+--Hybrid prediction: 3.4315456839092726
+--Real value: 1.0
+User: 18 Movie: 47491
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 49651
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 51357
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 53125
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 53129
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 55247
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 55765
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 56757
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 57669
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 58295
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 58299
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 58559
+--Hybrid prediction: 2.6960000000000006
+--Real value: 4.0
+User: 18 Movie: 59315
+--Hybrid prediction: 1.5854330270119747
+--Real value: 4.0
+User: 18 Movie: 59615
+--Hybrid prediction: 3.4315456839092726
+--Real value: 2.5
+User: 18 Movie: 63131
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 64197
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 64839
+--Hybrid prediction: 2.8400000000000003
+--Real value: 3.5
+User: 18 Movie: 64957
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 67255
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 68073
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 68157
+--Hybrid prediction: 3.24
+--Real value: 3.5
+User: 18 Movie: 68159
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 68319
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 69757
+--Hybrid prediction: 3.185433027011974
+--Real value: 4.0
+User: 18 Movie: 69951
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 71899
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 72011
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 73017
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 73321
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 73323
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 73499
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 74789
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 76077
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 76175
+--Hybrid prediction: 3.4315456839092726
+--Real value: 2.5
+User: 18 Movie: 76251
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 77561
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 78469
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 78499
+--Hybrid prediction: 3.24
+--Real value: 4.0
+User: 18 Movie: 79293
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 79695
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 80219
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 80489
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 83349
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 88129
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 89745
+--Hybrid prediction: 1.5854330270119747
+--Real value: 4.0
+User: 18 Movie: 91485
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 91529
+--Hybrid prediction: 1.5854330270119747
+--Real value: 4.0
+User: 18 Movie: 95441
+--Hybrid prediction: 3.4315456839092726
+--Real value: 2.5
+User: 18 Movie: 96655
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 98585
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 98809
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 99813
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 102125
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 102445
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 102903
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 103253
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 104241
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 104879
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 106487
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 106489
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 106839
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 109487
+--Hybrid prediction: 3.185433027011974
+--Real value: 4.5
+User: 18 Movie: 111759
+--Hybrid prediction: 3.585433027011974
+--Real value: 3.5
+User: 18 Movie: 112183
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 112421
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 115713
+--Hybrid prediction: 1.5854330270119747
+--Real value: 4.5
+User: 18 Movie: 116797
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 116823
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 119145
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 134853
+--Hybrid prediction: 3.585433027011974
+--Real value: 3.5
+User: 18 Movie: 135569
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 139385
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 140289
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 145283
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 159093
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 164179
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 166015
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 166635
+--Hybrid prediction: 2.7854330270119747
+--Real value: 4.0
+User: 18 Movie: 171023
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.0
+User: 18 Movie: 176101
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.5
+User: 18 Movie: 177593
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 180095
+--Hybrid prediction: 3.4315456839092726
+--Real value: 3.0
+User: 18 Movie: 180777
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 18 Movie: 185135
+--Hybrid prediction: 3.4315456839092726
+--Real value: 4.5
+User: 20 Movie: 13
+--Hybrid prediction: 2.5793336340191284
+--Real value: 4.0
+User: 20 Movie: 107
+--Hybrid prediction: 1.7793336340191284
+--Real value: 3.5
+User: 20 Movie: 239
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.5
+User: 20 Movie: 317
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 531
+--Hybrid prediction: 3.8321904761904766
+--Real value: 4.5
+User: 20 Movie: 551
+--Hybrid prediction: 4.1793336340191285
+--Real value: 5.0
+User: 20 Movie: 595
+--Hybrid prediction: 3.936816995370911
+--Real value: 5.0
+User: 20 Movie: 661
+--Hybrid prediction: 2.630102056706789
+--Real value: 5.0
+User: 20 Movie: 709
+--Hybrid prediction: 1.7793336340191284
+--Real value: 3.0
+User: 20 Movie: 783
+--Hybrid prediction: 3.3793336340191282
+--Real value: 3.5
+User: 20 Movie: 801
+--Hybrid prediction: 3.5106293687310828
+--Real value: 2.5
+User: 20 Movie: 837
+--Hybrid prediction: 3.3793336340191282
+--Real value: 4.0
+User: 20 Movie: 899
+--Hybrid prediction: 3.126666666666667
+--Real value: 4.0
+User: 20 Movie: 919
+--Hybrid prediction: 3.7933333333333334
+--Real value: 5.0
+User: 20 Movie: 1013
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 1015
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 1021
+--Hybrid prediction: 1.7793336340191284
+--Real value: 2.0
+User: 20 Movie: 1025
+--Hybrid prediction: 3.7933333333333334
+--Real value: 5.0
+User: 20 Movie: 1029
+--Hybrid prediction: 3.7933333333333334
+--Real value: 4.5
+User: 20 Movie: 1031
+--Hybrid prediction: 2.2301020567067886
+--Real value: 3.0
+User: 20 Movie: 1035
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.5
+User: 20 Movie: 1073
+--Hybrid prediction: 3.336768723373456
+--Real value: 5.0
+User: 20 Movie: 1097
+--Hybrid prediction: 3.736768723373456
+--Real value: 5.0
+User: 20 Movie: 1333
+--Hybrid prediction: 2.5793336340191284
+--Real value: 3.5
+User: 20 Movie: 1367
+--Hybrid prediction: 0.9793336340191283
+--Real value: 3.0
+User: 20 Movie: 1489
+--Hybrid prediction: 1.7793336340191284
+--Real value: 4.0
+User: 20 Movie: 1547
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.0
+User: 20 Movie: 1907
+--Hybrid prediction: 2.5793336340191284
+--Real value: 5.0
+User: 20 Movie: 1919
+--Hybrid prediction: 1.7793336340191284
+--Real value: 3.5
+User: 20 Movie: 1947
+--Hybrid prediction: 3.5106293687310828
+--Real value: 5.0
+User: 20 Movie: 2005
+--Hybrid prediction: 3.1933333333333334
+--Real value: 5.0
+User: 20 Movie: 2033
+--Hybrid prediction: 2.630102056706789
+--Real value: 4.0
+User: 20 Movie: 2059
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 2081
+--Hybrid prediction: 2.7485918395931237
+--Real value: 5.0
+User: 20 Movie: 2083
+--Hybrid prediction: 3.5106293687310828
+--Real value: 5.0
+User: 20 Movie: 2085
+--Hybrid prediction: 0.8111833785004516
+--Real value: 4.0
+User: 20 Movie: 2087
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.5
+User: 20 Movie: 2089
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.5
+User: 20 Movie: 2135
+--Hybrid prediction: 3.5106293687310828
+--Real value: 5.0
+User: 20 Movie: 2137
+--Hybrid prediction: 3.336768723373456
+--Real value: 4.5
+User: 20 Movie: 2141
+--Hybrid prediction: 3.7933333333333334
+--Real value: 4.5
+User: 20 Movie: 2161
+--Hybrid prediction: 3.7933333333333334
+--Real value: 4.5
+User: 20 Movie: 2167
+--Hybrid prediction: 2.5793336340191284
+--Real value: 2.0
+User: 20 Movie: 2355
+--Hybrid prediction: 2.5793336340191284
+--Real value: 4.0
+User: 20 Movie: 2565
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 2617
+--Hybrid prediction: 1.7367687233734554
+--Real value: 2.5
+User: 20 Movie: 2657
+--Hybrid prediction: 2.1367687233734554
+--Real value: 5.0
+User: 20 Movie: 2687
+--Hybrid prediction: 1.7793336340191284
+--Real value: 4.5
+User: 20 Movie: 2701
+--Hybrid prediction: 1.5037136719517976
+--Real value: 1.0
+User: 20 Movie: 2709
+--Hybrid prediction: 1.7793336340191284
+--Real value: 5.0
+User: 20 Movie: 2761
+--Hybrid prediction: 3.7933333333333334
+--Real value: 4.5
+User: 20 Movie: 2857
+--Hybrid prediction: 2.5793336340191284
+--Real value: 4.0
+User: 20 Movie: 2941
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 2987
+--Hybrid prediction: 3.736768723373456
+--Real value: 5.0
+User: 20 Movie: 3157
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.0
+User: 20 Movie: 3159
+--Hybrid prediction: 3.5106293687310828
+--Real value: 5.0
+User: 20 Movie: 3189
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 3301
+--Hybrid prediction: 1.7793336340191284
+--Real value: 3.5
+User: 20 Movie: 3397
+--Hybrid prediction: 1.7793336340191284
+--Real value: 5.0
+User: 20 Movie: 3483
+--Hybrid prediction: 1.7793336340191284
+--Real value: 3.5
+User: 20 Movie: 3535
+--Hybrid prediction: 1.97525850625979
+--Real value: 1.0
+User: 20 Movie: 3549
+--Hybrid prediction: 3.5106293687310828
+--Real value: 5.0
+User: 20 Movie: 3555
+--Hybrid prediction: 2.811183378500452
+--Real value: 3.0
+User: 20 Movie: 3565
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.0
+User: 20 Movie: 3615
+--Hybrid prediction: 3.5106293687310828
+--Real value: 2.5
+User: 20 Movie: 3623
+--Hybrid prediction: 1.863713671951798
+--Real value: 3.0
+User: 20 Movie: 3751
+--Hybrid prediction: 2.5793336340191284
+--Real value: 5.0
+User: 20 Movie: 3753
+--Hybrid prediction: 2.531111111111111
+--Real value: 3.0
+User: 20 Movie: 3755
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.5
+User: 20 Movie: 3793
+--Hybrid prediction: 2.9750196433409024
+--Real value: 3.5
+User: 20 Movie: 3897
+--Hybrid prediction: 3.051111111111111
+--Real value: 4.5
+User: 20 Movie: 3967
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.5
+User: 20 Movie: 3977
+--Hybrid prediction: 2.079937229975016
+--Real value: 3.5
+User: 20 Movie: 3999
+--Hybrid prediction: 3.5106293687310828
+--Real value: 2.0
+User: 20 Movie: 4019
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 4025
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 4027
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 4029
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 4039
+--Hybrid prediction: 3.5106293687310828
+--Real value: 5.0
+User: 20 Movie: 4161
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 4299
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 4367
+--Hybrid prediction: 3.5106293687310828
+--Real value: 0.5
+User: 20 Movie: 4369
+--Hybrid prediction: 3.5106293687310828
+--Real value: 2.0
+User: 20 Movie: 4447
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.0
+User: 20 Movie: 4449
+--Hybrid prediction: 3.5106293687310828
+--Real value: 2.0
+User: 20 Movie: 4519
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 4641
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.0
+User: 20 Movie: 4643
+--Hybrid prediction: 1.8014270432178006
+--Real value: 3.0
+User: 20 Movie: 4783
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 4821
+--Hybrid prediction: 3.5106293687310828
+--Real value: 0.5
+User: 20 Movie: 4865
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.0
+User: 20 Movie: 4901
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 4979
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 4993
+--Hybrid prediction: 3.8600394407575433
+--Real value: 5.0
+User: 20 Movie: 4995
+--Hybrid prediction: 3.8529718775257935
+--Real value: 5.0
+User: 20 Movie: 5013
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.5
+User: 20 Movie: 5015
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 5103
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 5171
+--Hybrid prediction: 3.5106293687310828
+--Real value: 2.0
+User: 20 Movie: 5293
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 5299
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 5313
+--Hybrid prediction: 3.5106293687310828
+--Real value: 0.5
+User: 20 Movie: 5349
+--Hybrid prediction: 3.801427043217801
+--Real value: 3.0
+User: 20 Movie: 5419
+--Hybrid prediction: 3.5106293687310828
+--Real value: 0.5
+User: 20 Movie: 5445
+--Hybrid prediction: 3.6115276167127295
+--Real value: 4.5
+User: 20 Movie: 5463
+--Hybrid prediction: 3.5106293687310828
+--Real value: 2.0
+User: 20 Movie: 5481
+--Hybrid prediction: 4.048639095086603
+--Real value: 1.0
+User: 20 Movie: 5507
+--Hybrid prediction: 1.3486390950866032
+--Real value: 0.5
+User: 20 Movie: 5679
+--Hybrid prediction: 3.5106293687310828
+--Real value: 3.5
+User: 20 Movie: 5693
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 5785
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 5989
+--Hybrid prediction: 3.6529718775257933
+--Real value: 4.5
+User: 20 Movie: 5991
+--Hybrid prediction: 4.601427043217801
+--Real value: 5.0
+User: 20 Movie: 6143
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 6157
+--Hybrid prediction: 3.5106293687310828
+--Real value: 2.0
+User: 20 Movie: 6297
+--Hybrid prediction: 3.5106293687310828
+--Real value: 4.0
+User: 20 Movie: 6333
+--Hybrid prediction: 4.201427043217802
+--Real value: 4.0
+User: 20 Movie: 6345
+--Hybrid prediction: 3.5106293687310828
+--Real value: 5.0
+User: 20 Movie: 6365
+--Hybrid prediction: 4.201427043217802
+--Real value: 4.0
+
+
+Uniform Hybrid Similarity Criterion: Pearson
+User: 2 Movie: 333
+--Hybrid prediction: 3.832956898481977
+--Real value: 4.0
+User: 2 Movie: 58559
+--Hybrid prediction: 3.3632508347744468
+--Real value: 4.5
+User: 2 Movie: 68157
+--Hybrid prediction: 4.057699121706131
+--Real value: 4.5
+User: 2 Movie: 71535
+--Hybrid prediction: 3.9193787892100866
+--Real value: 3.0
+User: 2 Movie: 77455
+--Hybrid prediction: 3.55769912170613
+--Real value: 3.0
+User: 2 Movie: 80489
+--Hybrid prediction: 3.9193787892100866
+--Real value: 4.5
+User: 2 Movie: 86345
+--Hybrid prediction: 3.9193787892100866
+--Real value: 4.0
+User: 2 Movie: 91529
+--Hybrid prediction: 2.2996701726518225
+--Real value: 3.5
+User: 2 Movie: 109487
+--Hybrid prediction: 4.2996701726518225
+--Real value: 3.0
+User: 2 Movie: 115713
+--Hybrid prediction: 2.2996701726518225
+--Real value: 3.5
+User: 4 Movie: 21
+--Hybrid prediction: 3.7984344243933
+--Real value: 3.0
+User: 4 Movie: 45
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 47
+--Hybrid prediction: 4.356491843243046
+--Real value: 2.0
+User: 4 Movie: 125
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 171
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 215
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 235
+--Hybrid prediction: 3.968326156714454
+--Real value: 2.0
+User: 4 Movie: 247
+--Hybrid prediction: 4.788400119075975
+--Real value: 3.0
+User: 4 Movie: 265
+--Hybrid prediction: 2.7984344243933004
+--Real value: 5.0
+User: 4 Movie: 319
+--Hybrid prediction: 1.124634385957033
+--Real value: 5.0
+User: 4 Movie: 345
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 351
+--Hybrid prediction: 2.124634385957033
+--Real value: 3.0
+User: 4 Movie: 357
+--Hybrid prediction: 2.9384302015368915
+--Real value: 3.0
+User: 4 Movie: 417
+--Hybrid prediction: 3.2795327117522914
+--Real value: 2.0
+User: 4 Movie: 441
+--Hybrid prediction: 3.558420238425815
+--Real value: 1.0
+User: 4 Movie: 457
+--Hybrid prediction: 4.268344054238549
+--Real value: 5.0
+User: 4 Movie: 475
+--Hybrid prediction: 4.788400119075975
+--Real value: 5.0
+User: 4 Movie: 509
+--Hybrid prediction: 3.2795327117522914
+--Real value: 1.0
+User: 4 Movie: 539
+--Hybrid prediction: 3.124634385957033
+--Real value: 1.0
+User: 4 Movie: 553
+--Hybrid prediction: 4.558420238425815
+--Real value: 2.0
+User: 4 Movie: 593
+--Hybrid prediction: 4.635874804579619
+--Real value: 5.0
+User: 4 Movie: 595
+--Hybrid prediction: 4.024310873569577
+--Real value: 3.0
+User: 4 Movie: 599
+--Hybrid prediction: 3.2795327117522914
+--Real value: 2.0
+User: 4 Movie: 759
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 899
+--Hybrid prediction: 3.3464255570773815
+--Real value: 4.0
+User: 4 Movie: 919
+--Hybrid prediction: 4.558420238425815
+--Real value: 5.0
+User: 4 Movie: 937
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 1025
+--Hybrid prediction: 4.558420238425815
+--Real value: 4.0
+User: 4 Movie: 1057
+--Hybrid prediction: 3.124634385957033
+--Real value: 3.0
+User: 4 Movie: 1073
+--Hybrid prediction: 4.475532223160401
+--Real value: 4.0
+User: 4 Movie: 1077
+--Hybrid prediction: 3.124634385957033
+--Real value: 5.0
+User: 4 Movie: 1079
+--Hybrid prediction: 4.105910050897047
+--Real value: 2.0
+User: 4 Movie: 1103
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 1179
+--Hybrid prediction: 2.124634385957033
+--Real value: 4.0
+User: 4 Movie: 1183
+--Hybrid prediction: 1.29431507285718
+--Real value: 1.0
+User: 4 Movie: 1197
+--Hybrid prediction: 4.5050104051004
+--Real value: 5.0
+User: 4 Movie: 1199
+--Hybrid prediction: 3.2795327117522914
+--Real value: 2.0
+User: 4 Movie: 1203
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 1211
+--Hybrid prediction: 3.2795327117522914
+--Real value: 1.0
+User: 4 Movie: 1213
+--Hybrid prediction: 4.552164010662489
+--Real value: 4.0
+User: 4 Movie: 1219
+--Hybrid prediction: 3.753028526809467
+--Real value: 4.0
+User: 4 Movie: 1225
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 1259
+--Hybrid prediction: 3.5562528952329533
+--Real value: 4.0
+User: 4 Movie: 1265
+--Hybrid prediction: 3.7917009278119727
+--Real value: 4.0
+User: 4 Movie: 1279
+--Hybrid prediction: 3.2795327117522914
+--Real value: 2.0
+User: 4 Movie: 1283
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 1291
+--Hybrid prediction: 4.406945992791509
+--Real value: 4.0
+User: 4 Movie: 1391
+--Hybrid prediction: 1.8328314143751676
+--Real value: 1.0
+User: 4 Movie: 1449
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 1517
+--Hybrid prediction: 3.7248566940542833
+--Real value: 4.0
+User: 4 Movie: 1597
+--Hybrid prediction: 2.7263704813666814
+--Real value: 1.0
+User: 4 Movie: 1617
+--Hybrid prediction: 4.108388826407389
+--Real value: 2.0
+User: 4 Movie: 1641
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 1719
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 1733
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 1883
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 1885
+--Hybrid prediction: 2.124634385957033
+--Real value: 3.0
+User: 4 Movie: 1895
+--Hybrid prediction: 2.124634385957033
+--Real value: 4.0
+User: 4 Movie: 1907
+--Hybrid prediction: 3.124634385957033
+--Real value: 3.0
+User: 4 Movie: 1923
+--Hybrid prediction: 3.0117890273109076
+--Real value: 3.0
+User: 4 Movie: 1947
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 1967
+--Hybrid prediction: 4.069429516925023
+--Real value: 5.0
+User: 4 Movie: 2019
+--Hybrid prediction: 4.6049107051062155
+--Real value: 2.0
+User: 4 Movie: 2109
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 2145
+--Hybrid prediction: 2.5142665305590697
+--Real value: 3.0
+User: 4 Movie: 2203
+--Hybrid prediction: 3.124634385957033
+--Real value: 4.0
+User: 4 Movie: 2351
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 2359
+--Hybrid prediction: 4.105910050897047
+--Real value: 4.0
+User: 4 Movie: 2395
+--Hybrid prediction: 4.558420238425815
+--Real value: 3.0
+User: 4 Movie: 2467
+--Hybrid prediction: 3.124634385957033
+--Real value: 4.0
+User: 4 Movie: 2571
+--Hybrid prediction: 4.6794432572622275
+--Real value: 1.0
+User: 4 Movie: 2583
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 2599
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 2683
+--Hybrid prediction: 2.5443290492469934
+--Real value: 4.0
+User: 4 Movie: 2763
+--Hybrid prediction: 4.105910050897047
+--Real value: 1.0
+User: 4 Movie: 2791
+--Hybrid prediction: 2.124634385957033
+--Real value: 5.0
+User: 4 Movie: 2843
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 2921
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 2959
+--Hybrid prediction: 4.075298159981504
+--Real value: 2.0
+User: 4 Movie: 2973
+--Hybrid prediction: 3.2795327117522914
+--Real value: 2.0
+User: 4 Movie: 2997
+--Hybrid prediction: 3.968326156714454
+--Real value: 4.0
+User: 4 Movie: 3033
+--Hybrid prediction: 3.2957974863580333
+--Real value: 4.0
+User: 4 Movie: 3079
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 3083
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 3175
+--Hybrid prediction: 4.105910050897047
+--Real value: 1.0
+User: 4 Movie: 3255
+--Hybrid prediction: 2.124634385957033
+--Real value: 4.0
+User: 4 Movie: 3317
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 3365
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 3481
+--Hybrid prediction: 2.124634385957033
+--Real value: 2.0
+User: 4 Movie: 3489
+--Hybrid prediction: 2.7851709634923285
+--Real value: 1.0
+User: 4 Movie: 3591
+--Hybrid prediction: 2.124634385957033
+--Real value: 1.0
+User: 4 Movie: 3809
+--Hybrid prediction: 3.4755322231604007
+--Real value: 3.0
+User: 4 Movie: 3851
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 3897
+--Hybrid prediction: 3.920972642662076
+--Real value: 4.0
+User: 4 Movie: 3911
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 3967
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 4021
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 4027
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 4029
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 4033
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 4121
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 4239
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 4273
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 4347
+--Hybrid prediction: 3.2795327117522914
+--Real value: 4.0
+User: 4 Movie: 4381
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 4641
+--Hybrid prediction: 3.2795327117522914
+--Real value: 1.0
+User: 4 Movie: 4741
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 4765
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 4 Movie: 4881
+--Hybrid prediction: 3.2795327117522914
+--Real value: 3.0
+User: 4 Movie: 4967
+--Hybrid prediction: 3.2795327117522914
+--Real value: 5.0
+User: 6 Movie: 3
+--Hybrid prediction: 3.6366867706122292
+--Real value: 5.0
+User: 6 Movie: 5
+--Hybrid prediction: 3.343712014912379
+--Real value: 5.0
+User: 6 Movie: 7
+--Hybrid prediction: 2.204779271039879
+--Real value: 4.0
+User: 6 Movie: 11
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 13
+--Hybrid prediction: 3.2047792710398784
+--Real value: 3.0
+User: 6 Movie: 15
+--Hybrid prediction: 2.204779271039879
+--Real value: 4.0
+User: 6 Movie: 17
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 19
+--Hybrid prediction: 2.204779271039879
+--Real value: 2.0
+User: 6 Movie: 21
+--Hybrid prediction: 3.897226648829558
+--Real value: 2.0
+User: 6 Movie: 25
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 27
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 31
+--Hybrid prediction: 0.7593534686172723
+--Real value: 3.0
+User: 6 Movie: 41
+--Hybrid prediction: 3.0118618298212856
+--Real value: 4.0
+User: 6 Movie: 43
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 45
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 47
+--Hybrid prediction: 3.93120732131195
+--Real value: 4.0
+User: 6 Movie: 61
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 65
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 79
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 87
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 89
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 93
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 95
+--Hybrid prediction: 3.1593695429125614
+--Real value: 4.0
+User: 6 Movie: 105
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 113
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 135
+--Hybrid prediction: 3.2047792710398784
+--Real value: 3.0
+User: 6 Movie: 141
+--Hybrid prediction: 1.2047792710398788
+--Real value: 4.0
+User: 6 Movie: 145
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 151
+--Hybrid prediction: 4.492603436162571
+--Real value: 4.0
+User: 6 Movie: 153
+--Hybrid prediction: 2.9470839461443576
+--Real value: 3.0
+User: 6 Movie: 159
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 161
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 163
+--Hybrid prediction: 4.492603436162571
+--Real value: 3.0
+User: 6 Movie: 165
+--Hybrid prediction: 3.439296060925007
+--Real value: 3.0
+User: 6 Movie: 171
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 177
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 179
+--Hybrid prediction: 3.343712014912379
+--Real value: 1.0
+User: 6 Movie: 181
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 185
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 189
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 191
+--Hybrid prediction: 3.343712014912379
+--Real value: 2.0
+User: 6 Movie: 195
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 201
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 205
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 207
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 209
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 217
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 219
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 225
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 231
+--Hybrid prediction: 3.6175074791792454
+--Real value: 3.0
+User: 6 Movie: 237
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 239
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 243
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 251
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 253
+--Hybrid prediction: 3.2200490468813827
+--Real value: 3.0
+User: 6 Movie: 257
+--Hybrid prediction: 3.343712014912379
+--Real value: 5.0
+User: 6 Movie: 261
+--Hybrid prediction: 3.897226648829558
+--Real value: 4.0
+User: 6 Movie: 265
+--Hybrid prediction: 2.897226648829558
+--Real value: 3.0
+User: 6 Movie: 267
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 271
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 273
+--Hybrid prediction: 1.2047792710398788
+--Real value: 3.0
+User: 6 Movie: 277
+--Hybrid prediction: 3.343712014912379
+--Real value: 5.0
+User: 6 Movie: 279
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 281
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 289
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 291
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 293
+--Hybrid prediction: 3.4140021014486286
+--Real value: 3.0
+User: 6 Movie: 303
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 313
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 315
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 317
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 327
+--Hybrid prediction: 3.343712014912379
+--Real value: 1.0
+User: 6 Movie: 329
+--Hybrid prediction: 2.204779271039879
+--Real value: 4.0
+User: 6 Movie: 333
+--Hybrid prediction: 3.6175074791792454
+--Real value: 5.0
+User: 6 Movie: 337
+--Hybrid prediction: 3.343712014912379
+--Real value: 5.0
+User: 6 Movie: 339
+--Hybrid prediction: 3.2047792710398784
+--Real value: 4.0
+User: 6 Movie: 343
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 347
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 349
+--Hybrid prediction: 4.061634424630344
+--Real value: 5.0
+User: 6 Movie: 351
+--Hybrid prediction: 2.204779271039879
+--Real value: 4.0
+User: 6 Movie: 353
+--Hybrid prediction: 4.926875632819805
+--Real value: 4.0
+User: 6 Movie: 355
+--Hybrid prediction: 1.2307143666806681
+--Real value: 4.0
+User: 6 Movie: 357
+--Hybrid prediction: 3.090911330139237
+--Real value: 3.0
+User: 6 Movie: 359
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 361
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 367
+--Hybrid prediction: 4.194921363084149
+--Real value: 4.0
+User: 6 Movie: 371
+--Hybrid prediction: 3.0118618298212856
+--Real value: 3.0
+User: 6 Movie: 377
+--Hybrid prediction: 3.652704218601725
+--Real value: 5.0
+User: 6 Movie: 381
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 383
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 405
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 415
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 419
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 435
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 437
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 445
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 455
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 457
+--Hybrid prediction: 4.5923392952206665
+--Real value: 5.0
+User: 6 Movie: 469
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 475
+--Hybrid prediction: 4.897226648829558
+--Real value: 4.0
+User: 6 Movie: 477
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 485
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 489
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 491
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 493
+--Hybrid prediction: 3.1593695429125614
+--Real value: 3.0
+User: 6 Movie: 497
+--Hybrid prediction: 3.2047792710398784
+--Real value: 3.0
+User: 6 Movie: 505
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 509
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 515
+--Hybrid prediction: 2.897226648829558
+--Real value: 4.0
+User: 6 Movie: 527
+--Hybrid prediction: 3.249115567107892
+--Real value: 3.0
+User: 6 Movie: 531
+--Hybrid prediction: 3.897226648829558
+--Real value: 3.0
+User: 6 Movie: 537
+--Hybrid prediction: 1.2047792710398788
+--Real value: 3.0
+User: 6 Movie: 539
+--Hybrid prediction: 3.2047792710398784
+--Real value: 3.0
+User: 6 Movie: 543
+--Hybrid prediction: 3.6366867706122292
+--Real value: 3.0
+User: 6 Movie: 553
+--Hybrid prediction: 4.492603436162571
+--Real value: 5.0
+User: 6 Movie: 569
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 575
+--Hybrid prediction: 2.204779271039879
+--Real value: 3.0
+User: 6 Movie: 587
+--Hybrid prediction: 2.3950827236719245
+--Real value: 5.0
+User: 6 Movie: 589
+--Hybrid prediction: 4.215463194182678
+--Real value: 3.0
+User: 6 Movie: 593
+--Hybrid prediction: 4.791858506169304
+--Real value: 4.0
+User: 6 Movie: 595
+--Hybrid prediction: 3.6842637176272897
+--Real value: 5.0
+User: 6 Movie: 597
+--Hybrid prediction: 3.1748226090338667
+--Real value: 4.0
+User: 6 Movie: 609
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 631
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 637
+--Hybrid prediction: 2.204779271039879
+--Real value: 4.0
+User: 6 Movie: 647
+--Hybrid prediction: 0.7593534686172723
+--Real value: 4.0
+User: 6 Movie: 667
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 697
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 709
+--Hybrid prediction: 2.204779271039879
+--Real value: 5.0
+User: 6 Movie: 711
+--Hybrid prediction: 3.2047792710398784
+--Real value: 4.0
+User: 6 Movie: 719
+--Hybrid prediction: 2.204779271039879
+--Real value: 2.0
+User: 6 Movie: 747
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 765
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 775
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 783
+--Hybrid prediction: 4.204779271039879
+--Real value: 5.0
+User: 6 Movie: 795
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 799
+--Hybrid prediction: 3.2047792710398784
+--Real value: 3.0
+User: 6 Movie: 801
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 835
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 837
+--Hybrid prediction: 4.204779271039879
+--Real value: 3.0
+User: 6 Movie: 839
+--Hybrid prediction: 1.2047792710398788
+--Real value: 3.0
+User: 6 Movie: 867
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 881
+--Hybrid prediction: 1.2047792710398788
+--Real value: 3.0
+User: 6 Movie: 891
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 979
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 981
+--Hybrid prediction: 3.343712014912379
+--Real value: 3.0
+User: 6 Movie: 991
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 999
+--Hybrid prediction: 3.343712014912379
+--Real value: 2.0
+User: 6 Movie: 1049
+--Hybrid prediction: 3.6175074791792454
+--Real value: 5.0
+User: 6 Movie: 1061
+--Hybrid prediction: 3.343712014912379
+--Real value: 4.0
+User: 6 Movie: 1073
+--Hybrid prediction: 4.636686770612229
+--Real value: 3.0
+User: 8 Movie: 11
+--Hybrid prediction: 3.2714333326198934
+--Real value: 4.0
+User: 8 Movie: 21
+--Hybrid prediction: 4.251504611000568
+--Real value: 4.0
+User: 8 Movie: 39
+--Hybrid prediction: 3.251504611000568
+--Real value: 3.0
+User: 8 Movie: 47
+--Hybrid prediction: 4.084689285688598
+--Real value: 4.0
+User: 8 Movie: 141
+--Hybrid prediction: 0.7726297727378875
+--Real value: 3.0
+User: 8 Movie: 153
+--Hybrid prediction: 2.730400102476159
+--Real value: 2.0
+User: 8 Movie: 185
+--Hybrid prediction: 1.7726297727378875
+--Real value: 5.0
+User: 8 Movie: 231
+--Hybrid prediction: 3.5165475774229815
+--Real value: 4.0
+User: 8 Movie: 235
+--Hybrid prediction: 3.3907284820272667
+--Real value: 3.0
+User: 8 Movie: 253
+--Hybrid prediction: 3.2912963944763365
+--Real value: 5.0
+User: 8 Movie: 317
+--Hybrid prediction: 3.2714333326198934
+--Real value: 3.0
+User: 8 Movie: 339
+--Hybrid prediction: 2.7726297727378872
+--Real value: 3.0
+User: 8 Movie: 357
+--Hybrid prediction: 2.73761713744001
+--Real value: 5.0
+User: 8 Movie: 367
+--Hybrid prediction: 4.091958831354441
+--Real value: 3.0
+User: 8 Movie: 377
+--Hybrid prediction: 3.4056475131645465
+--Real value: 4.0
+User: 8 Movie: 457
+--Hybrid prediction: 4.376428351782906
+--Real value: 3.0
+User: 8 Movie: 527
+--Hybrid prediction: 4.1033119489882575
+--Real value: 5.0
+User: 8 Movie: 539
+--Hybrid prediction: 2.7726297727378872
+--Real value: 3.0
+User: 8 Movie: 587
+--Hybrid prediction: 2.463756713051171
+--Real value: 3.0
+User: 8 Movie: 593
+--Hybrid prediction: 4.422075081843027
+--Real value: 4.0
+User: 8 Movie: 597
+--Hybrid prediction: 3.2513750507827295
+--Real value: 3.0
+User: 10 Movie: 597
+--Hybrid prediction: 2.062801135114091
+--Real value: 3.5
+User: 10 Movie: 1247
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 1307
+--Hybrid prediction: 2.169343275646697
+--Real value: 3.0
+User: 10 Movie: 1907
+--Hybrid prediction: 2.169343275646697
+--Real value: 4.0
+User: 10 Movie: 2571
+--Hybrid prediction: 3.2586588080396277
+--Real value: 0.5
+User: 10 Movie: 2671
+--Hybrid prediction: 4.0599088974999225
+--Real value: 3.5
+User: 10 Movie: 2959
+--Hybrid prediction: 2.8906977351274055
+--Real value: 0.5
+User: 10 Movie: 4447
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.5
+User: 10 Movie: 4993
+--Hybrid prediction: 3.2647468123653445
+--Real value: 4.0
+User: 10 Movie: 4995
+--Hybrid prediction: 3.953022119464867
+--Real value: 4.0
+User: 10 Movie: 5377
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 5943
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 5957
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 6155
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 6377
+--Hybrid prediction: 2.3370881287380096
+--Real value: 3.5
+User: 10 Movie: 6535
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 7149
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 7151
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 7153
+--Hybrid prediction: 3.619882932043825
+--Real value: 4.0
+User: 10 Movie: 7169
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.5
+User: 10 Movie: 7293
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 7375
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 7451
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 8529
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 8533
+--Hybrid prediction: 3.3069791460343505
+--Real value: 5.0
+User: 10 Movie: 8665
+--Hybrid prediction: 3.059908897499922
+--Real value: 3.5
+User: 10 Movie: 8869
+--Hybrid prediction: 3.3069791460343505
+--Real value: 5.0
+User: 10 Movie: 8961
+--Hybrid prediction: 2.7151962825002354
+--Real value: 2.5
+User: 10 Movie: 8969
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 30749
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 31433
+--Hybrid prediction: 3.3069791460343505
+--Real value: 2.5
+User: 10 Movie: 31685
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.5
+User: 10 Movie: 33145
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 33679
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 40629
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 40819
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 41285
+--Hybrid prediction: 3.3069791460343505
+--Real value: 2.5
+User: 10 Movie: 47099
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 51705
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.5
+User: 10 Movie: 56367
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 56949
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 58047
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 58559
+--Hybrid prediction: 1.7686955706628846
+--Real value: 4.5
+User: 10 Movie: 59333
+--Hybrid prediction: 3.3069791460343505
+--Real value: 2.5
+User: 10 Movie: 59421
+--Hybrid prediction: 3.3069791460343505
+--Real value: 2.0
+User: 10 Movie: 60397
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 63113
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 64969
+--Hybrid prediction: 3.3069791460343505
+--Real value: 0.5
+User: 10 Movie: 66203
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 70183
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 70293
+--Hybrid prediction: 3.3069791460343505
+--Real value: 0.5
+User: 10 Movie: 71579
+--Hybrid prediction: 3.3069791460343505
+--Real value: 5.0
+User: 10 Movie: 72011
+--Hybrid prediction: 3.3069791460343505
+--Real value: 2.5
+User: 10 Movie: 72407
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 72737
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 73017
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 77841
+--Hybrid prediction: 3.3069791460343505
+--Real value: 2.0
+User: 10 Movie: 79091
+--Hybrid prediction: 3.3069791460343505
+--Real value: 5.0
+User: 10 Movie: 80549
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 81845
+--Hybrid prediction: 3.3069791460343505
+--Real value: 5.0
+User: 10 Movie: 81847
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 82167
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 82499
+--Hybrid prediction: 3.3069791460343505
+--Real value: 2.0
+User: 10 Movie: 88163
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 91529
+--Hybrid prediction: 1.3370881287380096
+--Real value: 5.0
+User: 10 Movie: 92259
+--Hybrid prediction: 3.3069791460343505
+--Real value: 5.0
+User: 10 Movie: 95167
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 95449
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 95543
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 96079
+--Hybrid prediction: 3.3069791460343505
+--Real value: 5.0
+User: 10 Movie: 98203
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.0
+User: 10 Movie: 103335
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 103339
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 105211
+--Hybrid prediction: 3.3069791460343505
+--Real value: 2.5
+User: 10 Movie: 106489
+--Hybrid prediction: 3.3069791460343505
+--Real value: 3.5
+User: 10 Movie: 107141
+--Hybrid prediction: 3.3069791460343505
+--Real value: 2.0
+User: 10 Movie: 109487
+--Hybrid prediction: 3.3370881287380096
+--Real value: 0.5
+User: 10 Movie: 109853
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 10 Movie: 113275
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.5
+User: 10 Movie: 119145
+--Hybrid prediction: 3.3069791460343505
+--Real value: 1.0
+User: 10 Movie: 137595
+--Hybrid prediction: 3.3069791460343505
+--Real value: 4.0
+User: 12 Movie: 39
+--Hybrid prediction: 3.4995075757575753
+--Real value: 4.0
+User: 12 Movie: 261
+--Hybrid prediction: 4.499507575757575
+--Real value: 4.5
+User: 12 Movie: 277
+--Hybrid prediction: 3.9440059821925426
+--Real value: 3.0
+User: 12 Movie: 357
+--Hybrid prediction: 3.6902466126792497
+--Real value: 3.5
+User: 12 Movie: 543
+--Hybrid prediction: 4.306849232285372
+--Real value: 3.5
+User: 12 Movie: 1265
+--Hybrid prediction: 4.68084719599609
+--Real value: 3.5
+User: 12 Movie: 1357
+--Hybrid prediction: 3.9440059821925426
+--Real value: 5.0
+User: 12 Movie: 1405
+--Hybrid prediction: 3.9471751895716087
+--Real value: 3.0
+User: 12 Movie: 1721
+--Hybrid prediction: 4.871666666666666
+--Real value: 5.0
+User: 12 Movie: 2421
+--Hybrid prediction: 3.9440059821925426
+--Real value: 3.0
+User: 12 Movie: 2485
+--Hybrid prediction: 4.145037838230304
+--Real value: 5.0
+User: 12 Movie: 2581
+--Hybrid prediction: 4.145037838230304
+--Real value: 5.0
+User: 12 Movie: 2717
+--Hybrid prediction: 3.4587915619777485
+--Real value: 5.0
+User: 12 Movie: 3967
+--Hybrid prediction: 3.9440059821925426
+--Real value: 4.5
+User: 12 Movie: 8533
+--Hybrid prediction: 3.9440059821925426
+--Real value: 5.0
+User: 12 Movie: 40629
+--Hybrid prediction: 3.9440059821925426
+--Real value: 5.0
+User: 14 Movie: 7
+--Hybrid prediction: 2.084376458614377
+--Real value: 3.0
+User: 14 Movie: 19
+--Hybrid prediction: 2.084376458614377
+--Real value: 1.0
+User: 14 Movie: 25
+--Hybrid prediction: 2.9690639532070353
+--Real value: 4.0
+User: 14 Movie: 39
+--Hybrid prediction: 2.647908882260376
+--Real value: 3.0
+User: 14 Movie: 47
+--Hybrid prediction: 3.590730146028155
+--Real value: 5.0
+User: 14 Movie: 95
+--Hybrid prediction: 3.1672646154214306
+--Real value: 5.0
+User: 14 Movie: 105
+--Hybrid prediction: 2.9690639532070353
+--Real value: 3.0
+User: 14 Movie: 153
+--Hybrid prediction: 2.5707922578267137
+--Real value: 2.0
+User: 14 Movie: 193
+--Hybrid prediction: 2.9690639532070353
+--Real value: 3.0
+User: 14 Movie: 231
+--Hybrid prediction: 3.097120581830345
+--Real value: 3.0
+User: 14 Movie: 337
+--Hybrid prediction: 2.9690639532070353
+--Real value: 5.0
+User: 14 Movie: 339
+--Hybrid prediction: 3.084376458614377
+--Real value: 4.0
+User: 14 Movie: 351
+--Hybrid prediction: 2.084376458614377
+--Real value: 3.0
+User: 14 Movie: 367
+--Hybrid prediction: 3.51842637123396
+--Real value: 1.0
+User: 14 Movie: 377
+--Hybrid prediction: 3.354260861376322
+--Real value: 3.0
+User: 14 Movie: 383
+--Hybrid prediction: 2.9690639532070353
+--Real value: 4.0
+User: 14 Movie: 455
+--Hybrid prediction: 2.084376458614377
+--Real value: 3.0
+User: 14 Movie: 477
+--Hybrid prediction: 2.9690639532070353
+--Real value: 4.0
+User: 14 Movie: 491
+--Hybrid prediction: 2.9690639532070353
+--Real value: 3.0
+User: 14 Movie: 509
+--Hybrid prediction: 2.9690639532070353
+--Real value: 5.0
+User: 14 Movie: 527
+--Hybrid prediction: 3.7087111905503773
+--Real value: 3.0
+User: 14 Movie: 539
+--Hybrid prediction: 3.084376458614377
+--Real value: 4.0
+User: 14 Movie: 553
+--Hybrid prediction: 4.349908499127067
+--Real value: 4.0
+User: 14 Movie: 593
+--Hybrid prediction: 4.21768075136963
+--Real value: 4.0
+User: 14 Movie: 597
+--Hybrid prediction: 2.7571089030327043
+--Real value: 3.0
+User: 16 Movie: 47
+--Hybrid prediction: 3.5032468411159394
+--Real value: 3.5
+User: 16 Movie: 111
+--Hybrid prediction: 3.5353570353942363
+--Real value: 4.5
+User: 16 Movie: 293
+--Hybrid prediction: 2.8633387146361473
+--Real value: 4.0
+User: 16 Movie: 319
+--Hybrid prediction: 1.121089409784906
+--Real value: 4.0
+User: 16 Movie: 527
+--Hybrid prediction: 3.418245628395976
+--Real value: 4.0
+User: 16 Movie: 541
+--Hybrid prediction: 3.400599228014738
+--Real value: 4.5
+User: 16 Movie: 593
+--Hybrid prediction: 4.198434648801024
+--Real value: 3.0
+User: 16 Movie: 745
+--Hybrid prediction: 4.1021721073149715
+--Real value: 4.0
+User: 16 Movie: 849
+--Hybrid prediction: 2.694103750345154
+--Real value: 4.0
+User: 16 Movie: 913
+--Hybrid prediction: 4.802172107314972
+--Real value: 4.0
+User: 16 Movie: 923
+--Hybrid prediction: 4.8112706917891375
+--Real value: 3.5
+User: 16 Movie: 1089
+--Hybrid prediction: 3.3894737260833634
+--Real value: 4.0
+User: 16 Movie: 1147
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 1193
+--Hybrid prediction: 3.948886275527984
+--Real value: 4.0
+User: 16 Movie: 1197
+--Hybrid prediction: 3.7986502647263682
+--Real value: 4.0
+User: 16 Movie: 1199
+--Hybrid prediction: 3.1128923458289064
+--Real value: 5.0
+User: 16 Movie: 1201
+--Hybrid prediction: 4.535357035394237
+--Real value: 3.0
+User: 16 Movie: 1203
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 1207
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 1213
+--Hybrid prediction: 4.086047266818591
+--Real value: 3.5
+User: 16 Movie: 1219
+--Hybrid prediction: 3.229977153241781
+--Real value: 3.0
+User: 16 Movie: 1223
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 1247
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 1261
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 1267
+--Hybrid prediction: 3.1210894097849056
+--Real value: 4.0
+User: 16 Movie: 1281
+--Hybrid prediction: 3.1128923458289064
+--Real value: 3.0
+User: 16 Movie: 1299
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 1617
+--Hybrid prediction: 3.6018367001791205
+--Real value: 3.5
+User: 16 Movie: 2019
+--Hybrid prediction: 3.8875338685524126
+--Real value: 4.0
+User: 16 Movie: 2109
+--Hybrid prediction: 3.1128923458289064
+--Real value: 3.5
+User: 16 Movie: 2329
+--Hybrid prediction: 3.894284111393162
+--Real value: 3.5
+User: 16 Movie: 2427
+--Hybrid prediction: 4.752388913647222
+--Real value: 1.5
+User: 16 Movie: 2571
+--Hybrid prediction: 3.9968667291973885
+--Real value: 3.5
+User: 16 Movie: 2641
+--Hybrid prediction: 3.646434883670487
+--Real value: 3.0
+User: 16 Movie: 2707
+--Hybrid prediction: 3.1128923458289064
+--Real value: 3.5
+User: 16 Movie: 2723
+--Hybrid prediction: 4.802172107314972
+--Real value: 3.5
+User: 16 Movie: 2959
+--Hybrid prediction: 3.6061361913516947
+--Real value: 3.5
+User: 16 Movie: 3429
+--Hybrid prediction: 3.1128923458289064
+--Real value: 3.5
+User: 16 Movie: 3683
+--Hybrid prediction: 3.1210894097849056
+--Real value: 4.0
+User: 16 Movie: 3741
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 3949
+--Hybrid prediction: 2.350084482882628
+--Real value: 4.0
+User: 16 Movie: 4011
+--Hybrid prediction: 4.629835493497794
+--Real value: 3.0
+User: 16 Movie: 4973
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 4993
+--Hybrid prediction: 4.092127857268366
+--Real value: 3.5
+User: 16 Movie: 5971
+--Hybrid prediction: 2.515556931646664
+--Real value: 4.0
+User: 16 Movie: 7099
+--Hybrid prediction: 4.535357035394237
+--Real value: 3.5
+User: 16 Movie: 7153
+--Hybrid prediction: 4.043199666860518
+--Real value: 3.5
+User: 16 Movie: 7361
+--Hybrid prediction: 3.1128923458289064
+--Real value: 3.5
+User: 16 Movie: 27611
+--Hybrid prediction: 3.1128923458289064
+--Real value: 4.0
+User: 16 Movie: 27773
+--Hybrid prediction: 3.5353570353942363
+--Real value: 4.0
+User: 16 Movie: 58559
+--Hybrid prediction: 2.778337755119132
+--Real value: 4.5
+User: 16 Movie: 60069
+--Hybrid prediction: 2.6096254670418824
+--Real value: 4.0
+User: 16 Movie: 78499
+--Hybrid prediction: 3.5353570353942363
+--Real value: 4.5
+User: 16 Movie: 91529
+--Hybrid prediction: 1.4695390358033937
+--Real value: 4.5
+User: 18 Movie: 1
+--Hybrid prediction: 3.7255530282000677
+--Real value: 3.5
+User: 18 Movie: 47
+--Hybrid prediction: 4.015548860216991
+--Real value: 4.5
+User: 18 Movie: 111
+--Hybrid prediction: 3.790709534968639
+--Real value: 4.0
+User: 18 Movie: 145
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 163
+--Hybrid prediction: 4.495218248756903
+--Real value: 4.0
+User: 18 Movie: 165
+--Hybrid prediction: 3.2826341290263183
+--Real value: 4.0
+User: 18 Movie: 223
+--Hybrid prediction: 3.154822003382289
+--Real value: 4.0
+User: 18 Movie: 231
+--Hybrid prediction: 3.540319775711344
+--Real value: 2.5
+User: 18 Movie: 235
+--Hybrid prediction: 4.2491383476735685
+--Real value: 4.5
+User: 18 Movie: 293
+--Hybrid prediction: 3.44964204717348
+--Real value: 4.5
+User: 18 Movie: 329
+--Hybrid prediction: 2.2165738119695835
+--Real value: 4.0
+User: 18 Movie: 337
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 367
+--Hybrid prediction: 4.2334117431729155
+--Real value: 2.5
+User: 18 Movie: 377
+--Hybrid prediction: 3.6956661332060836
+--Real value: 2.5
+User: 18 Movie: 431
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 435
+--Hybrid prediction: 2.2165738119695835
+--Real value: 2.0
+User: 18 Movie: 457
+--Hybrid prediction: 4.402451665020926
+--Real value: 3.5
+User: 18 Movie: 527
+--Hybrid prediction: 4.0186269828258485
+--Real value: 4.5
+User: 18 Movie: 541
+--Hybrid prediction: 3.724690699657688
+--Real value: 4.0
+User: 18 Movie: 555
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 589
+--Hybrid prediction: 3.8753822132767684
+--Real value: 4.5
+User: 18 Movie: 593
+--Hybrid prediction: 4.471250552438617
+--Real value: 4.5
+User: 18 Movie: 595
+--Hybrid prediction: 4.297010066437315
+--Real value: 3.0
+User: 18 Movie: 653
+--Hybrid prediction: 2.2165738119695835
+--Real value: 3.0
+User: 18 Movie: 673
+--Hybrid prediction: 2.0475033619108314
+--Real value: 3.0
+User: 18 Movie: 745
+--Hybrid prediction: 4.186198888173607
+--Real value: 4.0
+User: 18 Movie: 849
+--Hybrid prediction: 3.1493494595865013
+--Real value: 3.5
+User: 18 Movie: 913
+--Hybrid prediction: 4.886198888173606
+--Real value: 4.0
+User: 18 Movie: 919
+--Hybrid prediction: 4.495218248756903
+--Real value: 4.0
+User: 18 Movie: 923
+--Hybrid prediction: 4.55384874980558
+--Real value: 5.0
+User: 18 Movie: 1059
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 1089
+--Hybrid prediction: 3.740802471961083
+--Real value: 4.0
+User: 18 Movie: 1095
+--Hybrid prediction: 3.849439048699035
+--Real value: 4.0
+User: 18 Movie: 1193
+--Hybrid prediction: 4.322087389479087
+--Real value: 4.5
+User: 18 Movie: 1201
+--Hybrid prediction: 4.79070953496864
+--Real value: 5.0
+User: 18 Movie: 1203
+--Hybrid prediction: 3.4661833004882823
+--Real value: 5.0
+User: 18 Movie: 1207
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 1209
+--Hybrid prediction: 3.2907095349686393
+--Real value: 5.0
+User: 18 Movie: 1213
+--Hybrid prediction: 4.3966917166949075
+--Real value: 4.5
+User: 18 Movie: 1219
+--Hybrid prediction: 3.565246101637374
+--Real value: 4.5
+User: 18 Movie: 1221
+--Hybrid prediction: 4.29070953496864
+--Real value: 5.0
+User: 18 Movie: 1223
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 1227
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 1245
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 1247
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 1275
+--Hybrid prediction: 4.038563826609501
+--Real value: 3.5
+User: 18 Movie: 1291
+--Hybrid prediction: 4.498735173318741
+--Real value: 4.0
+User: 18 Movie: 1371
+--Hybrid prediction: 3.244761692289017
+--Real value: 4.0
+User: 18 Movie: 1375
+--Hybrid prediction: 3.322087389479088
+--Real value: 3.5
+User: 18 Movie: 1391
+--Hybrid prediction: 2.110142068655178
+--Real value: 3.0
+User: 18 Movie: 1517
+--Hybrid prediction: 3.685024920216228
+--Real value: 2.5
+User: 18 Movie: 1527
+--Hybrid prediction: 4.002744007593723
+--Real value: 3.5
+User: 18 Movie: 1617
+--Hybrid prediction: 3.9396130050437774
+--Real value: 4.0
+User: 18 Movie: 1625
+--Hybrid prediction: 4.744796260002467
+--Real value: 3.5
+User: 18 Movie: 1653
+--Hybrid prediction: 4.2789368459739645
+--Real value: 3.5
+User: 18 Movie: 1721
+--Hybrid prediction: 4.514866722486465
+--Real value: 4.0
+User: 18 Movie: 1729
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 1805
+--Hybrid prediction: 3.7447962600024667
+--Real value: 3.5
+User: 18 Movie: 1917
+--Hybrid prediction: 3.315464281579235
+--Real value: 3.0
+User: 18 Movie: 1961
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 2001
+--Hybrid prediction: 3.6378653016505345
+--Real value: 3.5
+User: 18 Movie: 2011
+--Hybrid prediction: 3.2945511136186436
+--Real value: 3.5
+User: 18 Movie: 2019
+--Hybrid prediction: 4.200113969917522
+--Real value: 4.0
+User: 18 Movie: 2115
+--Hybrid prediction: 4.047503361910831
+--Real value: 4.0
+User: 18 Movie: 2291
+--Hybrid prediction: 4.495218248756903
+--Real value: 4.0
+User: 18 Movie: 2329
+--Hybrid prediction: 4.387756467119289
+--Real value: 4.0
+User: 18 Movie: 2409
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 2411
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 2421
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 2571
+--Hybrid prediction: 4.391223776530159
+--Real value: 4.5
+User: 18 Movie: 2683
+--Hybrid prediction: 2.5023123134086966
+--Real value: 2.5
+User: 18 Movie: 2951
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 2953
+--Hybrid prediction: 3.2165738119695835
+--Real value: 3.0
+User: 18 Movie: 2959
+--Hybrid prediction: 4.0798078454882205
+--Real value: 4.5
+User: 18 Movie: 2997
+--Hybrid prediction: 4.2491383476735685
+--Real value: 4.0
+User: 18 Movie: 3081
+--Hybrid prediction: 3.2165738119695835
+--Real value: 4.0
+User: 18 Movie: 3147
+--Hybrid prediction: 4.554203993147497
+--Real value: 4.0
+User: 18 Movie: 3253
+--Hybrid prediction: 3.540319775711344
+--Real value: 3.0
+User: 18 Movie: 3257
+--Hybrid prediction: 2.2165738119695835
+--Real value: 3.0
+User: 18 Movie: 3275
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 3681
+--Hybrid prediction: 4.29070953496864
+--Real value: 4.5
+User: 18 Movie: 3751
+--Hybrid prediction: 3.2165738119695835
+--Real value: 3.5
+User: 18 Movie: 3785
+--Hybrid prediction: 1.2165738119695833
+--Real value: 2.0
+User: 18 Movie: 3793
+--Hybrid prediction: 3.961656195977003
+--Real value: 4.0
+User: 18 Movie: 3949
+--Hybrid prediction: 3.1358074177501742
+--Real value: 4.5
+User: 18 Movie: 4007
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 4011
+--Hybrid prediction: 5.0
+--Real value: 4.5
+User: 18 Movie: 4239
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 4327
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 4383
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 4643
+--Hybrid prediction: 1.0206515214053011
+--Real value: 3.0
+User: 18 Movie: 4963
+--Hybrid prediction: 4.020651521405301
+--Real value: 4.0
+User: 18 Movie: 4973
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 4993
+--Hybrid prediction: 4.0978305509320645
+--Real value: 4.5
+User: 18 Movie: 4995
+--Hybrid prediction: 4.702466106363945
+--Real value: 4.5
+User: 18 Movie: 5349
+--Hybrid prediction: 3.520651521405301
+--Real value: 4.0
+User: 18 Movie: 5445
+--Hybrid prediction: 3.8497554586542417
+--Real value: 4.0
+User: 18 Movie: 5459
+--Hybrid prediction: 3.020651521405301
+--Real value: 2.5
+User: 18 Movie: 5481
+--Hybrid prediction: 4.715105933301846
+--Real value: 3.0
+User: 18 Movie: 5669
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 5679
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 5903
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 5989
+--Hybrid prediction: 4.53987509450985
+--Real value: 4.0
+User: 18 Movie: 5995
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 6287
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 6333
+--Hybrid prediction: 4.020651521405301
+--Real value: 4.0
+User: 18 Movie: 6365
+--Hybrid prediction: 4.020651521405301
+--Real value: 3.5
+User: 18 Movie: 6373
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 6377
+--Hybrid prediction: 3.0175563093300415
+--Real value: 4.0
+User: 18 Movie: 6539
+--Hybrid prediction: 4.520651521405301
+--Real value: 4.5
+User: 18 Movie: 6709
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 6787
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 6807
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 6863
+--Hybrid prediction: 4.520651521405301
+--Real value: 3.5
+User: 18 Movie: 7147
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 7153
+--Hybrid prediction: 4.155990390604586
+--Real value: 4.5
+User: 18 Movie: 7293
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 7317
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 7323
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 7361
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 7373
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 7753
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 7843
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 8117
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 8361
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 8641
+--Hybrid prediction: 3.4661833004882823
+--Real value: 2.5
+User: 18 Movie: 8665
+--Hybrid prediction: 3.520651521405301
+--Real value: 4.0
+User: 18 Movie: 8917
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 8957
+--Hybrid prediction: 4.020651521405301
+--Real value: 3.5
+User: 18 Movie: 8961
+--Hybrid prediction: 3.317943354681195
+--Real value: 3.5
+User: 18 Movie: 27689
+--Hybrid prediction: 3.4661833004882823
+--Real value: 2.5
+User: 18 Movie: 27773
+--Hybrid prediction: 3.790709534968639
+--Real value: 3.5
+User: 18 Movie: 27831
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 30793
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 31685
+--Hybrid prediction: 3.4661833004882823
+--Real value: 2.0
+User: 18 Movie: 32587
+--Hybrid prediction: 3.520651521405301
+--Real value: 3.5
+User: 18 Movie: 33615
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 34405
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 36519
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 36529
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 37729
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 37733
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 37741
+--Hybrid prediction: 3.520651521405301
+--Real value: 4.0
+User: 18 Movie: 38061
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 40819
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 44191
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 44199
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 44555
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 44665
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 45499
+--Hybrid prediction: 4.020651521405301
+--Real value: 4.0
+User: 18 Movie: 45517
+--Hybrid prediction: 4.520651521405301
+--Real value: 3.5
+User: 18 Movie: 46965
+--Hybrid prediction: 3.4661833004882823
+--Real value: 1.0
+User: 18 Movie: 47491
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 49651
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 51357
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 53125
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 53129
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 55247
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 55765
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 56757
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 57669
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 58295
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 58299
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 58559
+--Hybrid prediction: 3.1932192344525965
+--Real value: 4.0
+User: 18 Movie: 59315
+--Hybrid prediction: 2.0175563093300415
+--Real value: 4.0
+User: 18 Movie: 59615
+--Hybrid prediction: 3.4661833004882823
+--Real value: 2.5
+User: 18 Movie: 63131
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 64197
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 64839
+--Hybrid prediction: 3.2907095349686393
+--Real value: 3.5
+User: 18 Movie: 64957
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 67255
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 68073
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 68157
+--Hybrid prediction: 3.790709534968639
+--Real value: 3.5
+User: 18 Movie: 68159
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 68319
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 69757
+--Hybrid prediction: 4.0175563093300415
+--Real value: 4.0
+User: 18 Movie: 69951
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 71899
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 72011
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 73017
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 73321
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 73323
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 73499
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 74789
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 76077
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 76175
+--Hybrid prediction: 3.4661833004882823
+--Real value: 2.5
+User: 18 Movie: 76251
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 77561
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 78469
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 78499
+--Hybrid prediction: 3.790709534968639
+--Real value: 4.0
+User: 18 Movie: 79293
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 79695
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 80219
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 80489
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 83349
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 88129
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 89745
+--Hybrid prediction: 2.0175563093300415
+--Real value: 4.0
+User: 18 Movie: 91485
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 91529
+--Hybrid prediction: 2.0175563093300415
+--Real value: 4.0
+User: 18 Movie: 95441
+--Hybrid prediction: 3.4661833004882823
+--Real value: 2.5
+User: 18 Movie: 96655
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 98585
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 98809
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 99813
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 102125
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 102445
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 102903
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 103253
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 104241
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 104879
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 106487
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 106489
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 106839
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 109487
+--Hybrid prediction: 4.0175563093300415
+--Real value: 4.5
+User: 18 Movie: 111759
+--Hybrid prediction: 4.5175563093300415
+--Real value: 3.5
+User: 18 Movie: 112183
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 112421
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 115713
+--Hybrid prediction: 2.0175563093300415
+--Real value: 4.5
+User: 18 Movie: 116797
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 116823
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 119145
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 134853
+--Hybrid prediction: 4.5175563093300415
+--Real value: 3.5
+User: 18 Movie: 135569
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 139385
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 140289
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 145283
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 159093
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 164179
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 166015
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 166635
+--Hybrid prediction: 3.5175563093300415
+--Real value: 4.0
+User: 18 Movie: 171023
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.0
+User: 18 Movie: 176101
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.5
+User: 18 Movie: 177593
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 180095
+--Hybrid prediction: 3.4661833004882823
+--Real value: 3.0
+User: 18 Movie: 180777
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 18 Movie: 185135
+--Hybrid prediction: 3.4661833004882823
+--Real value: 4.5
+User: 20 Movie: 13
+--Hybrid prediction: 3.2668494994213915
+--Real value: 4.0
+User: 20 Movie: 107
+--Hybrid prediction: 2.266849499421391
+--Real value: 3.5
+User: 20 Movie: 239
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.5
+User: 20 Movie: 317
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 531
+--Hybrid prediction: 4.40823998513209
+--Real value: 4.5
+User: 20 Movie: 551
+--Hybrid prediction: 4.997849048392699
+--Real value: 5.0
+User: 20 Movie: 595
+--Hybrid prediction: 4.386128256152266
+--Real value: 5.0
+User: 20 Movie: 661
+--Hybrid prediction: 3.49789589017808
+--Real value: 5.0
+User: 20 Movie: 709
+--Hybrid prediction: 2.266849499421391
+--Real value: 3.0
+User: 20 Movie: 783
+--Hybrid prediction: 4.266849499421391
+--Real value: 3.5
+User: 20 Movie: 801
+--Hybrid prediction: 3.509808827720998
+--Real value: 2.5
+User: 20 Movie: 837
+--Hybrid prediction: 4.266849499421391
+--Real value: 4.0
+User: 20 Movie: 899
+--Hybrid prediction: 3.4952766951921186
+--Real value: 4.0
+User: 20 Movie: 919
+--Hybrid prediction: 4.463726158630079
+--Real value: 5.0
+User: 20 Movie: 1013
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 1015
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 1021
+--Hybrid prediction: 2.266849499421391
+--Real value: 2.0
+User: 20 Movie: 1025
+--Hybrid prediction: 4.463726158630079
+--Real value: 5.0
+User: 20 Movie: 1029
+--Hybrid prediction: 4.463726158630079
+--Real value: 4.5
+User: 20 Movie: 1031
+--Hybrid prediction: 2.9881085830164764
+--Real value: 3.0
+User: 20 Movie: 1035
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.5
+User: 20 Movie: 1073
+--Hybrid prediction: 4.259659267731186
+--Real value: 5.0
+User: 20 Movie: 1097
+--Hybrid prediction: 4.748837905000348
+--Real value: 5.0
+User: 20 Movie: 1333
+--Hybrid prediction: 3.2668494994213915
+--Real value: 3.5
+User: 20 Movie: 1367
+--Hybrid prediction: 1.2668494994213915
+--Real value: 3.0
+User: 20 Movie: 1489
+--Hybrid prediction: 2.266849499421391
+--Real value: 4.0
+User: 20 Movie: 1547
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.0
+User: 20 Movie: 1907
+--Hybrid prediction: 3.2668494994213915
+--Real value: 5.0
+User: 20 Movie: 1919
+--Hybrid prediction: 2.266849499421391
+--Real value: 3.5
+User: 20 Movie: 1947
+--Hybrid prediction: 3.509808827720998
+--Real value: 5.0
+User: 20 Movie: 2005
+--Hybrid prediction: 3.947512725285308
+--Real value: 5.0
+User: 20 Movie: 2033
+--Hybrid prediction: 3.49789589017808
+--Real value: 4.0
+User: 20 Movie: 2059
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 2081
+--Hybrid prediction: 3.505469935739452
+--Real value: 5.0
+User: 20 Movie: 2083
+--Hybrid prediction: 3.509808827720998
+--Real value: 5.0
+User: 20 Movie: 2085
+--Hybrid prediction: 1.1625100066689
+--Real value: 4.0
+User: 20 Movie: 2087
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.5
+User: 20 Movie: 2089
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.5
+User: 20 Movie: 2135
+--Hybrid prediction: 3.509808827720998
+--Real value: 5.0
+User: 20 Movie: 2137
+--Hybrid prediction: 4.259659267731186
+--Real value: 4.5
+User: 20 Movie: 2141
+--Hybrid prediction: 4.463726158630079
+--Real value: 4.5
+User: 20 Movie: 2161
+--Hybrid prediction: 4.463726158630079
+--Real value: 4.5
+User: 20 Movie: 2167
+--Hybrid prediction: 3.2668494994213915
+--Real value: 2.0
+User: 20 Movie: 2355
+--Hybrid prediction: 3.2668494994213915
+--Real value: 4.0
+User: 20 Movie: 2565
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 2617
+--Hybrid prediction: 2.272743020444543
+--Real value: 2.5
+User: 20 Movie: 2657
+--Hybrid prediction: 2.7660998191546478
+--Real value: 5.0
+User: 20 Movie: 2687
+--Hybrid prediction: 2.266849499421391
+--Real value: 4.5
+User: 20 Movie: 2701
+--Hybrid prediction: 1.4279774658484476
+--Real value: 1.0
+User: 20 Movie: 2709
+--Hybrid prediction: 2.266849499421391
+--Real value: 5.0
+User: 20 Movie: 2761
+--Hybrid prediction: 4.463726158630079
+--Real value: 4.5
+User: 20 Movie: 2857
+--Hybrid prediction: 3.2668494994213915
+--Real value: 4.0
+User: 20 Movie: 2941
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 2987
+--Hybrid prediction: 4.748837905000348
+--Real value: 5.0
+User: 20 Movie: 3157
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.0
+User: 20 Movie: 3159
+--Hybrid prediction: 3.509808827720998
+--Real value: 5.0
+User: 20 Movie: 3189
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 3301
+--Hybrid prediction: 2.266849499421391
+--Real value: 3.5
+User: 20 Movie: 3397
+--Hybrid prediction: 2.266849499421391
+--Real value: 5.0
+User: 20 Movie: 3483
+--Hybrid prediction: 2.266849499421391
+--Real value: 3.5
+User: 20 Movie: 3535
+--Hybrid prediction: 2.598271793685333
+--Real value: 1.0
+User: 20 Movie: 3549
+--Hybrid prediction: 3.509808827720998
+--Real value: 5.0
+User: 20 Movie: 3555
+--Hybrid prediction: 3.6625100066689003
+--Real value: 3.0
+User: 20 Movie: 3565
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.0
+User: 20 Movie: 3615
+--Hybrid prediction: 3.509808827720998
+--Real value: 2.5
+User: 20 Movie: 3623
+--Hybrid prediction: 1.800332691135484
+--Real value: 3.0
+User: 20 Movie: 3751
+--Hybrid prediction: 3.2668494994213915
+--Real value: 5.0
+User: 20 Movie: 3753
+--Hybrid prediction: 3.160825780276781
+--Real value: 3.0
+User: 20 Movie: 3755
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.5
+User: 20 Movie: 3793
+--Hybrid prediction: 3.668520757156016
+--Real value: 3.5
+User: 20 Movie: 3897
+--Hybrid prediction: 3.696958448832128
+--Real value: 4.5
+User: 20 Movie: 3967
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.5
+User: 20 Movie: 3977
+--Hybrid prediction: 2.3013150413378756
+--Real value: 3.5
+User: 20 Movie: 3999
+--Hybrid prediction: 3.509808827720998
+--Real value: 2.0
+User: 20 Movie: 4019
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 4025
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 4027
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 4029
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 4039
+--Hybrid prediction: 3.509808827720998
+--Real value: 5.0
+User: 20 Movie: 4161
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 4299
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 4367
+--Hybrid prediction: 3.509808827720998
+--Real value: 0.5
+User: 20 Movie: 4369
+--Hybrid prediction: 3.509808827720998
+--Real value: 2.0
+User: 20 Movie: 4447
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.0
+User: 20 Movie: 4449
+--Hybrid prediction: 3.509808827720998
+--Real value: 2.0
+User: 20 Movie: 4519
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 4641
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.0
+User: 20 Movie: 4643
+--Hybrid prediction: 1.2010574308683517
+--Real value: 3.0
+User: 20 Movie: 4783
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 4821
+--Hybrid prediction: 3.509808827720998
+--Real value: 0.5
+User: 20 Movie: 4865
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.0
+User: 20 Movie: 4901
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 4979
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 4993
+--Hybrid prediction: 4.526977973304026
+--Real value: 5.0
+User: 20 Movie: 4995
+--Hybrid prediction: 4.463287587894077
+--Real value: 5.0
+User: 20 Movie: 5013
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.5
+User: 20 Movie: 5015
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 5103
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 5171
+--Hybrid prediction: 3.509808827720998
+--Real value: 2.0
+User: 20 Movie: 5293
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 5299
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 5313
+--Hybrid prediction: 3.509808827720998
+--Real value: 0.5
+User: 20 Movie: 5349
+--Hybrid prediction: 3.7010574308683513
+--Real value: 3.0
+User: 20 Movie: 5419
+--Hybrid prediction: 3.509808827720998
+--Real value: 0.5
+User: 20 Movie: 5445
+--Hybrid prediction: 4.133664261702568
+--Real value: 4.5
+User: 20 Movie: 5463
+--Hybrid prediction: 3.509808827720998
+--Real value: 2.0
+User: 20 Movie: 5481
+--Hybrid prediction: 5.0
+--Real value: 1.0
+User: 20 Movie: 5507
+--Hybrid prediction: 1.5358317318094692
+--Real value: 0.5
+User: 20 Movie: 5679
+--Hybrid prediction: 3.509808827720998
+--Real value: 3.5
+User: 20 Movie: 5693
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 5785
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 5989
+--Hybrid prediction: 4.210262976250621
+--Real value: 4.5
+User: 20 Movie: 5991
+--Hybrid prediction: 4.701057430868351
+--Real value: 5.0
+User: 20 Movie: 6143
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 6157
+--Hybrid prediction: 3.509808827720998
+--Real value: 2.0
+User: 20 Movie: 6297
+--Hybrid prediction: 3.509808827720998
+--Real value: 4.0
+User: 20 Movie: 6333
+--Hybrid prediction: 4.201057430868351
+--Real value: 4.0
+User: 20 Movie: 6345
+--Hybrid prediction: 3.509808827720998
+--Real value: 5.0
+User: 20 Movie: 6365
+--Hybrid prediction: 4.201057430868351
+--Real value: 4.0

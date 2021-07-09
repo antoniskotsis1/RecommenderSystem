@@ -1,0 +1,7249 @@
+~UserBasedCF RECOMMENDER SYSTEM~
+
+UBCFa SIMILARITY: Pearson
+Movie:333, User: 2
+--Prediction: 0.5657434884975716
+--Actual Rating: 4.0
+Movie:58559, User: 2
+--Prediction: 0.223795600111389
+--Actual Rating: 4.5
+Movie:68157, User: 2
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:77455, User: 2
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:91529, User: 2
+--Prediction: 0.6044834307992204
+--Actual Rating: 3.5
+Movie:109487, User: 2
+--Prediction: 0.6044834307992204
+--Actual Rating: 3.0
+Movie:115713, User: 2
+--Prediction: 0.6044834307992204
+--Actual Rating: 3.5
+Movie:21, User: 4
+--Prediction: 0.03344768439108048
+--Actual Rating: 3.0
+Movie:47, User: 4
+--Prediction: 0.014489434975891946
+--Actual Rating: 2.0
+Movie:235, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 2.0
+Movie:247, User: 4
+--Prediction: 0.03344768439108137
+--Actual Rating: 3.0
+Movie:265, User: 4
+--Prediction: 0.03344768439108048
+--Actual Rating: 5.0
+Movie:319, User: 4
+--Prediction: 1.062414450199952
+--Actual Rating: 5.0
+Movie:351, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:357, User: 4
+--Prediction: 0.547931067295516
+--Actual Rating: 3.0
+Movie:441, User: 4
+--Prediction: 0.5
+--Actual Rating: 1.0
+Movie:457, User: 4
+--Prediction: 0.07196386643891017
+--Actual Rating: 5.0
+Movie:475, User: 4
+--Prediction: 0.03344768439108137
+--Actual Rating: 5.0
+Movie:539, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:553, User: 4
+--Prediction: 0.5
+--Actual Rating: 2.0
+Movie:593, User: 4
+--Prediction: 0.7729572513138754
+--Actual Rating: 5.0
+Movie:595, User: 4
+--Prediction: 2.2364979236255307
+--Actual Rating: 3.0
+Movie:899, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:919, User: 4
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1025, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1057, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:1073, User: 4
+--Prediction: 0.18292323030492152
+--Actual Rating: 4.0
+Movie:1077, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 5.0
+Movie:1079, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 2.0
+Movie:1179, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:1183, User: 4
+--Prediction: 4.439548162859981
+--Actual Rating: 1.0
+Movie:1197, User: 4
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1213, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1219, User: 4
+--Prediction: 1.6017982078232738
+--Actual Rating: 4.0
+Movie:1259, User: 4
+--Prediction: 0.26135098071542995
+--Actual Rating: 4.0
+Movie:1265, User: 4
+--Prediction: 0.19583654440546994
+--Actual Rating: 4.0
+Movie:1291, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1391, User: 4
+--Prediction: 0.47548788547733434
+--Actual Rating: 1.0
+Movie:1517, User: 4
+--Prediction: 1.6017982078232729
+--Actual Rating: 4.0
+Movie:1597, User: 4
+--Prediction: 0.47548788547733434
+--Actual Rating: 1.0
+Movie:1617, User: 4
+--Prediction: 1.6017982078232738
+--Actual Rating: 2.0
+Movie:1885, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:1895, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:1907, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:1923, User: 4
+--Prediction: 1.7968413112715504
+--Actual Rating: 3.0
+Movie:1967, User: 4
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:2019, User: 4
+--Prediction: 1.9499178370454446
+--Actual Rating: 2.0
+Movie:2145, User: 4
+--Prediction: 0.5435322403160443
+--Actual Rating: 3.0
+Movie:2203, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:2359, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:2395, User: 4
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:2467, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:2571, User: 4
+--Prediction: 0.014489434975891058
+--Actual Rating: 1.0
+Movie:2683, User: 4
+--Prediction: 2.750981306529966
+--Actual Rating: 4.0
+Movie:2763, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:2791, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 5.0
+Movie:2959, User: 4
+--Prediction: 0.011949286111829771
+--Actual Rating: 2.0
+Movie:2997, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 4.0
+Movie:3033, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 4.0
+Movie:3175, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:3255, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:3481, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 2.0
+Movie:3489, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 1.0
+Movie:3591, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:3809, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 3.0
+Movie:3897, User: 4
+--Prediction: 0.024650030432137093
+--Actual Rating: 4.0
+Movie:3, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 5.0
+Movie:7, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:13, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:15, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:19, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 2.0
+Movie:21, User: 6
+--Prediction: 0.5
+--Actual Rating: 2.0
+Movie:31, User: 6
+--Prediction: 1.097844895390908
+--Actual Rating: 3.0
+Movie:41, User: 6
+--Prediction: 0.2728727660709529
+--Actual Rating: 4.0
+Movie:47, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:65, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:87, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:95, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:135, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:141, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 4.0
+Movie:151, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:153, User: 6
+--Prediction: 0.19207216231554458
+--Actual Rating: 3.0
+Movie:161, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:163, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:165, User: 6
+--Prediction: 1.660772321805175
+--Actual Rating: 3.0
+Movie:185, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:231, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 3.0
+Movie:253, User: 6
+--Prediction: 0.4118620778291424
+--Actual Rating: 3.0
+Movie:261, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:265, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:273, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:289, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:291, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:293, User: 6
+--Prediction: 0.1120527218794356
+--Actual Rating: 3.0
+Movie:329, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:333, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 5.0
+Movie:339, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:349, User: 6
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:351, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:353, User: 6
+--Prediction: 0.9263454607335788
+--Actual Rating: 4.0
+Movie:355, User: 6
+--Prediction: 0.08559418314019585
+--Actual Rating: 4.0
+Movie:357, User: 6
+--Prediction: 0.4118620778291424
+--Actual Rating: 3.0
+Movie:367, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:371, User: 6
+--Prediction: 0.2728727660709529
+--Actual Rating: 3.0
+Movie:377, User: 6
+--Prediction: 0.33941889601096076
+--Actual Rating: 5.0
+Movie:435, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:445, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:455, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:457, User: 6
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:475, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:485, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:493, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:497, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:515, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:527, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:531, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:537, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:539, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:543, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 3.0
+Movie:553, User: 6
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:575, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:587, User: 6
+--Prediction: 2.6149123170635926
+--Actual Rating: 5.0
+Movie:589, User: 6
+--Prediction: 0.9930579686960863
+--Actual Rating: 3.0
+Movie:593, User: 6
+--Prediction: 0.6368882618475009
+--Actual Rating: 4.0
+Movie:595, User: 6
+--Prediction: 2.100428934159157
+--Actual Rating: 5.0
+Movie:597, User: 6
+--Prediction: 0.23743506554134974
+--Actual Rating: 4.0
+Movie:637, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:647, User: 6
+--Prediction: 1.097844895390908
+--Actual Rating: 4.0
+Movie:709, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 5.0
+Movie:711, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:719, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 2.0
+Movie:783, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 5.0
+Movie:799, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:837, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:839, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:881, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:1049, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 5.0
+Movie:1073, User: 6
+--Prediction: 0.046854240838547945
+--Actual Rating: 3.0
+Movie:21, User: 8
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:39, User: 8
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:47, User: 8
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:141, User: 8
+--Prediction: 0.9310646679067731
+--Actual Rating: 3.0
+Movie:153, User: 8
+--Prediction: 0.19679136948873843
+--Actual Rating: 2.0
+Movie:185, User: 8
+--Prediction: 0.9310646679067727
+--Actual Rating: 5.0
+Movie:231, User: 8
+--Prediction: 0.051573448011741796
+--Actual Rating: 4.0
+Movie:235, User: 8
+--Prediction: 0.051573448011741796
+--Actual Rating: 3.0
+Movie:253, User: 8
+--Prediction: 0.41658128500233715
+--Actual Rating: 5.0
+Movie:339, User: 8
+--Prediction: 0.9310646679067727
+--Actual Rating: 3.0
+Movie:357, User: 8
+--Prediction: 0.41658128500233715
+--Actual Rating: 5.0
+Movie:367, User: 8
+--Prediction: 0.0017482660404608552
+--Actual Rating: 3.0
+Movie:377, User: 8
+--Prediction: 0.3441381031841555
+--Actual Rating: 4.0
+Movie:457, User: 8
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:527, User: 8
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:539, User: 8
+--Prediction: 0.9310646679067727
+--Actual Rating: 3.0
+Movie:587, User: 8
+--Prediction: 2.6196315242367874
+--Actual Rating: 3.0
+Movie:593, User: 8
+--Prediction: 0.6416074690206957
+--Actual Rating: 4.0
+Movie:597, User: 8
+--Prediction: 0.24215427271454448
+--Actual Rating: 3.0
+Movie:597, User: 10
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:1307, User: 10
+--Prediction: 0.5705692311401496
+--Actual Rating: 3.0
+Movie:1907, User: 10
+--Prediction: 0.5705692311401496
+--Actual Rating: 4.0
+Movie:2571, User: 10
+--Prediction: 0.5
+--Actual Rating: 0.5
+Movie:2671, User: 10
+--Prediction: 3.947702943800179
+--Actual Rating: 3.5
+Movie:2959, User: 10
+--Prediction: 0.5
+--Actual Rating: 0.5
+Movie:4993, User: 10
+--Prediction: 0.6407649314988948
+--Actual Rating: 4.0
+Movie:4995, User: 10
+--Prediction: 1.8387604486734732
+--Actual Rating: 4.0
+Movie:6377, User: 10
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:7153, User: 10
+--Prediction: 1.4580726179856427
+--Actual Rating: 4.0
+Movie:8665, User: 10
+--Prediction: 3.947702943800179
+--Actual Rating: 3.5
+Movie:8961, User: 10
+--Prediction: 1.8387604486734732
+--Actual Rating: 2.5
+Movie:58559, User: 10
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:91529, User: 10
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:109487, User: 10
+--Prediction: 0.5
+--Actual Rating: 0.5
+Movie:39, User: 12
+--Prediction: 0.9261363636363633
+--Actual Rating: 4.0
+Movie:261, User: 12
+--Prediction: 0.9261363636363633
+--Actual Rating: 4.5
+Movie:357, User: 12
+--Prediction: 1.4406197465407988
+--Actual Rating: 3.5
+Movie:543, User: 12
+--Prediction: 1.0756119095502035
+--Actual Rating: 3.5
+Movie:1265, User: 12
+--Prediction: 1.0885252236507537
+--Actual Rating: 3.5
+Movie:1405, User: 12
+--Prediction: 1.1540396599607128
+--Actual Rating: 3.0
+Movie:1721, User: 12
+--Prediction: 0.84929435483871
+--Actual Rating: 5.0
+Movie:2485, User: 12
+--Prediction: 1.9551031294452343
+--Actual Rating: 5.0
+Movie:2581, User: 12
+--Prediction: 1.9551031294452343
+--Actual Rating: 5.0
+Movie:2717, User: 12
+--Prediction: 2.546772054008895
+--Actual Rating: 5.0
+Movie:7, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 3.0
+Movie:19, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 1.0
+Movie:39, User: 14
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:47, User: 14
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:95, User: 14
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:153, User: 14
+--Prediction: 0.049634178853287914
+--Actual Rating: 2.0
+Movie:231, User: 14
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:339, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 4.0
+Movie:351, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 3.0
+Movie:367, User: 14
+--Prediction: 0.5
+--Actual Rating: 1.0
+Movie:377, User: 14
+--Prediction: 0.1969809125487041
+--Actual Rating: 3.0
+Movie:455, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 3.0
+Movie:527, User: 14
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:539, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 4.0
+Movie:553, User: 14
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:593, User: 14
+--Prediction: 0.49445027838524247
+--Actual Rating: 4.0
+Movie:597, User: 14
+--Prediction: 0.09499708207909308
+--Actual Rating: 3.0
+Movie:47, User: 16
+--Prediction: 0.01513265967571975
+--Actual Rating: 3.5
+Movie:111, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:293, User: 16
+--Prediction: 0.248764936045637
+--Actual Rating: 4.0
+Movie:319, User: 16
+--Prediction: 1.0630576748997798
+--Actual Rating: 4.0
+Movie:527, User: 16
+--Prediction: 0.05119207739897291
+--Actual Rating: 4.0
+Movie:541, User: 16
+--Prediction: 0.26199420541525775
+--Actual Rating: 4.5
+Movie:593, User: 16
+--Prediction: 0.7736004760137023
+--Actual Rating: 3.0
+Movie:745, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:849, User: 16
+--Prediction: 0.8399737272544288
+--Actual Rating: 4.0
+Movie:913, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:923, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:1089, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1193, User: 16
+--Prediction: 0.26199420541525775
+--Actual Rating: 4.0
+Movie:1197, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1201, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:1213, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:1219, User: 16
+--Prediction: 1.6024414325231016
+--Actual Rating: 3.0
+Movie:1267, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:1617, User: 16
+--Prediction: 1.6024414325231016
+--Actual Rating: 3.5
+Movie:2019, User: 16
+--Prediction: 1.9505610617452724
+--Actual Rating: 4.0
+Movie:2329, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:2427, User: 16
+--Prediction: 0.5
+--Actual Rating: 1.5
+Movie:2571, User: 16
+--Prediction: 0.01513265967571975
+--Actual Rating: 3.5
+Movie:2641, User: 16
+--Prediction: 0.18356645500474844
+--Actual Rating: 3.0
+Movie:2723, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 3.5
+Movie:2959, User: 16
+--Prediction: 0.012592510811657576
+--Actual Rating: 3.5
+Movie:3683, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:3949, User: 16
+--Prediction: 0.30593141426474624
+--Actual Rating: 4.0
+Movie:4011, User: 16
+--Prediction: 0.025293255131964898
+--Actual Rating: 3.0
+Movie:4993, User: 16
+--Prediction: 1.1332533752585237
+--Actual Rating: 3.5
+Movie:5971, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:7099, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:7153, User: 16
+--Prediction: 1.9505610617452724
+--Actual Rating: 3.5
+Movie:27773, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:58559, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:60069, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:78499, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:91529, User: 16
+--Prediction: 0.22230639730639723
+--Actual Rating: 4.5
+Movie:1, User: 18
+--Prediction: 1.0823074920443334
+--Actual Rating: 3.5
+Movie:47, User: 18
+--Prediction: 0.05332473076252775
+--Actual Rating: 4.5
+Movie:111, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:163, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:165, User: 18
+--Prediction: 1.8356766070581854
+--Actual Rating: 4.0
+Movie:223, User: 18
+--Prediction: 0.2970980345023584
+--Actual Rating: 4.0
+Movie:231, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 2.5
+Movie:235, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 4.5
+Movie:293, User: 18
+--Prediction: 0.286957007132445
+--Actual Rating: 4.5
+Movie:329, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:367, User: 18
+--Prediction: 0.1719333441202755
+--Actual Rating: 2.5
+Movie:377, User: 18
+--Prediction: 0.5143231812639701
+--Actual Rating: 2.5
+Movie:435, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 2.0
+Movie:457, User: 18
+--Prediction: 0.11079916222554509
+--Actual Rating: 3.5
+Movie:527, User: 18
+--Prediction: 0.0893841484857818
+--Actual Rating: 4.5
+Movie:541, User: 18
+--Prediction: 0.30018627650206575
+--Actual Rating: 4.0
+Movie:589, User: 18
+--Prediction: 1.0533302193170613
+--Actual Rating: 4.5
+Movie:593, User: 18
+--Prediction: 0.8117925471005094
+--Actual Rating: 4.5
+Movie:595, User: 18
+--Prediction: 2.2753332194121665
+--Actual Rating: 3.0
+Movie:653, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.0
+Movie:673, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.0
+Movie:745, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:849, User: 18
+--Prediction: 0.8781657983412368
+--Actual Rating: 3.5
+Movie:913, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:919, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:923, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1089, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1095, User: 18
+--Prediction: 0.4477770513239623
+--Actual Rating: 4.0
+Movie:1193, User: 18
+--Prediction: 0.30018627650206575
+--Actual Rating: 4.5
+Movie:1201, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1209, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1213, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:1219, User: 18
+--Prediction: 1.6406335036099104
+--Actual Rating: 4.5
+Movie:1221, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1275, User: 18
+--Prediction: 0.3075082434202212
+--Actual Rating: 3.5
+Movie:1291, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1371, User: 18
+--Prediction: 1.186999463315252
+--Actual Rating: 4.0
+Movie:1375, User: 18
+--Prediction: 0.30018627650206575
+--Actual Rating: 3.5
+Movie:1391, User: 18
+--Prediction: 0.5143231812639701
+--Actual Rating: 3.0
+Movie:1517, User: 18
+--Prediction: 1.6406335036099096
+--Actual Rating: 2.5
+Movie:1527, User: 18
+--Prediction: 0.6808741071898963
+--Actual Rating: 3.5
+Movie:1617, User: 18
+--Prediction: 1.6406335036099096
+--Actual Rating: 4.0
+Movie:1625, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.5
+Movie:1653, User: 18
+--Prediction: 0.6808741071898963
+--Actual Rating: 3.5
+Movie:1721, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1805, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.5
+Movie:1917, User: 18
+--Prediction: 1.8356766070581854
+--Actual Rating: 3.0
+Movie:2001, User: 18
+--Prediction: 0.6808741071898963
+--Actual Rating: 3.5
+Movie:2011, User: 18
+--Prediction: 0.6031750885679186
+--Actual Rating: 3.5
+Movie:2019, User: 18
+--Prediction: 1.9887531328320804
+--Actual Rating: 4.0
+Movie:2115, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 4.0
+Movie:2291, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:2329, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:2571, User: 18
+--Prediction: 0.05332473076252775
+--Actual Rating: 4.5
+Movie:2683, User: 18
+--Prediction: 2.789816602316602
+--Actual Rating: 2.5
+Movie:2953, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.0
+Movie:2959, User: 18
+--Prediction: 0.050784581898465575
+--Actual Rating: 4.5
+Movie:2997, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 4.0
+Movie:3081, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:3147, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:3253, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.0
+Movie:3257, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.0
+Movie:3681, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:3751, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.5
+Movie:3785, User: 18
+--Prediction: 1.1012497459865878
+--Actual Rating: 2.0
+Movie:3793, User: 18
+--Prediction: 1.2463464592621252
+--Actual Rating: 4.0
+Movie:3949, User: 18
+--Prediction: 0.3441234853515551
+--Actual Rating: 4.5
+Movie:4011, User: 18
+--Prediction: 0.0634853262187729
+--Actual Rating: 4.5
+Movie:4643, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.0
+Movie:4963, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:4993, User: 18
+--Prediction: 1.1714454463453325
+--Actual Rating: 4.5
+Movie:4995, User: 18
+--Prediction: 2.369440963519911
+--Actual Rating: 4.5
+Movie:5349, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:5445, User: 18
+--Prediction: 1.7288863261212617
+--Actual Rating: 4.0
+Movie:5459, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 2.5
+Movie:5481, User: 18
+--Prediction: 0.4477770513239623
+--Actual Rating: 3.0
+Movie:5989, User: 18
+--Prediction: 2.369440963519911
+--Actual Rating: 4.0
+Movie:6333, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:6365, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:6377, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:6539, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.5
+Movie:6863, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:7153, User: 18
+--Prediction: 1.9887531328320804
+--Actual Rating: 4.5
+Movie:8665, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:8957, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:8961, User: 18
+--Prediction: 2.369440963519911
+--Actual Rating: 3.5
+Movie:27773, User: 18
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:32587, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:37741, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:45499, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:45517, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:58559, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:59315, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:64839, User: 18
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:68157, User: 18
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:69757, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:78499, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:89745, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:91529, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:109487, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.5
+Movie:111759, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 3.5
+Movie:115713, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.5
+Movie:134853, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 3.5
+Movie:166635, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:13, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:107, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:531, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:551, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:595, User: 20
+--Prediction: 2.07075164352122
+--Actual Rating: 5.0
+Movie:661, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 5.0
+Movie:709, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.0
+Movie:783, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:837, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:899, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:919, User: 20
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1021, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 2.0
+Movie:1025, User: 20
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1029, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:1031, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 3.0
+Movie:1073, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 5.0
+Movie:1097, User: 20
+--Prediction: 0.01717695020061072
+--Actual Rating: 5.0
+Movie:1333, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:1367, User: 20
+--Prediction: 0.8966681700956411
+--Actual Rating: 3.0
+Movie:1489, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:1907, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:1919, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:2005, User: 20
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:2033, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 4.0
+Movie:2081, User: 20
+--Prediction: 0.47629253129894966
+--Actual Rating: 5.0
+Movie:2085, User: 20
+--Prediction: 0.05591689250225862
+--Actual Rating: 4.0
+Movie:2137, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 4.5
+Movie:2141, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:2161, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:2167, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 2.0
+Movie:2355, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:2617, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 2.5
+Movie:2657, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 5.0
+Movie:2687, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.5
+Movie:2701, User: 20
+--Prediction: 2.5852350264256554
+--Actual Rating: 1.0
+Movie:2709, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:2761, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:2857, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:2987, User: 20
+--Prediction: 0.01717695020061072
+--Actual Rating: 5.0
+Movie:3301, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:3397, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:3483, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:3535, User: 20
+--Prediction: 0.47629253129894966
+--Actual Rating: 1.0
+Movie:3555, User: 20
+--Prediction: 0.05591689250225862
+--Actual Rating: 3.0
+Movie:3623, User: 20
+--Prediction: 2.5852350264256554
+--Actual Rating: 3.0
+Movie:3751, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:3753, User: 20
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:3793, User: 20
+--Prediction: 1.0417648833711795
+--Actual Rating: 3.5
+Movie:3897, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:3977, User: 20
+--Prediction: 2.066352816541748
+--Actual Rating: 3.5
+Movie:4643, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 3.0
+Movie:4993, User: 20
+--Prediction: 0.9668638704543859
+--Actual Rating: 5.0
+Movie:4995, User: 20
+--Prediction: 2.1648593876289643
+--Actual Rating: 5.0
+Movie:5349, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 3.0
+Movie:5445, User: 20
+--Prediction: 1.524304750230315
+--Actual Rating: 4.5
+Movie:5481, User: 20
+--Prediction: 0.24319547543301567
+--Actual Rating: 1.0
+Movie:5507, User: 20
+--Prediction: 0.24319547543301567
+--Actual Rating: 0.5
+Movie:5989, User: 20
+--Prediction: 2.1648593876289643
+--Actual Rating: 4.5
+Movie:5991, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 5.0
+Movie:6333, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+Movie:6365, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+
+UBCFb SIMILARITY: Pearson
+Movie:333, User: 2
+--Prediction: 4.430676304763384
+--Actual Rating: 4.0
+Movie:58559, User: 2
+--Prediction: 3.6828732411022207
+--Actual Rating: 4.5
+Movie:68157, User: 2
+--Prediction: 3.8431077694235594
+--Actual Rating: 4.5
+Movie:77455, User: 2
+--Prediction: 3.3431077694235585
+--Actual Rating: 3.0
+Movie:91529, User: 2
+--Prediction: 2.6044834307992204
+--Actual Rating: 3.5
+Movie:109487, User: 2
+--Prediction: 4.60448343079922
+--Actual Rating: 3.0
+Movie:115713, User: 2
+--Prediction: 2.6044834307992204
+--Actual Rating: 3.5
+Movie:21, User: 4
+--Prediction: 4.0334476843910805
+--Actual Rating: 3.0
+Movie:47, User: 4
+--Prediction: 4.1171537221468615
+--Actual Rating: 2.0
+Movie:235, User: 4
+--Prediction: 4.109329533426828
+--Actual Rating: 2.0
+Movie:247, User: 4
+--Prediction: 5.0
+--Actual Rating: 3.0
+Movie:265, User: 4
+--Prediction: 3.0334476843910805
+--Actual Rating: 5.0
+Movie:319, User: 4
+--Prediction: 2.062414450199952
+--Actual Rating: 5.0
+Movie:351, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 3.0
+Movie:357, User: 4
+--Prediction: 3.4364736942551666
+--Actual Rating: 3.0
+Movie:441, User: 4
+--Prediction: 3.3034320104098898
+--Actual Rating: 1.0
+Movie:457, User: 4
+--Prediction: 4.549386893045478
+--Actual Rating: 5.0
+Movie:475, User: 4
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:539, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 1.0
+Movie:553, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 2.0
+Movie:593, User: 4
+--Prediction: 4.365481356510301
+--Actual Rating: 5.0
+Movie:595, User: 4
+--Prediction: 4.5048509437466535
+--Actual Rating: 3.0
+Movie:899, User: 4
+--Prediction: 2.9602875112309075
+--Actual Rating: 4.0
+Movie:919, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 5.0
+Movie:1025, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 4.0
+Movie:1057, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 3.0
+Movie:1073, User: 4
+--Prediction: 4.651168323407516
+--Actual Rating: 4.0
+Movie:1077, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 5.0
+Movie:1079, User: 4
+--Prediction: 5.0
+--Actual Rating: 2.0
+Movie:1179, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 4.0
+Movie:1183, User: 4
+--Prediction: 1.9395481628599809
+--Actual Rating: 1.0
+Movie:1197, User: 4
+--Prediction: 4.345793028764602
+--Actual Rating: 5.0
+Movie:1213, User: 4
+--Prediction: 4.130407664043699
+--Actual Rating: 4.0
+Movie:1219, User: 4
+--Prediction: 3.8264973943865632
+--Actual Rating: 4.0
+Movie:1259, User: 4
+--Prediction: 3.7336303080570885
+--Actual Rating: 4.0
+Movie:1265, User: 4
+--Prediction: 3.9802276520550106
+--Actual Rating: 4.0
+Movie:1291, User: 4
+--Prediction: 4.523438811577641
+--Actual Rating: 4.0
+Movie:1391, User: 4
+--Prediction: 2.394278831713292
+--Actual Rating: 1.0
+Movie:1517, User: 4
+--Prediction: 4.108918392339963
+--Actual Rating: 4.0
+Movie:1597, User: 4
+--Prediction: 3.4966264205297124
+--Actual Rating: 1.0
+Movie:1617, User: 4
+--Prediction: 4.249195579953902
+--Actual Rating: 2.0
+Movie:1885, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 3.0
+Movie:1895, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 4.0
+Movie:1907, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 3.0
+Movie:1923, User: 4
+--Prediction: 3.5946048052254946
+--Actual Rating: 3.0
+Movie:1967, User: 4
+--Prediction: 4.174110773606134
+--Actual Rating: 5.0
+Movie:2019, User: 4
+--Prediction: 4.135295554107101
+--Actual Rating: 2.0
+Movie:2145, User: 4
+--Prediction: 3.042108223735261
+--Actual Rating: 3.0
+Movie:2203, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 4.0
+Movie:2359, User: 4
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:2395, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 3.0
+Movie:2467, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 4.0
+Movie:2571, User: 4
+--Prediction: 4.604477673865183
+--Actual Rating: 1.0
+Movie:2683, User: 4
+--Prediction: 3.218411826016754
+--Actual Rating: 4.0
+Movie:2763, User: 4
+--Prediction: 5.0
+--Actual Rating: 1.0
+Movie:2791, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 5.0
+Movie:2959, User: 4
+--Prediction: 4.219064390498256
+--Actual Rating: 2.0
+Movie:2997, User: 4
+--Prediction: 4.109329533426828
+--Actual Rating: 4.0
+Movie:3033, User: 4
+--Prediction: 3.734845903368888
+--Actual Rating: 4.0
+Movie:3175, User: 4
+--Prediction: 5.0
+--Actual Rating: 1.0
+Movie:3255, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 4.0
+Movie:3481, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 2.0
+Movie:3489, User: 4
+--Prediction: 3.1930071133882016
+--Actual Rating: 1.0
+Movie:3591, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 1.0
+Movie:3809, User: 4
+--Prediction: 3.651168323407515
+--Actual Rating: 3.0
+Movie:3897, User: 4
+--Prediction: 4.024650030432137
+--Actual Rating: 4.0
+Movie:3, User: 6
+--Prediction: 3.5757226729959117
+--Actual Rating: 5.0
+Movie:7, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:13, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:15, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:19, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 2.0
+Movie:21, User: 6
+--Prediction: 3.897378694924707
+--Actual Rating: 2.0
+Movie:31, User: 6
+--Prediction: 1.597844895390908
+--Actual Rating: 3.0
+Movie:41, User: 6
+--Prediction: 3.272872766070953
+--Actual Rating: 4.0
+Movie:47, User: 6
+--Prediction: 3.9645526885333453
+--Actual Rating: 4.0
+Movie:65, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:87, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:95, User: 6
+--Prediction: 2.7524923312883436
+--Actual Rating: 4.0
+Movie:135, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:141, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 4.0
+Movie:151, User: 6
+--Prediction: 4.167363020943517
+--Actual Rating: 4.0
+Movie:153, User: 6
+--Prediction: 2.8591891393226807
+--Actual Rating: 3.0
+Movie:161, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:163, User: 6
+--Prediction: 4.167363020943517
+--Actual Rating: 3.0
+Movie:165, User: 6
+--Prediction: 3.6494134653860266
+--Actual Rating: 3.0
+Movie:185, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:231, User: 6
+--Prediction: 3.4996512630556507
+--Actual Rating: 3.0
+Movie:253, User: 6
+--Prediction: 3.40227242413874
+--Actual Rating: 3.0
+Movie:261, User: 6
+--Prediction: 3.897378694924707
+--Actual Rating: 4.0
+Movie:265, User: 6
+--Prediction: 2.897378694924707
+--Actual Rating: 3.0
+Movie:273, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:289, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:291, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:293, User: 6
+--Prediction: 3.666367834724443
+--Actual Rating: 3.0
+Movie:329, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:333, User: 6
+--Prediction: 3.4996512630556507
+--Actual Rating: 5.0
+Movie:339, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 4.0
+Movie:349, User: 6
+--Prediction: 3.6182191875524548
+--Actual Rating: 5.0
+Movie:351, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:353, User: 6
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:355, User: 6
+--Prediction: 1.0855941831401958
+--Actual Rating: 4.0
+Movie:357, User: 6
+--Prediction: 3.383633039449062
+--Actual Rating: 3.0
+Movie:367, User: 6
+--Prediction: 4.036219437291372
+--Actual Rating: 4.0
+Movie:371, User: 6
+--Prediction: 3.272872766070953
+--Actual Rating: 3.0
+Movie:377, User: 6
+--Prediction: 3.8389109583895604
+--Actual Rating: 5.0
+Movie:435, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:445, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:455, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:457, User: 6
+--Prediction: 4.440463537872093
+--Actual Rating: 5.0
+Movie:475, User: 6
+--Prediction: 4.897378694924708
+--Actual Rating: 4.0
+Movie:485, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:493, User: 6
+--Prediction: 2.7524923312883436
+--Actual Rating: 3.0
+Movie:497, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:515, User: 6
+--Prediction: 2.897378694924707
+--Actual Rating: 4.0
+Movie:527, User: 6
+--Prediction: 3.8950772068358916
+--Actual Rating: 3.0
+Movie:531, User: 6
+--Prediction: 3.897378694924707
+--Actual Rating: 3.0
+Movie:537, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:539, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:543, User: 6
+--Prediction: 3.5757226729959117
+--Actual Rating: 3.0
+Movie:553, User: 6
+--Prediction: 4.167363020943517
+--Actual Rating: 5.0
+Movie:575, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:587, User: 6
+--Prediction: 3.1360672782923285
+--Actual Rating: 5.0
+Movie:589, User: 6
+--Prediction: 4.080794330235022
+--Actual Rating: 3.0
+Movie:593, User: 6
+--Prediction: 4.306195020564347
+--Actual Rating: 4.0
+Movie:595, User: 6
+--Prediction: 4.3748714496844
+--Actual Rating: 5.0
+Movie:597, User: 6
+--Prediction: 3.253944125856595
+--Actual Rating: 4.0
+Movie:637, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:647, User: 6
+--Prediction: 1.597844895390908
+--Actual Rating: 4.0
+Movie:709, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 5.0
+Movie:711, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 4.0
+Movie:719, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 2.0
+Movie:783, User: 6
+--Prediction: 4.926345460733578
+--Actual Rating: 5.0
+Movie:799, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:837, User: 6
+--Prediction: 4.926345460733578
+--Actual Rating: 3.0
+Movie:839, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:881, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:1049, User: 6
+--Prediction: 3.4996512630556507
+--Actual Rating: 5.0
+Movie:1073, User: 6
+--Prediction: 4.575722672995912
+--Actual Rating: 3.0
+Movie:21, User: 8
+--Prediction: 3.902097902097901
+--Actual Rating: 4.0
+Movie:39, User: 8
+--Prediction: 2.902097902097901
+--Actual Rating: 3.0
+Movie:47, User: 8
+--Prediction: 3.9705761636478627
+--Actual Rating: 4.0
+Movie:141, User: 8
+--Prediction: 1.9310646679067731
+--Actual Rating: 3.0
+Movie:153, User: 8
+--Prediction: 2.8551938382413797
+--Actual Rating: 2.0
+Movie:185, User: 8
+--Prediction: 2.9310646679067727
+--Actual Rating: 5.0
+Movie:231, User: 8
+--Prediction: 3.6530722432935465
+--Actual Rating: 4.0
+Movie:235, User: 8
+--Prediction: 3.9077119876385793
+--Actual Rating: 3.0
+Movie:253, User: 8
+--Prediction: 3.2834798617378462
+--Actual Rating: 5.0
+Movie:339, User: 8
+--Prediction: 3.9310646679067727
+--Actual Rating: 3.0
+Movie:357, User: 8
+--Prediction: 3.02477097494526
+--Actual Rating: 5.0
+Movie:367, User: 8
+--Prediction: 3.9053807546878896
+--Actual Rating: 3.0
+Movie:377, User: 8
+--Prediction: 3.597458003352814
+--Actual Rating: 4.0
+Movie:457, User: 8
+--Prediction: 4.388640362992335
+--Actual Rating: 3.0
+Movie:527, User: 8
+--Prediction: 4.098528694393103
+--Actual Rating: 5.0
+Movie:539, User: 8
+--Prediction: 3.9310646679067727
+--Actual Rating: 3.0
+Movie:587, User: 8
+--Prediction: 3.0453342680734727
+--Actual Rating: 3.0
+Movie:593, User: 8
+--Prediction: 4.234049571926643
+--Actual Rating: 4.0
+Movie:597, User: 8
+--Prediction: 3.1530118173177755
+--Actual Rating: 3.0
+Movie:597, User: 10
+--Prediction: 2.9809555367109306
+--Actual Rating: 3.5
+Movie:1307, User: 10
+--Prediction: 3.5705692311401496
+--Actual Rating: 3.0
+Movie:1907, User: 10
+--Prediction: 3.5705692311401496
+--Actual Rating: 4.0
+Movie:2571, User: 10
+--Prediction: 4.141196940035954
+--Actual Rating: 0.5
+Movie:2671, User: 10
+--Prediction: 4.447702943800179
+--Actual Rating: 3.5
+Movie:2959, User: 10
+--Prediction: 3.8615305272446423
+--Actual Rating: 0.5
+Movie:4993, User: 10
+--Prediction: 4.07259328099804
+--Actual Rating: 4.0
+Movie:4995, User: 10
+--Prediction: 4.582352797684955
+--Actual Rating: 4.0
+Movie:6377, User: 10
+--Prediction: 2.7298179535467675
+--Actual Rating: 3.5
+Movie:7153, User: 10
+--Prediction: 3.7608407684613323
+--Actual Rating: 4.0
+Movie:8665, User: 10
+--Prediction: 3.447702943800179
+--Actual Rating: 3.5
+Movie:8961, User: 10
+--Prediction: 3.127778604658318
+--Actual Rating: 2.5
+Movie:58559, User: 10
+--Prediction: 2.4456559461579532
+--Actual Rating: 4.5
+Movie:91529, User: 10
+--Prediction: 1.7298179535467675
+--Actual Rating: 5.0
+Movie:109487, User: 10
+--Prediction: 3.7298179535467675
+--Actual Rating: 0.5
+Movie:39, User: 12
+--Prediction: 3.9261363636363638
+--Actual Rating: 4.0
+Movie:261, User: 12
+--Prediction: 4.926136363636363
+--Actual Rating: 4.5
+Movie:357, User: 12
+--Prediction: 3.4386939443196454
+--Actual Rating: 3.5
+Movie:543, User: 12
+--Prediction: 4.3261972210702
+--Actual Rating: 3.5
+Movie:1265, User: 12
+--Prediction: 4.539125780156695
+--Actual Rating: 3.5
+Movie:1405, User: 12
+--Prediction: 4.293388763225065
+--Actual Rating: 3.0
+Movie:1721, User: 12
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:2485, User: 12
+--Prediction: 4.955103129445234
+--Actual Rating: 5.0
+Movie:2581, User: 12
+--Prediction: 4.955103129445234
+--Actual Rating: 5.0
+Movie:2717, User: 12
+--Prediction: 4.019117085968231
+--Actual Rating: 5.0
+Movie:7, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 3.0
+Movie:19, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 1.0
+Movie:39, User: 14
+--Prediction: 2.7549407114624502
+--Actual Rating: 3.0
+Movie:47, User: 14
+--Prediction: 3.8149184975420467
+--Actual Rating: 5.0
+Movie:95, User: 14
+--Prediction: 2.610054347826087
+--Actual Rating: 5.0
+Movie:153, User: 14
+--Prediction: 2.7136470441079212
+--Actual Rating: 2.0
+Movie:231, User: 14
+--Prediction: 3.4089230916285436
+--Actual Rating: 3.0
+Movie:339, User: 14
+--Prediction: 3.7839074772713213
+--Actual Rating: 4.0
+Movie:351, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 3.0
+Movie:367, User: 14
+--Prediction: 3.84565243316013
+--Actual Rating: 1.0
+Movie:377, User: 14
+--Prediction: 3.624964037146339
+--Actual Rating: 3.0
+Movie:455, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 3.0
+Movie:527, User: 14
+--Prediction: 3.8049373431571256
+--Actual Rating: 3.0
+Movie:539, User: 14
+--Prediction: 3.7839074772713213
+--Actual Rating: 4.0
+Movie:553, User: 14
+--Prediction: 4.024925037481259
+--Actual Rating: 4.0
+Movie:593, User: 14
+--Prediction: 4.133024239183019
+--Actual Rating: 4.0
+Movie:597, User: 14
+--Prediction: 3.082293504433639
+--Actual Rating: 3.0
+Movie:47, User: 16
+--Prediction: 4.0934884987596645
+--Actual Rating: 3.5
+Movie:111, User: 16
+--Prediction: 3.460930735930736
+--Actual Rating: 4.5
+Movie:293, User: 16
+--Prediction: 3.5134550205428594
+--Actual Rating: 4.0
+Movie:319, User: 16
+--Prediction: 2.0630576748997798
+--Actual Rating: 4.0
+Movie:527, User: 16
+--Prediction: 4.243343305719412
+--Actual Rating: 4.0
+Movie:541, User: 16
+--Prediction: 3.6609822445107283
+--Actual Rating: 4.5
+Movie:593, User: 16
+--Prediction: 4.327576103026412
+--Actual Rating: 3.0
+Movie:745, User: 16
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:849, User: 16
+--Prediction: 3.543740645351153
+--Actual Rating: 4.0
+Movie:913, User: 16
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:923, User: 16
+--Prediction: 4.788727881216803
+--Actual Rating: 3.5
+Movie:1089, User: 16
+--Prediction: 3.8886686777729187
+--Actual Rating: 4.0
+Movie:1193, User: 16
+--Prediction: 4.327961675865467
+--Actual Rating: 4.0
+Movie:1197, User: 16
+--Prediction: 4.10363742282136
+--Actual Rating: 4.0
+Movie:1201, User: 16
+--Prediction: 4.460930735930736
+--Actual Rating: 3.0
+Movie:1213, User: 16
+--Prediction: 4.115542463294841
+--Actual Rating: 3.5
+Movie:1219, User: 16
+--Prediction: 3.643063909948049
+--Actual Rating: 3.0
+Movie:1267, User: 16
+--Prediction: 4.063057674899779
+--Actual Rating: 4.0
+Movie:1617, User: 16
+--Prediction: 4.202535622431013
+--Actual Rating: 3.5
+Movie:2019, User: 16
+--Prediction: 3.9581135674120804
+--Actual Rating: 4.0
+Movie:2329, User: 16
+--Prediction: 4.294224723048333
+--Actual Rating: 3.5
+Movie:2427, User: 16
+--Prediction: 4.304075235109718
+--Actual Rating: 1.5
+Movie:2571, User: 16
+--Prediction: 4.57637051678343
+--Actual Rating: 3.5
+Movie:2641, User: 16
+--Prediction: 4.21286597753946
+--Actual Rating: 3.0
+Movie:2723, User: 16
+--Prediction: 5.0
+--Actual Rating: 3.5
+Movie:2959, User: 16
+--Prediction: 4.0875923414503905
+--Actual Rating: 3.5
+Movie:3683, User: 16
+--Prediction: 4.063057674899779
+--Actual Rating: 4.0
+Movie:3949, User: 16
+--Prediction: 3.5871051927124973
+--Actual Rating: 4.0
+Movie:4011, User: 16
+--Prediction: 5.0
+--Actual Rating: 3.0
+Movie:4993, User: 16
+--Prediction: 4.418174236018817
+--Actual Rating: 3.5
+Movie:5971, User: 16
+--Prediction: 2.9261882036768316
+--Actual Rating: 4.0
+Movie:7099, User: 16
+--Prediction: 4.460930735930736
+--Actual Rating: 3.5
+Movie:7153, User: 16
+--Prediction: 4.153694047563601
+--Actual Rating: 3.5
+Movie:27773, User: 16
+--Prediction: 3.460930735930736
+--Actual Rating: 4.0
+Movie:58559, User: 16
+--Prediction: 3.2103267372180784
+--Actual Rating: 4.5
+Movie:60069, User: 16
+--Prediction: 3.2896340695118416
+--Actual Rating: 4.0
+Movie:78499, User: 16
+--Prediction: 3.460930735930736
+--Actual Rating: 4.5
+Movie:91529, User: 16
+--Prediction: 2.2223063973063972
+--Actual Rating: 4.5
+Movie:1, User: 18
+--Prediction: 4.159960391412189
+--Actual Rating: 3.5
+Movie:47, User: 18
+--Prediction: 4.117223338291884
+--Actual Rating: 4.5
+Movie:111, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 4.0
+Movie:163, User: 18
+--Prediction: 4.342267306196526
+--Actual Rating: 4.0
+Movie:165, User: 18
+--Prediction: 3.861889678134016
+--Actual Rating: 4.0
+Movie:223, User: 18
+--Prediction: 3.653972215357248
+--Actual Rating: 4.0
+Movie:231, User: 18
+--Prediction: 3.7077085017578666
+--Actual Rating: 2.5
+Movie:235, User: 18
+--Prediction: 4.241672624710276
+--Actual Rating: 4.5
+Movie:293, User: 18
+--Prediction: 3.756661403590548
+--Actual Rating: 4.5
+Movie:329, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 4.0
+Movie:367, User: 18
+--Prediction: 4.18547665416422
+--Actual Rating: 2.5
+Movie:377, User: 18
+--Prediction: 4.0210113707619275
+--Actual Rating: 2.5
+Movie:435, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 2.0
+Movie:457, User: 18
+--Prediction: 4.616846602490657
+--Actual Rating: 3.5
+Movie:527, User: 18
+--Prediction: 4.085965894064831
+--Actual Rating: 4.5
+Movie:541, User: 18
+--Prediction: 4.036316090507202
+--Actual Rating: 4.0
+Movie:589, User: 18
+--Prediction: 4.443528326453896
+--Actual Rating: 4.5
+Movie:593, User: 18
+--Prediction: 4.472170287066447
+--Actual Rating: 4.5
+Movie:595, User: 18
+--Prediction: 4.4890218060997995
+--Actual Rating: 3.0
+Movie:653, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 3.0
+Movie:673, User: 18
+--Prediction: 2.2190298760753366
+--Actual Rating: 3.0
+Movie:745, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:849, User: 18
+--Prediction: 3.8521534155463284
+--Actual Rating: 3.5
+Movie:913, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:919, User: 18
+--Prediction: 4.342267306196526
+--Actual Rating: 4.0
+Movie:923, User: 18
+--Prediction: 4.911865712413799
+--Actual Rating: 5.0
+Movie:1089, User: 18
+--Prediction: 3.9711939514590213
+--Actual Rating: 4.0
+Movie:1095, User: 18
+--Prediction: 4.447777051323962
+--Actual Rating: 4.0
+Movie:1193, User: 18
+--Prediction: 4.542914258171457
+--Actual Rating: 4.5
+Movie:1201, User: 18
+--Prediction: 4.499122807017544
+--Actual Rating: 5.0
+Movie:1209, User: 18
+--Prediction: 2.9991228070175433
+--Actual Rating: 5.0
+Movie:1213, User: 18
+--Prediction: 4.16454790112627
+--Actual Rating: 4.5
+Movie:1219, User: 18
+--Prediction: 4.06550752846833
+--Actual Rating: 4.5
+Movie:1221, User: 18
+--Prediction: 3.999122807017544
+--Actual Rating: 5.0
+Movie:1275, User: 18
+--Prediction: 4.568781238331727
+--Actual Rating: 3.5
+Movie:1291, User: 18
+--Prediction: 4.641780688903766
+--Actual Rating: 4.0
+Movie:1371, User: 18
+--Prediction: 4.189551923127244
+--Actual Rating: 4.0
+Movie:1375, User: 18
+--Prediction: 3.5429142581714568
+--Actual Rating: 3.5
+Movie:1391, User: 18
+--Prediction: 2.524088022724915
+--Actual Rating: 3.0
+Movie:1517, User: 18
+--Prediction: 4.131948533327863
+--Actual Rating: 2.5
+Movie:1527, User: 18
+--Prediction: 4.58649973360024
+--Actual Rating: 3.5
+Movie:1617, User: 18
+--Prediction: 4.277308825964694
+--Actual Rating: 4.0
+Movie:1625, User: 18
+--Prediction: 4.730351250392806
+--Actual Rating: 3.5
+Movie:1653, User: 18
+--Prediction: 4.919553796036153
+--Actual Rating: 3.5
+Movie:1721, User: 18
+--Prediction: 4.517712351772248
+--Actual Rating: 4.0
+Movie:1805, User: 18
+--Prediction: 3.730351250392806
+--Actual Rating: 3.5
+Movie:1917, User: 18
+--Prediction: 3.8579399893660655
+--Actual Rating: 3.0
+Movie:2001, User: 18
+--Prediction: 4.252607858472066
+--Actual Rating: 3.5
+Movie:2011, User: 18
+--Prediction: 3.993739602440442
+--Actual Rating: 3.5
+Movie:2019, User: 18
+--Prediction: 4.28650547095726
+--Actual Rating: 4.0
+Movie:2115, User: 18
+--Prediction: 4.219029876075337
+--Actual Rating: 4.0
+Movie:2291, User: 18
+--Prediction: 4.342267306196526
+--Actual Rating: 4.0
+Movie:2329, User: 18
+--Prediction: 4.382411186304568
+--Actual Rating: 4.0
+Movie:2571, User: 18
+--Prediction: 4.635179222477303
+--Actual Rating: 4.5
+Movie:2683, User: 18
+--Prediction: 3.2478724119247326
+--Actual Rating: 2.5
+Movie:2953, User: 18
+--Prediction: 4.101249745986587
+--Actual Rating: 3.0
+Movie:2959, User: 18
+--Prediction: 4.245228995274974
+--Actual Rating: 4.5
+Movie:2997, User: 18
+--Prediction: 4.241672624710276
+--Actual Rating: 4.0
+Movie:3081, User: 18
+--Prediction: 4.101249745986587
+--Actual Rating: 4.0
+Movie:3147, User: 18
+--Prediction: 4.565197559155449
+--Actual Rating: 4.0
+Movie:3253, User: 18
+--Prediction: 3.7077085017578666
+--Actual Rating: 3.0
+Movie:3257, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 3.0
+Movie:3681, User: 18
+--Prediction: 3.999122807017544
+--Actual Rating: 4.5
+Movie:3751, User: 18
+--Prediction: 4.101249745986587
+--Actual Rating: 3.5
+Movie:3785, User: 18
+--Prediction: 2.1012497459865878
+--Actual Rating: 2.0
+Movie:3793, User: 18
+--Prediction: 4.369332514360014
+--Actual Rating: 4.0
+Movie:3949, User: 18
+--Prediction: 3.360078175606096
+--Actual Rating: 4.5
+Movie:4011, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.5
+Movie:4643, User: 18
+--Prediction: 1.4783834586466167
+--Actual Rating: 3.0
+Movie:4963, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:4993, User: 18
+--Prediction: 4.531263520964868
+--Actual Rating: 4.5
+Movie:4995, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.5
+Movie:5349, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 4.0
+Movie:5445, User: 18
+--Prediction: 4.392685228312868
+--Actual Rating: 4.0
+Movie:5459, User: 18
+--Prediction: 3.4783834586466167
+--Actual Rating: 2.5
+Movie:5481, User: 18
+--Prediction: 5.0
+--Actual Rating: 3.0
+Movie:5989, User: 18
+--Prediction: 4.875229630387114
+--Actual Rating: 4.0
+Movie:6333, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:6365, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:6377, User: 18
+--Prediction: 3.2604984683932057
+--Actual Rating: 4.0
+Movie:6539, User: 18
+--Prediction: 4.978383458646617
+--Actual Rating: 4.5
+Movie:6863, User: 18
+--Prediction: 4.978383458646617
+--Actual Rating: 3.5
+Movie:7153, User: 18
+--Prediction: 4.247984036679019
+--Actual Rating: 4.5
+Movie:8665, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 4.0
+Movie:8957, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:8961, User: 18
+--Prediction: 3.606726383437925
+--Actual Rating: 3.5
+Movie:27773, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 3.5
+Movie:32587, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 3.5
+Movie:37741, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 4.0
+Movie:45499, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:45517, User: 18
+--Prediction: 4.978383458646617
+--Actual Rating: 3.5
+Movie:58559, User: 18
+--Prediction: 3.0834818254019205
+--Actual Rating: 4.0
+Movie:59315, User: 18
+--Prediction: 2.2604984683932057
+--Actual Rating: 4.0
+Movie:64839, User: 18
+--Prediction: 2.9991228070175433
+--Actual Rating: 3.5
+Movie:68157, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 3.5
+Movie:69757, User: 18
+--Prediction: 4.260498468393205
+--Actual Rating: 4.0
+Movie:78499, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 4.0
+Movie:89745, User: 18
+--Prediction: 2.2604984683932057
+--Actual Rating: 4.0
+Movie:91529, User: 18
+--Prediction: 2.2604984683932057
+--Actual Rating: 4.0
+Movie:109487, User: 18
+--Prediction: 4.260498468393205
+--Actual Rating: 4.5
+Movie:111759, User: 18
+--Prediction: 4.760498468393205
+--Actual Rating: 3.5
+Movie:115713, User: 18
+--Prediction: 2.2604984683932057
+--Actual Rating: 4.5
+Movie:134853, User: 18
+--Prediction: 4.760498468393205
+--Actual Rating: 3.5
+Movie:166635, User: 18
+--Prediction: 3.7604984683932057
+--Actual Rating: 4.0
+Movie:13, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 4.0
+Movie:107, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:531, User: 20
+--Prediction: 3.8677014042867697
+--Actual Rating: 4.5
+Movie:551, User: 20
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:595, User: 20
+--Prediction: 4.299941542757338
+--Actual Rating: 5.0
+Movie:661, User: 20
+--Prediction: 4.0116464033358525
+--Actual Rating: 5.0
+Movie:709, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.0
+Movie:783, User: 20
+--Prediction: 4.896668170095641
+--Actual Rating: 3.5
+Movie:837, User: 20
+--Prediction: 4.896668170095641
+--Actual Rating: 4.0
+Movie:899, User: 20
+--Prediction: 2.7945412311265967
+--Actual Rating: 4.0
+Movie:919, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 5.0
+Movie:1021, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 2.0
+Movie:1025, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 5.0
+Movie:1029, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:1031, User: 20
+--Prediction: 3.488699748079947
+--Actual Rating: 3.0
+Movie:1073, User: 20
+--Prediction: 4.534593058591758
+--Actual Rating: 5.0
+Movie:1097, User: 20
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:1333, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 3.5
+Movie:1367, User: 20
+--Prediction: 1.8966681700956411
+--Actual Rating: 3.0
+Movie:1489, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 4.0
+Movie:1907, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 5.0
+Movie:1919, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:2005, User: 20
+--Prediction: 4.148211998048012
+--Actual Rating: 5.0
+Movie:2033, User: 20
+--Prediction: 4.0116464033358525
+--Actual Rating: 4.0
+Movie:2081, User: 20
+--Prediction: 3.981759130723598
+--Actual Rating: 5.0
+Movie:2085, User: 20
+--Prediction: 1.5559168925022586
+--Actual Rating: 4.0
+Movie:2137, User: 20
+--Prediction: 4.534593058591758
+--Actual Rating: 4.5
+Movie:2141, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:2161, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:2167, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 2.0
+Movie:2355, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 4.0
+Movie:2617, User: 20
+--Prediction: 2.58048636910357
+--Actual Rating: 2.5
+Movie:2657, User: 20
+--Prediction: 3.0575397138476648
+--Actual Rating: 5.0
+Movie:2687, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 4.5
+Movie:2701, User: 20
+--Prediction: 1.8344606125878289
+--Actual Rating: 1.0
+Movie:2709, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 5.0
+Movie:2761, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:2857, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 4.0
+Movie:2987, User: 20
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:3301, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:3397, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 5.0
+Movie:3483, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:3535, User: 20
+--Prediction: 3.224334717263737
+--Actual Rating: 1.0
+Movie:3555, User: 20
+--Prediction: 4.055916892502259
+--Actual Rating: 3.0
+Movie:3623, User: 20
+--Prediction: 2.0750062636212467
+--Actual Rating: 3.0
+Movie:3751, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 5.0
+Movie:3753, User: 20
+--Prediction: 3.443116888118921
+--Actual Rating: 3.0
+Movie:3793, User: 20
+--Prediction: 4.171189527854143
+--Actual Rating: 3.5
+Movie:3897, User: 20
+--Prediction: 3.8589037503278263
+--Actual Rating: 4.5
+Movie:3977, User: 20
+--Prediction: 2.814050432953841
+--Actual Rating: 3.5
+Movie:4643, User: 20
+--Prediction: 1.27380188275567
+--Actual Rating: 3.0
+Movie:4993, User: 20
+--Prediction: 4.365288275705211
+--Actual Rating: 5.0
+Movie:4995, User: 20
+--Prediction: 4.912243625586877
+--Actual Rating: 5.0
+Movie:5349, User: 20
+--Prediction: 3.77380188275567
+--Actual Rating: 3.0
+Movie:5445, User: 20
+--Prediction: 4.192143429560801
+--Actual Rating: 4.5
+Movie:5481, User: 20
+--Prediction: 5.0
+--Actual Rating: 1.0
+Movie:5507, User: 20
+--Prediction: 1.2431954754330157
+--Actual Rating: 0.5
+Movie:5989, User: 20
+--Prediction: 4.657607640347315
+--Actual Rating: 4.5
+Movie:5991, User: 20
+--Prediction: 4.77380188275567
+--Actual Rating: 5.0
+Movie:6333, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+Movie:6365, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+
+UBCFa SIMILARITY: Cosine SVD type: a
+Movie:333, User: 2
+--Prediction: 0.5657434884975716
+--Actual Rating: 4.0
+Movie:58559, User: 2
+--Prediction: 0.223795600111389
+--Actual Rating: 4.5
+Movie:68157, User: 2
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:77455, User: 2
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:91529, User: 2
+--Prediction: 0.6044834307992204
+--Actual Rating: 3.5
+Movie:109487, User: 2
+--Prediction: 0.6044834307992204
+--Actual Rating: 3.0
+Movie:115713, User: 2
+--Prediction: 0.6044834307992204
+--Actual Rating: 3.5
+Movie:21, User: 4
+--Prediction: 0.03344768439108048
+--Actual Rating: 3.0
+Movie:47, User: 4
+--Prediction: 0.01448943497589017
+--Actual Rating: 2.0
+Movie:235, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 2.0
+Movie:247, User: 4
+--Prediction: 0.03344768439108137
+--Actual Rating: 3.0
+Movie:265, User: 4
+--Prediction: 0.03344768439108048
+--Actual Rating: 5.0
+Movie:319, User: 4
+--Prediction: 1.062414450199952
+--Actual Rating: 5.0
+Movie:351, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:357, User: 4
+--Prediction: 0.547931067295516
+--Actual Rating: 3.0
+Movie:441, User: 4
+--Prediction: 0.5
+--Actual Rating: 1.0
+Movie:457, User: 4
+--Prediction: 0.07196386643891017
+--Actual Rating: 5.0
+Movie:475, User: 4
+--Prediction: 0.03344768439108137
+--Actual Rating: 5.0
+Movie:539, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:553, User: 4
+--Prediction: 0.5
+--Actual Rating: 2.0
+Movie:593, User: 4
+--Prediction: 0.7729572513138745
+--Actual Rating: 5.0
+Movie:595, User: 4
+--Prediction: 2.2364979236255307
+--Actual Rating: 3.0
+Movie:899, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:919, User: 4
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1025, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1057, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:1073, User: 4
+--Prediction: 0.18292323030492152
+--Actual Rating: 4.0
+Movie:1077, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 5.0
+Movie:1079, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 2.0
+Movie:1179, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:1183, User: 4
+--Prediction: 4.439548162859981
+--Actual Rating: 1.0
+Movie:1197, User: 4
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1213, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1219, User: 4
+--Prediction: 1.6017982078232746
+--Actual Rating: 4.0
+Movie:1259, User: 4
+--Prediction: 0.26135098071542995
+--Actual Rating: 4.0
+Movie:1265, User: 4
+--Prediction: 0.19583654440546994
+--Actual Rating: 4.0
+Movie:1291, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1391, User: 4
+--Prediction: 0.47548788547733434
+--Actual Rating: 1.0
+Movie:1517, User: 4
+--Prediction: 1.6017982078232729
+--Actual Rating: 4.0
+Movie:1597, User: 4
+--Prediction: 0.47548788547733434
+--Actual Rating: 1.0
+Movie:1617, User: 4
+--Prediction: 1.6017982078232738
+--Actual Rating: 2.0
+Movie:1885, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:1895, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:1907, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:1923, User: 4
+--Prediction: 1.7968413112715504
+--Actual Rating: 3.0
+Movie:1967, User: 4
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:2019, User: 4
+--Prediction: 1.9499178370454446
+--Actual Rating: 2.0
+Movie:2145, User: 4
+--Prediction: 0.5435322403160443
+--Actual Rating: 3.0
+Movie:2203, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:2359, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:2395, User: 4
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:2467, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:2571, User: 4
+--Prediction: 0.014489434975889282
+--Actual Rating: 1.0
+Movie:2683, User: 4
+--Prediction: 2.750981306529966
+--Actual Rating: 4.0
+Movie:2763, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:2791, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 5.0
+Movie:2959, User: 4
+--Prediction: 0.011949286111829771
+--Actual Rating: 2.0
+Movie:2997, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 4.0
+Movie:3033, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 4.0
+Movie:3175, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:3255, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:3481, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 2.0
+Movie:3489, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 1.0
+Movie:3591, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:3809, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 3.0
+Movie:3897, User: 4
+--Prediction: 0.024650030432137093
+--Actual Rating: 4.0
+Movie:3, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 5.0
+Movie:7, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:13, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:15, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:19, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 2.0
+Movie:21, User: 6
+--Prediction: 0.5
+--Actual Rating: 2.0
+Movie:31, User: 6
+--Prediction: 1.097844895390908
+--Actual Rating: 3.0
+Movie:41, User: 6
+--Prediction: 0.2728727660709529
+--Actual Rating: 4.0
+Movie:47, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:65, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:87, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:95, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:135, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:141, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 4.0
+Movie:151, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:153, User: 6
+--Prediction: 0.19207216231554458
+--Actual Rating: 3.0
+Movie:161, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:163, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:165, User: 6
+--Prediction: 1.660772321805176
+--Actual Rating: 3.0
+Movie:185, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:231, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 3.0
+Movie:253, User: 6
+--Prediction: 0.4118620778291424
+--Actual Rating: 3.0
+Movie:261, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:265, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:273, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:289, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:291, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:293, User: 6
+--Prediction: 0.1120527218794356
+--Actual Rating: 3.0
+Movie:329, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:333, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 5.0
+Movie:339, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:349, User: 6
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:351, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:353, User: 6
+--Prediction: 0.9263454607335788
+--Actual Rating: 4.0
+Movie:355, User: 6
+--Prediction: 0.08559418314019585
+--Actual Rating: 4.0
+Movie:357, User: 6
+--Prediction: 0.4118620778291424
+--Actual Rating: 3.0
+Movie:367, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:371, User: 6
+--Prediction: 0.2728727660709529
+--Actual Rating: 3.0
+Movie:377, User: 6
+--Prediction: 0.33941889601096076
+--Actual Rating: 5.0
+Movie:435, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:445, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:455, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:457, User: 6
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:475, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:485, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:493, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:497, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:515, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:527, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:531, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:537, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:539, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:543, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 3.0
+Movie:553, User: 6
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:575, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:587, User: 6
+--Prediction: 2.6149123170635926
+--Actual Rating: 5.0
+Movie:589, User: 6
+--Prediction: 0.9930579686960872
+--Actual Rating: 3.0
+Movie:593, User: 6
+--Prediction: 0.6368882618475009
+--Actual Rating: 4.0
+Movie:595, User: 6
+--Prediction: 2.100428934159157
+--Actual Rating: 5.0
+Movie:597, User: 6
+--Prediction: 0.23743506554134974
+--Actual Rating: 4.0
+Movie:637, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:647, User: 6
+--Prediction: 1.097844895390908
+--Actual Rating: 4.0
+Movie:709, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 5.0
+Movie:711, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:719, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 2.0
+Movie:783, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 5.0
+Movie:799, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:837, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:839, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:881, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:1049, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 5.0
+Movie:1073, User: 6
+--Prediction: 0.046854240838547945
+--Actual Rating: 3.0
+Movie:21, User: 8
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:39, User: 8
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:47, User: 8
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:141, User: 8
+--Prediction: 0.9310646679067731
+--Actual Rating: 3.0
+Movie:153, User: 8
+--Prediction: 0.19679136948873843
+--Actual Rating: 2.0
+Movie:185, User: 8
+--Prediction: 0.9310646679067727
+--Actual Rating: 5.0
+Movie:231, User: 8
+--Prediction: 0.051573448011741796
+--Actual Rating: 4.0
+Movie:235, User: 8
+--Prediction: 0.051573448011741796
+--Actual Rating: 3.0
+Movie:253, User: 8
+--Prediction: 0.41658128500233715
+--Actual Rating: 5.0
+Movie:339, User: 8
+--Prediction: 0.9310646679067727
+--Actual Rating: 3.0
+Movie:357, User: 8
+--Prediction: 0.41658128500233715
+--Actual Rating: 5.0
+Movie:367, User: 8
+--Prediction: 0.0017482660404608552
+--Actual Rating: 3.0
+Movie:377, User: 8
+--Prediction: 0.3441381031841555
+--Actual Rating: 4.0
+Movie:457, User: 8
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:527, User: 8
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:539, User: 8
+--Prediction: 0.9310646679067727
+--Actual Rating: 3.0
+Movie:587, User: 8
+--Prediction: 2.6196315242367874
+--Actual Rating: 3.0
+Movie:593, User: 8
+--Prediction: 0.6416074690206948
+--Actual Rating: 4.0
+Movie:597, User: 8
+--Prediction: 0.24215427271454448
+--Actual Rating: 3.0
+Movie:597, User: 10
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:1307, User: 10
+--Prediction: 0.5705692311401496
+--Actual Rating: 3.0
+Movie:1907, User: 10
+--Prediction: 0.5705692311401496
+--Actual Rating: 4.0
+Movie:2571, User: 10
+--Prediction: 0.5
+--Actual Rating: 0.5
+Movie:2671, User: 10
+--Prediction: 3.947702943800179
+--Actual Rating: 3.5
+Movie:2959, User: 10
+--Prediction: 0.5
+--Actual Rating: 0.5
+Movie:4993, User: 10
+--Prediction: 0.6407649314988948
+--Actual Rating: 4.0
+Movie:4995, User: 10
+--Prediction: 1.8387604486734732
+--Actual Rating: 4.0
+Movie:6377, User: 10
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:7153, User: 10
+--Prediction: 1.4580726179856427
+--Actual Rating: 4.0
+Movie:8665, User: 10
+--Prediction: 3.947702943800179
+--Actual Rating: 3.5
+Movie:8961, User: 10
+--Prediction: 1.8387604486734732
+--Actual Rating: 2.5
+Movie:58559, User: 10
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:91529, User: 10
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:109487, User: 10
+--Prediction: 0.5
+--Actual Rating: 0.5
+Movie:39, User: 12
+--Prediction: 0.9261363636363633
+--Actual Rating: 4.0
+Movie:261, User: 12
+--Prediction: 0.9261363636363633
+--Actual Rating: 4.5
+Movie:357, User: 12
+--Prediction: 1.4406197465407988
+--Actual Rating: 3.5
+Movie:543, User: 12
+--Prediction: 1.0756119095502035
+--Actual Rating: 3.5
+Movie:1265, User: 12
+--Prediction: 1.0885252236507537
+--Actual Rating: 3.5
+Movie:1405, User: 12
+--Prediction: 1.1540396599607128
+--Actual Rating: 3.0
+Movie:1721, User: 12
+--Prediction: 0.84929435483871
+--Actual Rating: 5.0
+Movie:2485, User: 12
+--Prediction: 1.9551031294452343
+--Actual Rating: 5.0
+Movie:2581, User: 12
+--Prediction: 1.9551031294452343
+--Actual Rating: 5.0
+Movie:2717, User: 12
+--Prediction: 2.546772054008896
+--Actual Rating: 5.0
+Movie:7, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 3.0
+Movie:19, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 1.0
+Movie:39, User: 14
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:47, User: 14
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:95, User: 14
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:153, User: 14
+--Prediction: 0.049634178853287914
+--Actual Rating: 2.0
+Movie:231, User: 14
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:339, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 4.0
+Movie:351, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 3.0
+Movie:367, User: 14
+--Prediction: 0.5
+--Actual Rating: 1.0
+Movie:377, User: 14
+--Prediction: 0.1969809125487041
+--Actual Rating: 3.0
+Movie:455, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 3.0
+Movie:527, User: 14
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:539, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 4.0
+Movie:553, User: 14
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:593, User: 14
+--Prediction: 0.49445027838524247
+--Actual Rating: 4.0
+Movie:597, User: 14
+--Prediction: 0.09499708207909308
+--Actual Rating: 3.0
+Movie:47, User: 16
+--Prediction: 0.015132659675717974
+--Actual Rating: 3.5
+Movie:111, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:293, User: 16
+--Prediction: 0.248764936045637
+--Actual Rating: 4.0
+Movie:319, User: 16
+--Prediction: 1.0630576748997798
+--Actual Rating: 4.0
+Movie:527, User: 16
+--Prediction: 0.0511920773989738
+--Actual Rating: 4.0
+Movie:541, User: 16
+--Prediction: 0.26199420541525775
+--Actual Rating: 4.5
+Movie:593, User: 16
+--Prediction: 0.7736004760137014
+--Actual Rating: 3.0
+Movie:745, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:849, User: 16
+--Prediction: 0.8399737272544288
+--Actual Rating: 4.0
+Movie:913, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:923, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:1089, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1193, User: 16
+--Prediction: 0.26199420541525775
+--Actual Rating: 4.0
+Movie:1197, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1201, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:1213, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:1219, User: 16
+--Prediction: 1.6024414325231016
+--Actual Rating: 3.0
+Movie:1267, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:1617, User: 16
+--Prediction: 1.6024414325231016
+--Actual Rating: 3.5
+Movie:2019, User: 16
+--Prediction: 1.9505610617452724
+--Actual Rating: 4.0
+Movie:2329, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:2427, User: 16
+--Prediction: 0.5
+--Actual Rating: 1.5
+Movie:2571, User: 16
+--Prediction: 0.015132659675717974
+--Actual Rating: 3.5
+Movie:2641, User: 16
+--Prediction: 0.18356645500474844
+--Actual Rating: 3.0
+Movie:2723, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 3.5
+Movie:2959, User: 16
+--Prediction: 0.012592510811657576
+--Actual Rating: 3.5
+Movie:3683, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:3949, User: 16
+--Prediction: 0.30593141426474624
+--Actual Rating: 4.0
+Movie:4011, User: 16
+--Prediction: 0.025293255131964898
+--Actual Rating: 3.0
+Movie:4993, User: 16
+--Prediction: 1.1332533752585245
+--Actual Rating: 3.5
+Movie:5971, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:7099, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:7153, User: 16
+--Prediction: 1.9505610617452724
+--Actual Rating: 3.5
+Movie:27773, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:58559, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:60069, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:78499, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:91529, User: 16
+--Prediction: 0.22230639730639723
+--Actual Rating: 4.5
+Movie:1, User: 18
+--Prediction: 1.0823074920443334
+--Actual Rating: 3.5
+Movie:47, User: 18
+--Prediction: 0.053324730762525974
+--Actual Rating: 4.5
+Movie:111, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:163, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:165, User: 18
+--Prediction: 1.8356766070581862
+--Actual Rating: 4.0
+Movie:223, User: 18
+--Prediction: 0.2970980345023584
+--Actual Rating: 4.0
+Movie:231, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 2.5
+Movie:235, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 4.5
+Movie:293, User: 18
+--Prediction: 0.286957007132445
+--Actual Rating: 4.5
+Movie:329, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:367, User: 18
+--Prediction: 0.1719333441202755
+--Actual Rating: 2.5
+Movie:377, User: 18
+--Prediction: 0.5143231812639701
+--Actual Rating: 2.5
+Movie:435, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 2.0
+Movie:457, User: 18
+--Prediction: 0.11079916222554509
+--Actual Rating: 3.5
+Movie:527, User: 18
+--Prediction: 0.0893841484857818
+--Actual Rating: 4.5
+Movie:541, User: 18
+--Prediction: 0.30018627650206575
+--Actual Rating: 4.0
+Movie:589, User: 18
+--Prediction: 0.8475368661552869
+--Actual Rating: 4.5
+Movie:593, User: 18
+--Prediction: 0.8117925471005094
+--Actual Rating: 4.5
+Movie:595, User: 18
+--Prediction: 2.2753332194121665
+--Actual Rating: 3.0
+Movie:653, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.0
+Movie:673, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.0
+Movie:745, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:849, User: 18
+--Prediction: 0.8781657983412368
+--Actual Rating: 3.5
+Movie:913, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:919, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:923, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1089, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1095, User: 18
+--Prediction: 0.4477770513239623
+--Actual Rating: 4.0
+Movie:1193, User: 18
+--Prediction: 0.30018627650206575
+--Actual Rating: 4.5
+Movie:1201, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1209, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1213, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:1219, User: 18
+--Prediction: 1.6406335036099104
+--Actual Rating: 4.5
+Movie:1221, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1275, User: 18
+--Prediction: 0.3075082434202212
+--Actual Rating: 3.5
+Movie:1291, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1371, User: 18
+--Prediction: 1.186999463315252
+--Actual Rating: 4.0
+Movie:1375, User: 18
+--Prediction: 0.30018627650206575
+--Actual Rating: 3.5
+Movie:1391, User: 18
+--Prediction: 0.5143231812639701
+--Actual Rating: 3.0
+Movie:1517, User: 18
+--Prediction: 1.6406335036099096
+--Actual Rating: 2.5
+Movie:1527, User: 18
+--Prediction: 0.6808741071898963
+--Actual Rating: 3.5
+Movie:1617, User: 18
+--Prediction: 1.6406335036099096
+--Actual Rating: 4.0
+Movie:1625, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.5
+Movie:1653, User: 18
+--Prediction: 0.6808741071898963
+--Actual Rating: 3.5
+Movie:1721, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1805, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.5
+Movie:1917, User: 18
+--Prediction: 1.8356766070581862
+--Actual Rating: 3.0
+Movie:2001, User: 18
+--Prediction: 0.6808741071898963
+--Actual Rating: 3.5
+Movie:2011, User: 18
+--Prediction: 0.6031750885679186
+--Actual Rating: 3.5
+Movie:2019, User: 18
+--Prediction: 1.9887531328320804
+--Actual Rating: 4.0
+Movie:2115, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 4.0
+Movie:2291, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:2329, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:2571, User: 18
+--Prediction: 0.053324730762525974
+--Actual Rating: 4.5
+Movie:2683, User: 18
+--Prediction: 2.789816602316602
+--Actual Rating: 2.5
+Movie:2953, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.0
+Movie:2959, User: 18
+--Prediction: 0.050784581898465575
+--Actual Rating: 4.5
+Movie:2997, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 4.0
+Movie:3081, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:3147, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:3253, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.0
+Movie:3257, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.0
+Movie:3681, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:3751, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.5
+Movie:3785, User: 18
+--Prediction: 1.1012497459865878
+--Actual Rating: 2.0
+Movie:3793, User: 18
+--Prediction: 1.246346459262126
+--Actual Rating: 4.0
+Movie:3949, User: 18
+--Prediction: 0.34412348535155424
+--Actual Rating: 4.5
+Movie:4011, User: 18
+--Prediction: 0.0634853262187729
+--Actual Rating: 4.5
+Movie:4643, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.0
+Movie:4963, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:4993, User: 18
+--Prediction: 1.1714454463453325
+--Actual Rating: 4.5
+Movie:4995, User: 18
+--Prediction: 2.369440963519911
+--Actual Rating: 4.5
+Movie:5349, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:5445, User: 18
+--Prediction: 1.7288863261212617
+--Actual Rating: 4.0
+Movie:5459, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 2.5
+Movie:5481, User: 18
+--Prediction: 0.4477770513239623
+--Actual Rating: 3.0
+Movie:5989, User: 18
+--Prediction: 2.369440963519911
+--Actual Rating: 4.0
+Movie:6333, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:6365, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:6377, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:6539, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.5
+Movie:6863, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:7153, User: 18
+--Prediction: 1.9887531328320804
+--Actual Rating: 4.5
+Movie:8665, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:8957, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:8961, User: 18
+--Prediction: 2.369440963519911
+--Actual Rating: 3.5
+Movie:27773, User: 18
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:32587, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:37741, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:45499, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:45517, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:58559, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:59315, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:64839, User: 18
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:68157, User: 18
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:69757, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:78499, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:89745, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:91529, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:109487, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.5
+Movie:111759, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 3.5
+Movie:115713, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.5
+Movie:134853, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 3.5
+Movie:166635, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:13, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:107, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:531, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:551, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:595, User: 20
+--Prediction: 2.07075164352122
+--Actual Rating: 5.0
+Movie:661, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 5.0
+Movie:709, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.0
+Movie:783, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:837, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:899, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:919, User: 20
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1021, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 2.0
+Movie:1025, User: 20
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1029, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:1031, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 3.0
+Movie:1073, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 5.0
+Movie:1097, User: 20
+--Prediction: 0.01717695020061072
+--Actual Rating: 5.0
+Movie:1333, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:1367, User: 20
+--Prediction: 0.8966681700956411
+--Actual Rating: 3.0
+Movie:1489, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:1907, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:1919, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:2005, User: 20
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:2033, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 4.0
+Movie:2081, User: 20
+--Prediction: 0.47629253129894966
+--Actual Rating: 5.0
+Movie:2085, User: 20
+--Prediction: 0.05591689250225862
+--Actual Rating: 4.0
+Movie:2137, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 4.5
+Movie:2141, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:2161, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:2167, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 2.0
+Movie:2355, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:2617, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 2.5
+Movie:2657, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 5.0
+Movie:2687, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.5
+Movie:2701, User: 20
+--Prediction: 2.5852350264256554
+--Actual Rating: 1.0
+Movie:2709, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:2761, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:2857, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:2987, User: 20
+--Prediction: 0.01717695020061072
+--Actual Rating: 5.0
+Movie:3301, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:3397, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:3483, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:3535, User: 20
+--Prediction: 0.47629253129894966
+--Actual Rating: 1.0
+Movie:3555, User: 20
+--Prediction: 0.05591689250225862
+--Actual Rating: 3.0
+Movie:3623, User: 20
+--Prediction: 2.5852350264256554
+--Actual Rating: 3.0
+Movie:3751, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:3753, User: 20
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:3793, User: 20
+--Prediction: 1.0417648833711795
+--Actual Rating: 3.5
+Movie:3897, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:3977, User: 20
+--Prediction: 2.066352816541748
+--Actual Rating: 3.5
+Movie:4643, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 3.0
+Movie:4993, User: 20
+--Prediction: 0.9668638704543859
+--Actual Rating: 5.0
+Movie:4995, User: 20
+--Prediction: 2.1648593876289643
+--Actual Rating: 5.0
+Movie:5349, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 3.0
+Movie:5445, User: 20
+--Prediction: 1.524304750230315
+--Actual Rating: 4.5
+Movie:5481, User: 20
+--Prediction: 0.24319547543301567
+--Actual Rating: 1.0
+Movie:5507, User: 20
+--Prediction: 0.24319547543301567
+--Actual Rating: 0.5
+Movie:5989, User: 20
+--Prediction: 2.1648593876289643
+--Actual Rating: 4.5
+Movie:5991, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 5.0
+Movie:6333, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+Movie:6365, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+
+UBCFb SIMILARITY: Cosine SVD type: a
+Movie:333, User: 2
+--Prediction: 4.0675222078133615
+--Actual Rating: 4.0
+Movie:58559, User: 2
+--Prediction: 3.4346461398410773
+--Actual Rating: 4.5
+Movie:68157, User: 2
+--Prediction: 3.8431077694235594
+--Actual Rating: 4.5
+Movie:77455, User: 2
+--Prediction: 3.3431077694235585
+--Actual Rating: 3.0
+Movie:91529, User: 2
+--Prediction: 2.6044834307992204
+--Actual Rating: 3.5
+Movie:109487, User: 2
+--Prediction: 4.60448343079922
+--Actual Rating: 3.0
+Movie:115713, User: 2
+--Prediction: 2.6044834307992204
+--Actual Rating: 3.5
+Movie:21, User: 4
+--Prediction: 4.0334476843910805
+--Actual Rating: 3.0
+Movie:47, User: 4
+--Prediction: 4.0924723334814015
+--Actual Rating: 2.0
+Movie:235, User: 4
+--Prediction: 4.195003043504788
+--Actual Rating: 2.0
+Movie:247, User: 4
+--Prediction: 5.0
+--Actual Rating: 3.0
+Movie:265, User: 4
+--Prediction: 3.0334476843910805
+--Actual Rating: 5.0
+Movie:319, User: 4
+--Prediction: 2.062414450199952
+--Actual Rating: 5.0
+Movie:351, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 3.0
+Movie:357, User: 4
+--Prediction: 3.288331359751318
+--Actual Rating: 3.0
+Movie:441, User: 4
+--Prediction: 3.3034320104098898
+--Actual Rating: 1.0
+Movie:457, User: 4
+--Prediction: 4.554195406545926
+--Actual Rating: 5.0
+Movie:475, User: 4
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:539, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 1.0
+Movie:553, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 2.0
+Movie:593, User: 4
+--Prediction: 4.487003604595873
+--Actual Rating: 5.0
+Movie:595, User: 4
+--Prediction: 4.496312877479372
+--Actual Rating: 3.0
+Movie:899, User: 4
+--Prediction: 2.9602875112309075
+--Actual Rating: 4.0
+Movie:919, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 5.0
+Movie:1025, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 4.0
+Movie:1057, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 3.0
+Movie:1073, User: 4
+--Prediction: 4.68813554276879
+--Actual Rating: 4.0
+Movie:1077, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 5.0
+Movie:1079, User: 4
+--Prediction: 5.0
+--Actual Rating: 2.0
+Movie:1179, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 4.0
+Movie:1183, User: 4
+--Prediction: 1.9395481628599809
+--Actual Rating: 1.0
+Movie:1197, User: 4
+--Prediction: 4.284528870088513
+--Actual Rating: 5.0
+Movie:1213, User: 4
+--Prediction: 4.103608486588459
+--Actual Rating: 4.0
+Movie:1219, User: 4
+--Prediction: 4.12056915915316
+--Actual Rating: 4.0
+Movie:1259, User: 4
+--Prediction: 3.7158096506137928
+--Actual Rating: 4.0
+Movie:1265, User: 4
+--Prediction: 4.001223659977232
+--Actual Rating: 4.0
+Movie:1291, User: 4
+--Prediction: 4.488240295607143
+--Actual Rating: 4.0
+Movie:1391, User: 4
+--Prediction: 2.2047014853323685
+--Actual Rating: 1.0
+Movie:1517, User: 4
+--Prediction: 4.082466398191464
+--Actual Rating: 4.0
+Movie:1597, User: 4
+--Prediction: 3.545972979760086
+--Actual Rating: 1.0
+Movie:1617, User: 4
+--Prediction: 4.177782459535902
+--Actual Rating: 2.0
+Movie:1885, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 3.0
+Movie:1895, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 4.0
+Movie:1907, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 3.0
+Movie:1923, User: 4
+--Prediction: 3.4953819607023404
+--Actual Rating: 3.0
+Movie:1967, User: 4
+--Prediction: 4.196021245132412
+--Actual Rating: 5.0
+Movie:2019, User: 4
+--Prediction: 4.2033088611793925
+--Actual Rating: 2.0
+Movie:2145, User: 4
+--Prediction: 3.0412426325124553
+--Actual Rating: 3.0
+Movie:2203, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 4.0
+Movie:2359, User: 4
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:2395, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 3.0
+Movie:2467, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 4.0
+Movie:2571, User: 4
+--Prediction: 4.601477675868775
+--Actual Rating: 1.0
+Movie:2683, User: 4
+--Prediction: 3.126069275480827
+--Actual Rating: 4.0
+Movie:2763, User: 4
+--Prediction: 5.0
+--Actual Rating: 1.0
+Movie:2791, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 5.0
+Movie:2959, User: 4
+--Prediction: 4.118288886143746
+--Actual Rating: 2.0
+Movie:2997, User: 4
+--Prediction: 4.195003043504788
+--Actual Rating: 4.0
+Movie:3033, User: 4
+--Prediction: 3.674400541296791
+--Actual Rating: 4.0
+Movie:3175, User: 4
+--Prediction: 5.0
+--Actual Rating: 1.0
+Movie:3255, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 4.0
+Movie:3481, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 2.0
+Movie:3489, User: 4
+--Prediction: 3.1812680420327903
+--Actual Rating: 1.0
+Movie:3591, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 1.0
+Movie:3809, User: 4
+--Prediction: 3.688135542768789
+--Actual Rating: 3.0
+Movie:3897, User: 4
+--Prediction: 4.024650030432137
+--Actual Rating: 4.0
+Movie:3, User: 6
+--Prediction: 3.6900203260145172
+--Actual Rating: 5.0
+Movie:7, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 4.0
+Movie:13, User: 6
+--Prediction: 3.9263454607335775
+--Actual Rating: 3.0
+Movie:15, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 4.0
+Movie:19, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 2.0
+Movie:21, User: 6
+--Prediction: 3.897378694924707
+--Actual Rating: 2.0
+Movie:31, User: 6
+--Prediction: 1.597844895390908
+--Actual Rating: 3.0
+Movie:41, User: 6
+--Prediction: 3.272872766070953
+--Actual Rating: 4.0
+Movie:47, User: 6
+--Prediction: 3.937770879375752
+--Actual Rating: 4.0
+Movie:65, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:87, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:95, User: 6
+--Prediction: 2.7524923312883436
+--Actual Rating: 4.0
+Movie:135, User: 6
+--Prediction: 3.9263454607335775
+--Actual Rating: 3.0
+Movie:141, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 4.0
+Movie:151, User: 6
+--Prediction: 4.167363020943517
+--Actual Rating: 4.0
+Movie:153, User: 6
+--Prediction: 2.8546379515127613
+--Actual Rating: 3.0
+Movie:161, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:163, User: 6
+--Prediction: 4.167363020943517
+--Actual Rating: 3.0
+Movie:165, User: 6
+--Prediction: 3.626684462599109
+--Actual Rating: 3.0
+Movie:185, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:231, User: 6
+--Prediction: 3.312762361480923
+--Actual Rating: 3.0
+Movie:253, User: 6
+--Prediction: 3.384848759755732
+--Actual Rating: 3.0
+Movie:261, User: 6
+--Prediction: 3.897378694924707
+--Actual Rating: 4.0
+Movie:265, User: 6
+--Prediction: 2.897378694924707
+--Actual Rating: 3.0
+Movie:273, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:289, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:291, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:293, User: 6
+--Prediction: 3.604257279370616
+--Actual Rating: 3.0
+Movie:329, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 4.0
+Movie:333, User: 6
+--Prediction: 3.312762361480923
+--Actual Rating: 5.0
+Movie:339, User: 6
+--Prediction: 3.9263454607335775
+--Actual Rating: 4.0
+Movie:349, User: 6
+--Prediction: 3.735039801437635
+--Actual Rating: 5.0
+Movie:351, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 4.0
+Movie:353, User: 6
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:355, User: 6
+--Prediction: 1.0855941831401958
+--Actual Rating: 4.0
+Movie:357, User: 6
+--Prediction: 3.3323430443701136
+--Actual Rating: 3.0
+Movie:367, User: 6
+--Prediction: 4.170060957682498
+--Actual Rating: 4.0
+Movie:371, User: 6
+--Prediction: 3.272872766070953
+--Actual Rating: 3.0
+Movie:377, User: 6
+--Prediction: 3.7557395870296415
+--Actual Rating: 5.0
+Movie:435, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:445, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:455, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:457, User: 6
+--Prediction: 4.473495195578699
+--Actual Rating: 5.0
+Movie:475, User: 6
+--Prediction: 4.897378694924708
+--Actual Rating: 4.0
+Movie:485, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:493, User: 6
+--Prediction: 2.7524923312883436
+--Actual Rating: 3.0
+Movie:497, User: 6
+--Prediction: 3.9263454607335775
+--Actual Rating: 3.0
+Movie:515, User: 6
+--Prediction: 2.897378694924707
+--Actual Rating: 4.0
+Movie:527, User: 6
+--Prediction: 4.306740773225883
+--Actual Rating: 3.0
+Movie:531, User: 6
+--Prediction: 3.897378694924707
+--Actual Rating: 3.0
+Movie:537, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:539, User: 6
+--Prediction: 3.9263454607335775
+--Actual Rating: 3.0
+Movie:543, User: 6
+--Prediction: 3.6900203260145172
+--Actual Rating: 3.0
+Movie:553, User: 6
+--Prediction: 4.167363020943517
+--Actual Rating: 5.0
+Movie:575, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 3.0
+Movie:587, User: 6
+--Prediction: 3.0896100071787935
+--Actual Rating: 5.0
+Movie:589, User: 6
+--Prediction: 4.063198854276331
+--Actual Rating: 3.0
+Movie:593, User: 6
+--Prediction: 4.472745525354409
+--Actual Rating: 4.0
+Movie:595, User: 6
+--Prediction: 4.362110925596234
+--Actual Rating: 5.0
+Movie:597, User: 6
+--Prediction: 3.232913496366652
+--Actual Rating: 4.0
+Movie:637, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 4.0
+Movie:647, User: 6
+--Prediction: 1.597844895390908
+--Actual Rating: 4.0
+Movie:709, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 5.0
+Movie:711, User: 6
+--Prediction: 3.9263454607335775
+--Actual Rating: 4.0
+Movie:719, User: 6
+--Prediction: 2.9263454607335775
+--Actual Rating: 2.0
+Movie:783, User: 6
+--Prediction: 4.926345460733577
+--Actual Rating: 5.0
+Movie:799, User: 6
+--Prediction: 3.9263454607335775
+--Actual Rating: 3.0
+Movie:837, User: 6
+--Prediction: 4.926345460733577
+--Actual Rating: 3.0
+Movie:839, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:881, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:1049, User: 6
+--Prediction: 3.312762361480923
+--Actual Rating: 5.0
+Movie:1073, User: 6
+--Prediction: 4.690020326014518
+--Actual Rating: 3.0
+Movie:21, User: 8
+--Prediction: 3.902097902097901
+--Actual Rating: 4.0
+Movie:39, User: 8
+--Prediction: 2.902097902097901
+--Actual Rating: 3.0
+Movie:47, User: 8
+--Prediction: 3.917272239947169
+--Actual Rating: 4.0
+Movie:141, User: 8
+--Prediction: 1.9310646679067731
+--Actual Rating: 3.0
+Movie:153, User: 8
+--Prediction: 2.8541827084552724
+--Actual Rating: 2.0
+Movie:185, User: 8
+--Prediction: 2.9310646679067727
+--Actual Rating: 5.0
+Movie:231, User: 8
+--Prediction: 3.4578010757687676
+--Actual Rating: 4.0
+Movie:235, User: 8
+--Prediction: 4.1844836995676875
+--Actual Rating: 3.0
+Movie:253, User: 8
+--Prediction: 3.31261287925836
+--Actual Rating: 5.0
+Movie:339, User: 8
+--Prediction: 3.9310646679067727
+--Actual Rating: 3.0
+Movie:357, User: 8
+--Prediction: 3.1105297620990866
+--Actual Rating: 5.0
+Movie:367, User: 8
+--Prediction: 4.053341072402105
+--Actual Rating: 3.0
+Movie:377, User: 8
+--Prediction: 3.6139918922259158
+--Actual Rating: 4.0
+Movie:457, User: 8
+--Prediction: 4.433883821181012
+--Actual Rating: 3.0
+Movie:527, User: 8
+--Prediction: 4.253544329380215
+--Actual Rating: 5.0
+Movie:539, User: 8
+--Prediction: 3.9310646679067727
+--Actual Rating: 3.0
+Movie:587, User: 8
+--Prediction: 2.9566298544171965
+--Actual Rating: 3.0
+Movie:593, User: 8
+--Prediction: 4.440052982739592
+--Actual Rating: 4.0
+Movie:597, User: 8
+--Prediction: 3.1805510472491973
+--Actual Rating: 3.0
+Movie:597, User: 10
+--Prediction: 2.782344344012347
+--Actual Rating: 3.5
+Movie:1307, User: 10
+--Prediction: 3.570569231140149
+--Actual Rating: 3.0
+Movie:1907, User: 10
+--Prediction: 3.570569231140149
+--Actual Rating: 4.0
+Movie:2571, User: 10
+--Prediction: 4.06630662205092
+--Actual Rating: 0.5
+Movie:2671, User: 10
+--Prediction: 4.447702943800179
+--Actual Rating: 3.5
+Movie:2959, User: 10
+--Prediction: 3.4531220120224124
+--Actual Rating: 0.5
+Movie:4993, User: 10
+--Prediction: 4.013988658069326
+--Actual Rating: 4.0
+Movie:4995, User: 10
+--Prediction: 4.589644603746287
+--Actual Rating: 4.0
+Movie:6377, User: 10
+--Prediction: 2.7298179535467675
+--Actual Rating: 3.5
+Movie:7153, User: 10
+--Prediction: 3.716492844802499
+--Actual Rating: 4.0
+Movie:8665, User: 10
+--Prediction: 3.447702943800179
+--Actual Rating: 3.5
+Movie:8961, User: 10
+--Prediction: 3.0833765567281004
+--Actual Rating: 2.5
+Movie:58559, User: 10
+--Prediction: 2.563142918638998
+--Actual Rating: 4.5
+Movie:91529, User: 10
+--Prediction: 1.7298179535467675
+--Actual Rating: 5.0
+Movie:109487, User: 10
+--Prediction: 3.7298179535467675
+--Actual Rating: 0.5
+Movie:39, User: 12
+--Prediction: 3.9261363636363633
+--Actual Rating: 4.0
+Movie:261, User: 12
+--Prediction: 4.926136363636363
+--Actual Rating: 4.5
+Movie:357, User: 12
+--Prediction: 4.608819594119997
+--Actual Rating: 3.5
+Movie:543, User: 12
+--Prediction: 4.777057710518975
+--Actual Rating: 3.5
+Movie:1265, User: 12
+--Prediction: 5.0
+--Actual Rating: 3.5
+Movie:1405, User: 12
+--Prediction: 4.108337937706022
+--Actual Rating: 3.0
+Movie:1721, User: 12
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:2485, User: 12
+--Prediction: 4.955103129445234
+--Actual Rating: 5.0
+Movie:2581, User: 12
+--Prediction: 4.955103129445234
+--Actual Rating: 5.0
+Movie:2717, User: 12
+--Prediction: 3.7728228385201805
+--Actual Rating: 5.0
+Movie:7, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 3.0
+Movie:19, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 1.0
+Movie:39, User: 14
+--Prediction: 2.7549407114624502
+--Actual Rating: 3.0
+Movie:47, User: 14
+--Prediction: 3.759896487264113
+--Actual Rating: 5.0
+Movie:95, User: 14
+--Prediction: 2.610054347826087
+--Actual Rating: 5.0
+Movie:153, User: 14
+--Prediction: 2.7046802822906355
+--Actual Rating: 2.0
+Movie:231, User: 14
+--Prediction: 3.3879514489894635
+--Actual Rating: 3.0
+Movie:339, User: 14
+--Prediction: 3.7839074772713213
+--Actual Rating: 4.0
+Movie:351, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 3.0
+Movie:367, User: 14
+--Prediction: 3.8457297993865005
+--Actual Rating: 1.0
+Movie:377, User: 14
+--Prediction: 3.394218994054147
+--Actual Rating: 3.0
+Movie:455, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 3.0
+Movie:527, User: 14
+--Prediction: 4.0726010165404025
+--Actual Rating: 3.0
+Movie:539, User: 14
+--Prediction: 3.7839074772713213
+--Actual Rating: 4.0
+Movie:553, User: 14
+--Prediction: 4.024925037481259
+--Actual Rating: 4.0
+Movie:593, User: 14
+--Prediction: 4.272852003248848
+--Actual Rating: 4.0
+Movie:597, User: 14
+--Prediction: 3.0058232657519492
+--Actual Rating: 3.0
+Movie:47, User: 16
+--Prediction: 4.03594566266405
+--Actual Rating: 3.5
+Movie:111, User: 16
+--Prediction: 3.460930735930736
+--Actual Rating: 4.5
+Movie:293, User: 16
+--Prediction: 3.480669564014985
+--Actual Rating: 4.0
+Movie:319, User: 16
+--Prediction: 2.0630576748997798
+--Actual Rating: 4.0
+Movie:527, User: 16
+--Prediction: 4.305999405080619
+--Actual Rating: 4.0
+Movie:541, User: 16
+--Prediction: 3.6590900974740777
+--Actual Rating: 4.5
+Movie:593, User: 16
+--Prediction: 4.525531388543529
+--Actual Rating: 3.0
+Movie:745, User: 16
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:849, User: 16
+--Prediction: 3.4407363113842275
+--Actual Rating: 4.0
+Movie:913, User: 16
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:923, User: 16
+--Prediction: 4.995326314433497
+--Actual Rating: 3.5
+Movie:1089, User: 16
+--Prediction: 3.84682377778246
+--Actual Rating: 4.0
+Movie:1193, User: 16
+--Prediction: 4.326969639569788
+--Actual Rating: 4.0
+Movie:1197, User: 16
+--Prediction: 4.0816476350948045
+--Actual Rating: 4.0
+Movie:1201, User: 16
+--Prediction: 4.460930735930736
+--Actual Rating: 3.0
+Movie:1213, User: 16
+--Prediction: 4.090780255486512
+--Actual Rating: 3.5
+Movie:1219, User: 16
+--Prediction: 4.175820352519105
+--Actual Rating: 3.0
+Movie:1267, User: 16
+--Prediction: 4.063057674899779
+--Actual Rating: 4.0
+Movie:1617, User: 16
+--Prediction: 4.063108159146958
+--Actual Rating: 3.5
+Movie:2019, User: 16
+--Prediction: 4.221138818218851
+--Actual Rating: 4.0
+Movie:2329, User: 16
+--Prediction: 4.33786635108685
+--Actual Rating: 3.5
+Movie:2427, User: 16
+--Prediction: 4.304075235109718
+--Actual Rating: 1.5
+Movie:2571, User: 16
+--Prediction: 4.556371816272546
+--Actual Rating: 3.5
+Movie:2641, User: 16
+--Prediction: 4.1957151275834494
+--Actual Rating: 3.0
+Movie:2723, User: 16
+--Prediction: 5.0
+--Actual Rating: 3.5
+Movie:2959, User: 16
+--Prediction: 3.952495179585385
+--Actual Rating: 3.5
+Movie:3683, User: 16
+--Prediction: 4.063057674899779
+--Actual Rating: 4.0
+Movie:3949, User: 16
+--Prediction: 3.6148054474774414
+--Actual Rating: 4.0
+Movie:4011, User: 16
+--Prediction: 5.0
+--Actual Rating: 3.0
+Movie:4993, User: 16
+--Prediction: 4.50877807217943
+--Actual Rating: 3.5
+Movie:5971, User: 16
+--Prediction: 2.8312694175323805
+--Actual Rating: 4.0
+Movie:7099, User: 16
+--Prediction: 4.460930735930736
+--Actual Rating: 3.5
+Movie:7153, User: 16
+--Prediction: 4.204538904482424
+--Actual Rating: 3.5
+Movie:27773, User: 16
+--Prediction: 3.460930735930736
+--Actual Rating: 4.0
+Movie:58559, User: 16
+--Prediction: 3.0770917388111307
+--Actual Rating: 4.5
+Movie:60069, User: 16
+--Prediction: 3.3479801324173795
+--Actual Rating: 4.0
+Movie:78499, User: 16
+--Prediction: 3.460930735930736
+--Actual Rating: 4.5
+Movie:91529, User: 16
+--Prediction: 2.2223063973063972
+--Actual Rating: 4.5
+Movie:1, User: 18
+--Prediction: 4.073106339669806
+--Actual Rating: 3.5
+Movie:47, User: 18
+--Prediction: 4.047903224217573
+--Actual Rating: 4.5
+Movie:111, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 4.0
+Movie:163, User: 18
+--Prediction: 4.342267306196526
+--Actual Rating: 4.0
+Movie:165, User: 18
+--Prediction: 3.7919922214610517
+--Actual Rating: 4.0
+Movie:223, User: 18
+--Prediction: 3.844180070318844
+--Actual Rating: 4.0
+Movie:231, User: 18
+--Prediction: 3.714216934200054
+--Actual Rating: 2.5
+Movie:235, User: 18
+--Prediction: 4.232447760579884
+--Actual Rating: 4.5
+Movie:293, User: 18
+--Prediction: 3.52433903873609
+--Actual Rating: 4.5
+Movie:329, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 4.0
+Movie:367, User: 18
+--Prediction: 4.1519600463562405
+--Actual Rating: 2.5
+Movie:377, User: 18
+--Prediction: 3.6486795264645058
+--Actual Rating: 2.5
+Movie:435, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 2.0
+Movie:457, User: 18
+--Prediction: 4.575888738644121
+--Actual Rating: 3.5
+Movie:527, User: 18
+--Prediction: 4.431892529651677
+--Actual Rating: 4.5
+Movie:541, User: 18
+--Prediction: 3.713703240755757
+--Actual Rating: 4.0
+Movie:589, User: 18
+--Prediction: 3.8552006163515133
+--Actual Rating: 4.5
+Movie:593, User: 18
+--Prediction: 4.613893131159751
+--Actual Rating: 4.5
+Movie:595, User: 18
+--Prediction: 4.513264414247335
+--Actual Rating: 3.0
+Movie:653, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 3.0
+Movie:673, User: 18
+--Prediction: 2.220293876326664
+--Actual Rating: 3.0
+Movie:745, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:849, User: 18
+--Prediction: 3.2882330535982596
+--Actual Rating: 3.5
+Movie:913, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:919, User: 18
+--Prediction: 4.342267306196526
+--Actual Rating: 4.0
+Movie:923, User: 18
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:1089, User: 18
+--Prediction: 3.862857933642293
+--Actual Rating: 4.0
+Movie:1095, User: 18
+--Prediction: 4.447777051323962
+--Actual Rating: 4.0
+Movie:1193, User: 18
+--Prediction: 4.3737711365181955
+--Actual Rating: 4.5
+Movie:1201, User: 18
+--Prediction: 4.499122807017544
+--Actual Rating: 5.0
+Movie:1209, User: 18
+--Prediction: 2.9991228070175433
+--Actual Rating: 5.0
+Movie:1213, User: 18
+--Prediction: 4.113904336055673
+--Actual Rating: 4.5
+Movie:1219, User: 18
+--Prediction: 4.391787060803198
+--Actual Rating: 4.5
+Movie:1221, User: 18
+--Prediction: 3.999122807017544
+--Actual Rating: 5.0
+Movie:1275, User: 18
+--Prediction: 4.534801488506131
+--Actual Rating: 3.5
+Movie:1291, User: 18
+--Prediction: 4.373355285685644
+--Actual Rating: 4.0
+Movie:1371, User: 18
+--Prediction: 4.1769240580813936
+--Actual Rating: 4.0
+Movie:1375, User: 18
+--Prediction: 3.3737711365181937
+--Actual Rating: 3.5
+Movie:1391, User: 18
+--Prediction: 1.9804788095684311
+--Actual Rating: 3.0
+Movie:1517, User: 18
+--Prediction: 4.0960578827226115
+--Actual Rating: 2.5
+Movie:1527, User: 18
+--Prediction: 4.173521436548999
+--Actual Rating: 3.5
+Movie:1617, User: 18
+--Prediction: 4.085451956265446
+--Actual Rating: 4.0
+Movie:1625, User: 18
+--Prediction: 4.726370818453274
+--Actual Rating: 3.5
+Movie:1653, User: 18
+--Prediction: 4.870016589646944
+--Actual Rating: 3.5
+Movie:1721, User: 18
+--Prediction: 4.5867011908500235
+--Actual Rating: 4.0
+Movie:1805, User: 18
+--Prediction: 3.7263708184532742
+--Actual Rating: 3.5
+Movie:1917, User: 18
+--Prediction: 3.9907889129318788
+--Actual Rating: 3.0
+Movie:2001, User: 18
+--Prediction: 4.566511742744892
+--Actual Rating: 3.5
+Movie:2011, User: 18
+--Prediction: 4.128419641532426
+--Actual Rating: 3.5
+Movie:2019, User: 18
+--Prediction: 4.2831940417922745
+--Actual Rating: 4.0
+Movie:2115, User: 18
+--Prediction: 4.220293876326664
+--Actual Rating: 4.0
+Movie:2291, User: 18
+--Prediction: 4.342267306196526
+--Actual Rating: 4.0
+Movie:2329, User: 18
+--Prediction: 4.385363274540246
+--Actual Rating: 4.0
+Movie:2571, User: 18
+--Prediction: 4.592480462361888
+--Actual Rating: 4.5
+Movie:2683, User: 18
+--Prediction: 3.0042354160461326
+--Actual Rating: 2.5
+Movie:2953, User: 18
+--Prediction: 4.101249745986587
+--Actual Rating: 3.0
+Movie:2959, User: 18
+--Prediction: 3.969572476271833
+--Actual Rating: 4.5
+Movie:2997, User: 18
+--Prediction: 4.232447760579884
+--Actual Rating: 4.0
+Movie:3081, User: 18
+--Prediction: 4.101249745986587
+--Actual Rating: 4.0
+Movie:3147, User: 18
+--Prediction: 4.595277751727977
+--Actual Rating: 4.0
+Movie:3253, User: 18
+--Prediction: 3.714216934200054
+--Actual Rating: 3.0
+Movie:3257, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 3.0
+Movie:3681, User: 18
+--Prediction: 3.999122807017544
+--Actual Rating: 4.5
+Movie:3751, User: 18
+--Prediction: 4.101249745986587
+--Actual Rating: 3.5
+Movie:3785, User: 18
+--Prediction: 2.101249745986588
+--Actual Rating: 2.0
+Movie:3793, User: 18
+--Prediction: 4.274207525512242
+--Actual Rating: 4.0
+Movie:3949, User: 18
+--Prediction: 3.7500264878582175
+--Actual Rating: 4.5
+Movie:4011, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.5
+Movie:4643, User: 18
+--Prediction: 1.4783834586466167
+--Actual Rating: 3.0
+Movie:4963, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:4993, User: 18
+--Prediction: 4.544470546576592
+--Actual Rating: 4.5
+Movie:4995, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.5
+Movie:5349, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 4.0
+Movie:5445, User: 18
+--Prediction: 4.394300268651651
+--Actual Rating: 4.0
+Movie:5459, User: 18
+--Prediction: 3.4783834586466167
+--Actual Rating: 2.5
+Movie:5481, User: 18
+--Prediction: 5.0
+--Actual Rating: 3.0
+Movie:5989, User: 18
+--Prediction: 4.871788983407324
+--Actual Rating: 4.0
+Movie:6333, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:6365, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:6377, User: 18
+--Prediction: 3.2604984683932052
+--Actual Rating: 4.0
+Movie:6539, User: 18
+--Prediction: 4.978383458646617
+--Actual Rating: 4.5
+Movie:6863, User: 18
+--Prediction: 4.978383458646617
+--Actual Rating: 3.5
+Movie:7153, User: 18
+--Prediction: 4.247343911285833
+--Actual Rating: 4.5
+Movie:8665, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 4.0
+Movie:8957, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:8961, User: 18
+--Prediction: 3.6142836297887633
+--Actual Rating: 3.5
+Movie:27773, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 3.5
+Movie:32587, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 3.5
+Movie:37741, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 4.0
+Movie:45499, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:45517, User: 18
+--Prediction: 4.978383458646617
+--Actual Rating: 3.5
+Movie:58559, User: 18
+--Prediction: 3.0934339170426757
+--Actual Rating: 4.0
+Movie:59315, User: 18
+--Prediction: 2.2604984683932052
+--Actual Rating: 4.0
+Movie:64839, User: 18
+--Prediction: 2.9991228070175433
+--Actual Rating: 3.5
+Movie:68157, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 3.5
+Movie:69757, User: 18
+--Prediction: 4.260498468393205
+--Actual Rating: 4.0
+Movie:78499, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 4.0
+Movie:89745, User: 18
+--Prediction: 2.2604984683932052
+--Actual Rating: 4.0
+Movie:91529, User: 18
+--Prediction: 2.2604984683932052
+--Actual Rating: 4.0
+Movie:109487, User: 18
+--Prediction: 4.260498468393205
+--Actual Rating: 4.5
+Movie:111759, User: 18
+--Prediction: 4.760498468393205
+--Actual Rating: 3.5
+Movie:115713, User: 18
+--Prediction: 2.2604984683932052
+--Actual Rating: 4.5
+Movie:134853, User: 18
+--Prediction: 4.760498468393205
+--Actual Rating: 3.5
+Movie:166635, User: 18
+--Prediction: 3.7604984683932052
+--Actual Rating: 4.0
+Movie:13, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 4.0
+Movie:107, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:531, User: 20
+--Prediction: 3.8677014042867697
+--Actual Rating: 4.5
+Movie:551, User: 20
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:595, User: 20
+--Prediction: 4.33846444589422
+--Actual Rating: 5.0
+Movie:661, User: 20
+--Prediction: 3.989479376831249
+--Actual Rating: 5.0
+Movie:709, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.0
+Movie:783, User: 20
+--Prediction: 4.896668170095641
+--Actual Rating: 3.5
+Movie:837, User: 20
+--Prediction: 4.896668170095641
+--Actual Rating: 4.0
+Movie:899, User: 20
+--Prediction: 2.7945412311265967
+--Actual Rating: 4.0
+Movie:919, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 5.0
+Movie:1021, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 2.0
+Movie:1025, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 5.0
+Movie:1029, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:1031, User: 20
+--Prediction: 3.3745600599763517
+--Actual Rating: 3.0
+Movie:1073, User: 20
+--Prediction: 4.6043986936861465
+--Actual Rating: 5.0
+Movie:1097, User: 20
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:1333, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 3.5
+Movie:1367, User: 20
+--Prediction: 1.8966681700956411
+--Actual Rating: 3.0
+Movie:1489, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 4.0
+Movie:1907, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 5.0
+Movie:1919, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:2005, User: 20
+--Prediction: 4.106595806280765
+--Actual Rating: 5.0
+Movie:2033, User: 20
+--Prediction: 3.989479376831249
+--Actual Rating: 4.0
+Movie:2081, User: 20
+--Prediction: 3.9420444064675078
+--Actual Rating: 5.0
+Movie:2085, User: 20
+--Prediction: 1.5559168925022586
+--Actual Rating: 4.0
+Movie:2137, User: 20
+--Prediction: 4.6043986936861465
+--Actual Rating: 4.5
+Movie:2141, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:2161, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:2167, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 2.0
+Movie:2355, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 4.0
+Movie:2617, User: 20
+--Prediction: 2.834237327395942
+--Actual Rating: 2.5
+Movie:2657, User: 20
+--Prediction: 3.219318010541045
+--Actual Rating: 5.0
+Movie:2687, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 4.5
+Movie:2701, User: 20
+--Prediction: 1.8337664865118133
+--Actual Rating: 1.0
+Movie:2709, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 5.0
+Movie:2761, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:2857, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 4.0
+Movie:2987, User: 20
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:3301, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:3397, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 5.0
+Movie:3483, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:3535, User: 20
+--Prediction: 3.238558193050639
+--Actual Rating: 1.0
+Movie:3555, User: 20
+--Prediction: 4.055916892502259
+--Actual Rating: 3.0
+Movie:3623, User: 20
+--Prediction: 2.0658379731787146
+--Actual Rating: 3.0
+Movie:3751, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 5.0
+Movie:3753, User: 20
+--Prediction: 3.450657283671766
+--Actual Rating: 3.0
+Movie:3793, User: 20
+--Prediction: 4.1610602500513565
+--Actual Rating: 3.5
+Movie:3897, User: 20
+--Prediction: 3.8589037503278263
+--Actual Rating: 4.5
+Movie:3977, User: 20
+--Prediction: 2.8162037866019642
+--Actual Rating: 3.5
+Movie:4643, User: 20
+--Prediction: 1.27380188275567
+--Actual Rating: 3.0
+Movie:4993, User: 20
+--Prediction: 4.342829181427701
+--Actual Rating: 5.0
+Movie:4995, User: 20
+--Prediction: 4.916738018504407
+--Actual Rating: 5.0
+Movie:5349, User: 20
+--Prediction: 3.77380188275567
+--Actual Rating: 3.0
+Movie:5445, User: 20
+--Prediction: 4.189725473263453
+--Actual Rating: 4.5
+Movie:5481, User: 20
+--Prediction: 5.0
+--Actual Rating: 1.0
+Movie:5507, User: 20
+--Prediction: 1.2431954754330157
+--Actual Rating: 0.5
+Movie:5989, User: 20
+--Prediction: 4.670067566402496
+--Actual Rating: 4.5
+Movie:5991, User: 20
+--Prediction: 4.77380188275567
+--Actual Rating: 5.0
+Movie:6333, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+Movie:6365, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+
+UBCFb SIMILARITY: Cosine SVD type: b
+Movie:333, User: 2
+--Prediction: 4.074467135238621
+--Actual Rating: 4.0
+Movie:58559, User: 2
+--Prediction: 3.4392373988870895
+--Actual Rating: 4.5
+Movie:68157, User: 2
+--Prediction: 3.8431077694235594
+--Actual Rating: 4.5
+Movie:77455, User: 2
+--Prediction: 3.3431077694235585
+--Actual Rating: 3.0
+Movie:91529, User: 2
+--Prediction: 2.6044834307992204
+--Actual Rating: 3.5
+Movie:109487, User: 2
+--Prediction: 4.60448343079922
+--Actual Rating: 3.0
+Movie:115713, User: 2
+--Prediction: 2.6044834307992204
+--Actual Rating: 3.5
+Movie:21, User: 4
+--Prediction: 4.0334476843910805
+--Actual Rating: 3.0
+Movie:47, User: 4
+--Prediction: 4.099168139700831
+--Actual Rating: 2.0
+Movie:235, User: 4
+--Prediction: 4.191439530512765
+--Actual Rating: 2.0
+Movie:247, User: 4
+--Prediction: 5.0
+--Actual Rating: 3.0
+Movie:265, User: 4
+--Prediction: 3.0334476843910805
+--Actual Rating: 5.0
+Movie:319, User: 4
+--Prediction: 2.062414450199952
+--Actual Rating: 5.0
+Movie:351, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 3.0
+Movie:357, User: 4
+--Prediction: 3.344014324085546
+--Actual Rating: 3.0
+Movie:441, User: 4
+--Prediction: 3.3034320104098898
+--Actual Rating: 1.0
+Movie:457, User: 4
+--Prediction: 4.557975846726427
+--Actual Rating: 5.0
+Movie:475, User: 4
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:539, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 1.0
+Movie:553, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 2.0
+Movie:593, User: 4
+--Prediction: 4.467489591959876
+--Actual Rating: 5.0
+Movie:595, User: 4
+--Prediction: 4.49530939340532
+--Actual Rating: 3.0
+Movie:899, User: 4
+--Prediction: 2.9602875112309075
+--Actual Rating: 4.0
+Movie:919, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 5.0
+Movie:1025, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 4.0
+Movie:1057, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 3.0
+Movie:1073, User: 4
+--Prediction: 4.6865979243573
+--Actual Rating: 4.0
+Movie:1077, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 5.0
+Movie:1079, User: 4
+--Prediction: 5.0
+--Actual Rating: 2.0
+Movie:1179, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 4.0
+Movie:1183, User: 4
+--Prediction: 1.9395481628599809
+--Actual Rating: 1.0
+Movie:1197, User: 4
+--Prediction: 4.319999114848375
+--Actual Rating: 5.0
+Movie:1213, User: 4
+--Prediction: 4.109849138183472
+--Actual Rating: 4.0
+Movie:1219, User: 4
+--Prediction: 4.075447032009606
+--Actual Rating: 4.0
+Movie:1259, User: 4
+--Prediction: 3.7255990663448264
+--Actual Rating: 4.0
+Movie:1265, User: 4
+--Prediction: 4.0077347743582585
+--Actual Rating: 4.0
+Movie:1291, User: 4
+--Prediction: 4.515288455989925
+--Actual Rating: 4.0
+Movie:1391, User: 4
+--Prediction: 2.262683291752407
+--Actual Rating: 1.0
+Movie:1517, User: 4
+--Prediction: 4.0871503191103535
+--Actual Rating: 4.0
+Movie:1597, User: 4
+--Prediction: 3.530880445238364
+--Actual Rating: 1.0
+Movie:1617, User: 4
+--Prediction: 4.199502894725744
+--Actual Rating: 2.0
+Movie:1885, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 3.0
+Movie:1895, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 4.0
+Movie:1907, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 3.0
+Movie:1923, User: 4
+--Prediction: 3.5251884215054408
+--Actual Rating: 3.0
+Movie:1967, User: 4
+--Prediction: 4.213528375134607
+--Actual Rating: 5.0
+Movie:2019, User: 4
+--Prediction: 4.199967903178051
+--Actual Rating: 2.0
+Movie:2145, User: 4
+--Prediction: 3.0416728405321045
+--Actual Rating: 3.0
+Movie:2203, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 4.0
+Movie:2359, User: 4
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:2395, User: 4
+--Prediction: 4.303432010409891
+--Actual Rating: 3.0
+Movie:2467, User: 4
+--Prediction: 4.0624144501999515
+--Actual Rating: 4.0
+Movie:2571, User: 4
+--Prediction: 4.605284868947284
+--Actual Rating: 1.0
+Movie:2683, User: 4
+--Prediction: 3.154589620003881
+--Actual Rating: 4.0
+Movie:2763, User: 4
+--Prediction: 5.0
+--Actual Rating: 1.0
+Movie:2791, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 5.0
+Movie:2959, User: 4
+--Prediction: 4.151150545889079
+--Actual Rating: 2.0
+Movie:2997, User: 4
+--Prediction: 4.191439530512765
+--Actual Rating: 4.0
+Movie:3033, User: 4
+--Prediction: 3.676914712046366
+--Actual Rating: 4.0
+Movie:3175, User: 4
+--Prediction: 5.0
+--Actual Rating: 1.0
+Movie:3255, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 4.0
+Movie:3481, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 2.0
+Movie:3489, User: 4
+--Prediction: 3.181756318201833
+--Actual Rating: 1.0
+Movie:3591, User: 4
+--Prediction: 3.0624144501999515
+--Actual Rating: 1.0
+Movie:3809, User: 4
+--Prediction: 3.686597924357299
+--Actual Rating: 3.0
+Movie:3897, User: 4
+--Prediction: 4.024650030432137
+--Actual Rating: 4.0
+Movie:3, User: 6
+--Prediction: 3.6539335062510525
+--Actual Rating: 5.0
+Movie:7, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:13, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:15, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:19, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 2.0
+Movie:21, User: 6
+--Prediction: 3.897378694924707
+--Actual Rating: 2.0
+Movie:31, User: 6
+--Prediction: 1.597844895390908
+--Actual Rating: 3.0
+Movie:41, User: 6
+--Prediction: 3.272872766070953
+--Actual Rating: 4.0
+Movie:47, User: 6
+--Prediction: 3.9478803490531496
+--Actual Rating: 4.0
+Movie:65, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:87, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:95, User: 6
+--Prediction: 2.7524923312883436
+--Actual Rating: 4.0
+Movie:135, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:141, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 4.0
+Movie:151, User: 6
+--Prediction: 4.167363020943517
+--Actual Rating: 4.0
+Movie:153, User: 6
+--Prediction: 2.8551639362091525
+--Actual Rating: 3.0
+Movie:161, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:163, User: 6
+--Prediction: 4.167363020943517
+--Actual Rating: 3.0
+Movie:165, User: 6
+--Prediction: 3.632167591379949
+--Actual Rating: 3.0
+Movie:185, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:231, User: 6
+--Prediction: 3.371768175938208
+--Actual Rating: 3.0
+Movie:253, User: 6
+--Prediction: 3.386002256217216
+--Actual Rating: 3.0
+Movie:261, User: 6
+--Prediction: 3.897378694924707
+--Actual Rating: 4.0
+Movie:265, User: 6
+--Prediction: 2.897378694924707
+--Actual Rating: 3.0
+Movie:273, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:289, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:291, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:293, User: 6
+--Prediction: 3.5981419452688796
+--Actual Rating: 3.0
+Movie:329, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:333, User: 6
+--Prediction: 3.371768175938208
+--Actual Rating: 5.0
+Movie:339, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 4.0
+Movie:349, User: 6
+--Prediction: 3.707981368559465
+--Actual Rating: 5.0
+Movie:351, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:353, User: 6
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:355, User: 6
+--Prediction: 1.0855941831401958
+--Actual Rating: 4.0
+Movie:357, User: 6
+--Prediction: 3.335738588873988
+--Actual Rating: 3.0
+Movie:367, User: 6
+--Prediction: 4.13005950082321
+--Actual Rating: 4.0
+Movie:371, User: 6
+--Prediction: 3.272872766070953
+--Actual Rating: 3.0
+Movie:377, User: 6
+--Prediction: 3.764539194033652
+--Actual Rating: 5.0
+Movie:435, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:445, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:455, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:457, User: 6
+--Prediction: 4.464224344263469
+--Actual Rating: 5.0
+Movie:475, User: 6
+--Prediction: 4.897378694924708
+--Actual Rating: 4.0
+Movie:485, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:493, User: 6
+--Prediction: 2.7524923312883436
+--Actual Rating: 3.0
+Movie:497, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:515, User: 6
+--Prediction: 2.897378694924707
+--Actual Rating: 4.0
+Movie:527, User: 6
+--Prediction: 4.232761155037297
+--Actual Rating: 3.0
+Movie:531, User: 6
+--Prediction: 3.897378694924707
+--Actual Rating: 3.0
+Movie:537, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:539, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:543, User: 6
+--Prediction: 3.6539335062510525
+--Actual Rating: 3.0
+Movie:553, User: 6
+--Prediction: 4.167363020943517
+--Actual Rating: 5.0
+Movie:575, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 3.0
+Movie:587, User: 6
+--Prediction: 3.088961714956001
+--Actual Rating: 5.0
+Movie:589, User: 6
+--Prediction: 4.063350461277507
+--Actual Rating: 3.0
+Movie:593, User: 6
+--Prediction: 4.429182203438094
+--Actual Rating: 4.0
+Movie:595, User: 6
+--Prediction: 4.360444627838689
+--Actual Rating: 5.0
+Movie:597, User: 6
+--Prediction: 3.2290666608608305
+--Actual Rating: 4.0
+Movie:637, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 4.0
+Movie:647, User: 6
+--Prediction: 1.597844895390908
+--Actual Rating: 4.0
+Movie:709, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 5.0
+Movie:711, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 4.0
+Movie:719, User: 6
+--Prediction: 2.926345460733578
+--Actual Rating: 2.0
+Movie:783, User: 6
+--Prediction: 4.926345460733578
+--Actual Rating: 5.0
+Movie:799, User: 6
+--Prediction: 3.926345460733578
+--Actual Rating: 3.0
+Movie:837, User: 6
+--Prediction: 4.926345460733578
+--Actual Rating: 3.0
+Movie:839, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:881, User: 6
+--Prediction: 1.9263454607335784
+--Actual Rating: 3.0
+Movie:1049, User: 6
+--Prediction: 3.371768175938208
+--Actual Rating: 5.0
+Movie:1073, User: 6
+--Prediction: 4.653933506251054
+--Actual Rating: 3.0
+Movie:21, User: 8
+--Prediction: 3.9020979020979016
+--Actual Rating: 4.0
+Movie:39, User: 8
+--Prediction: 2.9020979020979016
+--Actual Rating: 3.0
+Movie:47, User: 8
+--Prediction: 3.932089506006032
+--Actual Rating: 4.0
+Movie:141, User: 8
+--Prediction: 1.9310646679067731
+--Actual Rating: 3.0
+Movie:153, User: 8
+--Prediction: 2.8556039918716776
+--Actual Rating: 2.0
+Movie:185, User: 8
+--Prediction: 2.9310646679067727
+--Actual Rating: 5.0
+Movie:231, User: 8
+--Prediction: 3.4854539720783193
+--Actual Rating: 4.0
+Movie:235, User: 8
+--Prediction: 4.145289283165063
+--Actual Rating: 3.0
+Movie:253, User: 8
+--Prediction: 3.328561181566343
+--Actual Rating: 5.0
+Movie:339, User: 8
+--Prediction: 3.9310646679067727
+--Actual Rating: 3.0
+Movie:357, User: 8
+--Prediction: 3.1574767377129955
+--Actual Rating: 5.0
+Movie:367, User: 8
+--Prediction: 4.038594457451579
+--Actual Rating: 3.0
+Movie:377, User: 8
+--Prediction: 3.650136982685754
+--Actual Rating: 4.0
+Movie:457, User: 8
+--Prediction: 4.4335230688224865
+--Actual Rating: 3.0
+Movie:527, User: 8
+--Prediction: 4.197555568551538
+--Actual Rating: 5.0
+Movie:539, User: 8
+--Prediction: 3.9310646679067727
+--Actual Rating: 3.0
+Movie:587, User: 8
+--Prediction: 2.980957318090185
+--Actual Rating: 3.0
+Movie:593, User: 8
+--Prediction: 4.407695143135303
+--Actual Rating: 4.0
+Movie:597, User: 8
+--Prediction: 3.1880382663010867
+--Actual Rating: 3.0
+Movie:597, User: 10
+--Prediction: 2.793923502530293
+--Actual Rating: 3.5
+Movie:1307, User: 10
+--Prediction: 3.5705692311401496
+--Actual Rating: 3.0
+Movie:1907, User: 10
+--Prediction: 3.5705692311401496
+--Actual Rating: 4.0
+Movie:2571, User: 10
+--Prediction: 4.074811872342069
+--Actual Rating: 0.5
+Movie:2671, User: 10
+--Prediction: 4.447702943800179
+--Actual Rating: 3.5
+Movie:2959, User: 10
+--Prediction: 3.4946873594262846
+--Actual Rating: 0.5
+Movie:4993, User: 10
+--Prediction: 4.0138363828819035
+--Actual Rating: 4.0
+Movie:4995, User: 10
+--Prediction: 4.589486398268221
+--Actual Rating: 4.0
+Movie:6377, User: 10
+--Prediction: 2.7298179535467675
+--Actual Rating: 3.5
+Movie:7153, User: 10
+--Prediction: 3.7152417060041865
+--Actual Rating: 4.0
+Movie:8665, User: 10
+--Prediction: 3.447702943800179
+--Actual Rating: 3.5
+Movie:8961, User: 10
+--Prediction: 3.0843399185016906
+--Actual Rating: 2.5
+Movie:58559, User: 10
+--Prediction: 2.5686534605580533
+--Actual Rating: 4.5
+Movie:91529, User: 10
+--Prediction: 1.7298179535467675
+--Actual Rating: 5.0
+Movie:109487, User: 10
+--Prediction: 3.7298179535467675
+--Actual Rating: 0.5
+Movie:39, User: 12
+--Prediction: 3.9261363636363633
+--Actual Rating: 4.0
+Movie:261, User: 12
+--Prediction: 4.926136363636363
+--Actual Rating: 4.5
+Movie:357, User: 12
+--Prediction: 4.576743135371674
+--Actual Rating: 3.5
+Movie:543, User: 12
+--Prediction: 4.7361814332161
+--Actual Rating: 3.5
+Movie:1265, User: 12
+--Prediction: 5.0
+--Actual Rating: 3.5
+Movie:1405, User: 12
+--Prediction: 4.1175558458784245
+--Actual Rating: 3.0
+Movie:1721, User: 12
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:2485, User: 12
+--Prediction: 4.955103129445234
+--Actual Rating: 5.0
+Movie:2581, User: 12
+--Prediction: 4.955103129445234
+--Actual Rating: 5.0
+Movie:2717, User: 12
+--Prediction: 3.7920455294636213
+--Actual Rating: 5.0
+Movie:7, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 3.0
+Movie:19, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 1.0
+Movie:39, User: 14
+--Prediction: 2.7549407114624502
+--Actual Rating: 3.0
+Movie:47, User: 14
+--Prediction: 3.7759392053390424
+--Actual Rating: 5.0
+Movie:95, User: 14
+--Prediction: 2.610054347826087
+--Actual Rating: 5.0
+Movie:153, User: 14
+--Prediction: 2.7064732975460375
+--Actual Rating: 2.0
+Movie:231, User: 14
+--Prediction: 3.3957207170307813
+--Actual Rating: 3.0
+Movie:339, User: 14
+--Prediction: 3.7839074772713213
+--Actual Rating: 4.0
+Movie:351, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 3.0
+Movie:367, User: 14
+--Prediction: 3.844315140685333
+--Actual Rating: 1.0
+Movie:377, User: 14
+--Prediction: 3.4440528828868016
+--Actual Rating: 3.0
+Movie:455, User: 14
+--Prediction: 2.7839074772713213
+--Actual Rating: 3.0
+Movie:527, User: 14
+--Prediction: 4.027713348807865
+--Actual Rating: 3.0
+Movie:539, User: 14
+--Prediction: 3.7839074772713213
+--Actual Rating: 4.0
+Movie:553, User: 14
+--Prediction: 4.024925037481259
+--Actual Rating: 4.0
+Movie:593, User: 14
+--Prediction: 4.246938179409376
+--Actual Rating: 4.0
+Movie:597, User: 14
+--Prediction: 3.018862147553692
+--Actual Rating: 3.0
+Movie:47, User: 16
+--Prediction: 4.051839840062086
+--Actual Rating: 3.5
+Movie:111, User: 16
+--Prediction: 3.460930735930736
+--Actual Rating: 4.5
+Movie:293, User: 16
+--Prediction: 3.52146575789869
+--Actual Rating: 4.0
+Movie:319, User: 16
+--Prediction: 2.0630576748997798
+--Actual Rating: 4.0
+Movie:527, User: 16
+--Prediction: 4.27241959433934
+--Actual Rating: 4.0
+Movie:541, User: 16
+--Prediction: 3.7182831031267876
+--Actual Rating: 4.5
+Movie:593, User: 16
+--Prediction: 4.506212931561356
+--Actual Rating: 3.0
+Movie:745, User: 16
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:849, User: 16
+--Prediction: 3.4999483837600875
+--Actual Rating: 4.0
+Movie:913, User: 16
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:923, User: 16
+--Prediction: 4.972370799139246
+--Actual Rating: 3.5
+Movie:1089, User: 16
+--Prediction: 3.8641650019313603
+--Actual Rating: 4.0
+Movie:1193, User: 16
+--Prediction: 4.358004019520408
+--Actual Rating: 4.0
+Movie:1197, User: 16
+--Prediction: 4.145653335573568
+--Actual Rating: 4.0
+Movie:1201, User: 16
+--Prediction: 4.460930735930736
+--Actual Rating: 3.0
+Movie:1213, User: 16
+--Prediction: 4.097610712925499
+--Actual Rating: 3.5
+Movie:1219, User: 16
+--Prediction: 4.130834798321724
+--Actual Rating: 3.0
+Movie:1267, User: 16
+--Prediction: 4.063057674899779
+--Actual Rating: 4.0
+Movie:1617, User: 16
+--Prediction: 4.0995759270480026
+--Actual Rating: 3.5
+Movie:2019, User: 16
+--Prediction: 4.217810591544048
+--Actual Rating: 4.0
+Movie:2329, User: 16
+--Prediction: 4.336401955034903
+--Actual Rating: 3.5
+Movie:2427, User: 16
+--Prediction: 4.304075235109718
+--Actual Rating: 1.5
+Movie:2571, User: 16
+--Prediction: 4.567226507838114
+--Actual Rating: 3.5
+Movie:2641, User: 16
+--Prediction: 4.193286423418367
+--Actual Rating: 3.0
+Movie:2723, User: 16
+--Prediction: 5.0
+--Actual Rating: 3.5
+Movie:2959, User: 16
+--Prediction: 4.003104460834436
+--Actual Rating: 3.5
+Movie:3683, User: 16
+--Prediction: 4.063057674899779
+--Actual Rating: 4.0
+Movie:3949, User: 16
+--Prediction: 3.5756631940082326
+--Actual Rating: 4.0
+Movie:4011, User: 16
+--Prediction: 5.0
+--Actual Rating: 3.0
+Movie:4993, User: 16
+--Prediction: 4.508394045577245
+--Actual Rating: 3.5
+Movie:5971, User: 16
+--Prediction: 2.832941650350367
+--Actual Rating: 4.0
+Movie:7099, User: 16
+--Prediction: 4.460930735930736
+--Actual Rating: 3.5
+Movie:7153, User: 16
+--Prediction: 4.2038955319980165
+--Actual Rating: 3.5
+Movie:27773, User: 16
+--Prediction: 3.460930735930736
+--Actual Rating: 4.0
+Movie:58559, User: 16
+--Prediction: 3.0794390079439387
+--Actual Rating: 4.5
+Movie:60069, User: 16
+--Prediction: 3.34695221997608
+--Actual Rating: 4.0
+Movie:78499, User: 16
+--Prediction: 3.460930735930736
+--Actual Rating: 4.5
+Movie:91529, User: 16
+--Prediction: 2.2223063973063972
+--Actual Rating: 4.5
+Movie:1, User: 18
+--Prediction: 3.875559940678451
+--Actual Rating: 3.5
+Movie:47, User: 18
+--Prediction: 4.065719469052555
+--Actual Rating: 4.5
+Movie:111, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 4.0
+Movie:163, User: 18
+--Prediction: 4.342267306196526
+--Actual Rating: 4.0
+Movie:165, User: 18
+--Prediction: 3.799056513699719
+--Actual Rating: 4.0
+Movie:223, User: 18
+--Prediction: 3.807435300212809
+--Actual Rating: 4.0
+Movie:231, User: 18
+--Prediction: 3.7219944843219204
+--Actual Rating: 2.5
+Movie:235, User: 18
+--Prediction: 4.221424085712111
+--Actual Rating: 4.5
+Movie:293, User: 18
+--Prediction: 3.5522327233404627
+--Actual Rating: 4.5
+Movie:329, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 4.0
+Movie:367, User: 18
+--Prediction: 4.1504603041710775
+--Actual Rating: 2.5
+Movie:377, User: 18
+--Prediction: 3.6958633833782475
+--Actual Rating: 2.5
+Movie:435, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 2.0
+Movie:457, User: 18
+--Prediction: 4.579392918547131
+--Actual Rating: 3.5
+Movie:527, User: 18
+--Prediction: 4.391470374680496
+--Actual Rating: 4.5
+Movie:541, User: 18
+--Prediction: 3.753255769661868
+--Actual Rating: 4.0
+Movie:589, User: 18
+--Prediction: 3.8551056313833034
+--Actual Rating: 4.5
+Movie:593, User: 18
+--Prediction: 4.59025559907424
+--Actual Rating: 4.5
+Movie:595, User: 18
+--Prediction: 4.512739032367355
+--Actual Rating: 3.0
+Movie:653, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 3.0
+Movie:673, User: 18
+--Prediction: 2.221804351451984
+--Actual Rating: 3.0
+Movie:745, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:849, User: 18
+--Prediction: 3.3670637676109743
+--Actual Rating: 3.5
+Movie:913, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.0
+Movie:919, User: 18
+--Prediction: 4.342267306196526
+--Actual Rating: 4.0
+Movie:923, User: 18
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:1089, User: 18
+--Prediction: 3.880807820301088
+--Actual Rating: 4.0
+Movie:1095, User: 18
+--Prediction: 4.447777051323962
+--Actual Rating: 4.0
+Movie:1193, User: 18
+--Prediction: 4.394508184697196
+--Actual Rating: 4.5
+Movie:1201, User: 18
+--Prediction: 4.499122807017544
+--Actual Rating: 5.0
+Movie:1209, User: 18
+--Prediction: 2.9991228070175433
+--Actual Rating: 5.0
+Movie:1213, User: 18
+--Prediction: 4.122285109909446
+--Actual Rating: 4.5
+Movie:1219, User: 18
+--Prediction: 4.3210801174448
+--Actual Rating: 4.5
+Movie:1221, User: 18
+--Prediction: 3.999122807017544
+--Actual Rating: 5.0
+Movie:1275, User: 18
+--Prediction: 4.536522753237671
+--Actual Rating: 3.5
+Movie:1291, User: 18
+--Prediction: 4.40875802809027
+--Actual Rating: 4.0
+Movie:1371, User: 18
+--Prediction: 4.178671364462443
+--Actual Rating: 4.0
+Movie:1375, User: 18
+--Prediction: 3.394508184697196
+--Actual Rating: 3.5
+Movie:1391, User: 18
+--Prediction: 2.0493678388669254
+--Actual Rating: 3.0
+Movie:1517, User: 18
+--Prediction: 4.103181609414667
+--Actual Rating: 2.5
+Movie:1527, User: 18
+--Prediction: 4.233110748763687
+--Actual Rating: 3.5
+Movie:1617, User: 18
+--Prediction: 4.115768762881598
+--Actual Rating: 4.0
+Movie:1625, User: 18
+--Prediction: 4.721614218582047
+--Actual Rating: 3.5
+Movie:1653, User: 18
+--Prediction: 4.877164393971887
+--Actual Rating: 3.5
+Movie:1721, User: 18
+--Prediction: 4.57012871259855
+--Actual Rating: 4.0
+Movie:1805, User: 18
+--Prediction: 3.7216142185820478
+--Actual Rating: 3.5
+Movie:1917, User: 18
+--Prediction: 3.9742611294572505
+--Actual Rating: 3.0
+Movie:2001, User: 18
+--Prediction: 4.521218039180087
+--Actual Rating: 3.5
+Movie:2011, User: 18
+--Prediction: 4.107586087415616
+--Actual Rating: 3.5
+Movie:2019, User: 18
+--Prediction: 4.277153252687738
+--Actual Rating: 4.0
+Movie:2115, User: 18
+--Prediction: 4.2218043514519845
+--Actual Rating: 4.0
+Movie:2291, User: 18
+--Prediction: 4.342267306196526
+--Actual Rating: 4.0
+Movie:2329, User: 18
+--Prediction: 4.382605687044248
+--Actual Rating: 4.0
+Movie:2571, User: 18
+--Prediction: 4.601233199282195
+--Actual Rating: 4.5
+Movie:2683, User: 18
+--Prediction: 3.0376537167418727
+--Actual Rating: 2.5
+Movie:2953, User: 18
+--Prediction: 4.101249745986587
+--Actual Rating: 3.0
+Movie:2959, User: 18
+--Prediction: 4.010762803238243
+--Actual Rating: 4.5
+Movie:2997, User: 18
+--Prediction: 4.221424085712111
+--Actual Rating: 4.0
+Movie:3081, User: 18
+--Prediction: 4.101249745986587
+--Actual Rating: 4.0
+Movie:3147, User: 18
+--Prediction: 4.5865504757848505
+--Actual Rating: 4.0
+Movie:3253, User: 18
+--Prediction: 3.7219944843219204
+--Actual Rating: 3.0
+Movie:3257, User: 18
+--Prediction: 3.1012497459865873
+--Actual Rating: 3.0
+Movie:3681, User: 18
+--Prediction: 3.999122807017544
+--Actual Rating: 4.5
+Movie:3751, User: 18
+--Prediction: 4.101249745986587
+--Actual Rating: 3.5
+Movie:3785, User: 18
+--Prediction: 2.1012497459865878
+--Actual Rating: 2.0
+Movie:3793, User: 18
+--Prediction: 4.285920706169658
+--Actual Rating: 4.0
+Movie:3949, User: 18
+--Prediction: 3.705564071350704
+--Actual Rating: 4.5
+Movie:4011, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.5
+Movie:4643, User: 18
+--Prediction: 1.4783834586466167
+--Actual Rating: 3.0
+Movie:4963, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:4993, User: 18
+--Prediction: 4.544275620278109
+--Actual Rating: 4.5
+Movie:4995, User: 18
+--Prediction: 5.0
+--Actual Rating: 4.5
+Movie:5349, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 4.0
+Movie:5445, User: 18
+--Prediction: 4.394445842768759
+--Actual Rating: 4.0
+Movie:5459, User: 18
+--Prediction: 3.4783834586466167
+--Actual Rating: 2.5
+Movie:5481, User: 18
+--Prediction: 5.0
+--Actual Rating: 3.0
+Movie:5989, User: 18
+--Prediction: 4.871383408148038
+--Actual Rating: 4.0
+Movie:6333, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:6365, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:6377, User: 18
+--Prediction: 3.2604984683932052
+--Actual Rating: 4.0
+Movie:6539, User: 18
+--Prediction: 4.978383458646617
+--Actual Rating: 4.5
+Movie:6863, User: 18
+--Prediction: 4.978383458646617
+--Actual Rating: 3.5
+Movie:7153, User: 18
+--Prediction: 4.246176179074743
+--Actual Rating: 4.5
+Movie:8665, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 4.0
+Movie:8957, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:8961, User: 18
+--Prediction: 3.615174459962922
+--Actual Rating: 3.5
+Movie:27773, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 3.5
+Movie:32587, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 3.5
+Movie:37741, User: 18
+--Prediction: 3.9783834586466167
+--Actual Rating: 4.0
+Movie:45499, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:45517, User: 18
+--Prediction: 4.978383458646617
+--Actual Rating: 3.5
+Movie:58559, User: 18
+--Prediction: 3.0985686864088455
+--Actual Rating: 4.0
+Movie:59315, User: 18
+--Prediction: 2.2604984683932052
+--Actual Rating: 4.0
+Movie:64839, User: 18
+--Prediction: 2.9991228070175433
+--Actual Rating: 3.5
+Movie:68157, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 3.5
+Movie:69757, User: 18
+--Prediction: 4.260498468393205
+--Actual Rating: 4.0
+Movie:78499, User: 18
+--Prediction: 3.499122807017544
+--Actual Rating: 4.0
+Movie:89745, User: 18
+--Prediction: 2.2604984683932052
+--Actual Rating: 4.0
+Movie:91529, User: 18
+--Prediction: 2.2604984683932052
+--Actual Rating: 4.0
+Movie:109487, User: 18
+--Prediction: 4.260498468393205
+--Actual Rating: 4.5
+Movie:111759, User: 18
+--Prediction: 4.760498468393205
+--Actual Rating: 3.5
+Movie:115713, User: 18
+--Prediction: 2.2604984683932052
+--Actual Rating: 4.5
+Movie:134853, User: 18
+--Prediction: 4.760498468393205
+--Actual Rating: 3.5
+Movie:166635, User: 18
+--Prediction: 3.7604984683932052
+--Actual Rating: 4.0
+Movie:13, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 4.0
+Movie:107, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:531, User: 20
+--Prediction: 3.8677014042867697
+--Actual Rating: 4.5
+Movie:551, User: 20
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:595, User: 20
+--Prediction: 4.336075531134629
+--Actual Rating: 5.0
+Movie:661, User: 20
+--Prediction: 3.9972910670245443
+--Actual Rating: 5.0
+Movie:709, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.0
+Movie:783, User: 20
+--Prediction: 4.896668170095641
+--Actual Rating: 3.5
+Movie:837, User: 20
+--Prediction: 4.896668170095641
+--Actual Rating: 4.0
+Movie:899, User: 20
+--Prediction: 2.7945412311265967
+--Actual Rating: 4.0
+Movie:919, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 5.0
+Movie:1021, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 2.0
+Movie:1025, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 5.0
+Movie:1029, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:1031, User: 20
+--Prediction: 3.4147830408095903
+--Actual Rating: 3.0
+Movie:1073, User: 20
+--Prediction: 4.579799093239498
+--Actual Rating: 5.0
+Movie:1097, User: 20
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:1333, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 3.5
+Movie:1367, User: 20
+--Prediction: 1.8966681700956411
+--Actual Rating: 3.0
+Movie:1489, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 4.0
+Movie:1907, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 5.0
+Movie:1919, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:2005, User: 20
+--Prediction: 4.103051227384926
+--Actual Rating: 5.0
+Movie:2033, User: 20
+--Prediction: 3.9972910670245443
+--Actual Rating: 4.0
+Movie:2081, User: 20
+--Prediction: 3.947592515851959
+--Actual Rating: 5.0
+Movie:2085, User: 20
+--Prediction: 1.5559168925022586
+--Actual Rating: 4.0
+Movie:2137, User: 20
+--Prediction: 4.579799093239498
+--Actual Rating: 4.5
+Movie:2141, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:2161, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:2167, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 2.0
+Movie:2355, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 4.0
+Movie:2617, User: 20
+--Prediction: 2.744815145669407
+--Actual Rating: 2.5
+Movie:2657, User: 20
+--Prediction: 3.1623071194544528
+--Actual Rating: 5.0
+Movie:2687, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 4.5
+Movie:2701, User: 20
+--Prediction: 1.83391645928831
+--Actual Rating: 1.0
+Movie:2709, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 5.0
+Movie:2761, User: 20
+--Prediction: 4.137685730305579
+--Actual Rating: 4.5
+Movie:2857, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 4.0
+Movie:2987, User: 20
+--Prediction: 5.0
+--Actual Rating: 5.0
+Movie:3301, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:3397, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 5.0
+Movie:3483, User: 20
+--Prediction: 2.8966681700956407
+--Actual Rating: 3.5
+Movie:3535, User: 20
+--Prediction: 3.236571186947211
+--Actual Rating: 1.0
+Movie:3555, User: 20
+--Prediction: 4.055916892502259
+--Actual Rating: 3.0
+Movie:3623, User: 20
+--Prediction: 2.0678188726448252
+--Actual Rating: 3.0
+Movie:3751, User: 20
+--Prediction: 3.8966681700956407
+--Actual Rating: 5.0
+Movie:3753, User: 20
+--Prediction: 3.4552472857190937
+--Actual Rating: 3.0
+Movie:3793, User: 20
+--Prediction: 4.160128758296965
+--Actual Rating: 3.5
+Movie:3897, User: 20
+--Prediction: 3.8589037503278263
+--Actual Rating: 4.5
+Movie:3977, User: 20
+--Prediction: 2.816537434413993
+--Actual Rating: 3.5
+Movie:4643, User: 20
+--Prediction: 1.27380188275567
+--Actual Rating: 3.0
+Movie:4993, User: 20
+--Prediction: 4.343171891808644
+--Actual Rating: 5.0
+Movie:4995, User: 20
+--Prediction: 4.916231312577734
+--Actual Rating: 5.0
+Movie:5349, User: 20
+--Prediction: 3.77380188275567
+--Actual Rating: 3.0
+Movie:5445, User: 20
+--Prediction: 4.190172768857105
+--Actual Rating: 4.5
+Movie:5481, User: 20
+--Prediction: 5.0
+--Actual Rating: 1.0
+Movie:5507, User: 20
+--Prediction: 1.2431954754330157
+--Actual Rating: 0.5
+Movie:5989, User: 20
+--Prediction: 4.668662811968713
+--Actual Rating: 4.5
+Movie:5991, User: 20
+--Prediction: 4.77380188275567
+--Actual Rating: 5.0
+Movie:6333, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+Movie:6365, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+
+UBCFa SIMILARITY: Cosine SVD type: b
+Movie:333, User: 2
+--Prediction: 0.5657434884975716
+--Actual Rating: 4.0
+Movie:58559, User: 2
+--Prediction: 0.223795600111389
+--Actual Rating: 4.5
+Movie:68157, User: 2
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:77455, User: 2
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:91529, User: 2
+--Prediction: 0.6044834307992204
+--Actual Rating: 3.5
+Movie:109487, User: 2
+--Prediction: 0.6044834307992204
+--Actual Rating: 3.0
+Movie:115713, User: 2
+--Prediction: 0.6044834307992204
+--Actual Rating: 3.5
+Movie:21, User: 4
+--Prediction: 0.03344768439108048
+--Actual Rating: 3.0
+Movie:47, User: 4
+--Prediction: 0.01448943497589017
+--Actual Rating: 2.0
+Movie:235, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 2.0
+Movie:247, User: 4
+--Prediction: 0.03344768439108137
+--Actual Rating: 3.0
+Movie:265, User: 4
+--Prediction: 0.03344768439108048
+--Actual Rating: 5.0
+Movie:319, User: 4
+--Prediction: 1.062414450199952
+--Actual Rating: 5.0
+Movie:351, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:357, User: 4
+--Prediction: 0.547931067295516
+--Actual Rating: 3.0
+Movie:441, User: 4
+--Prediction: 0.5
+--Actual Rating: 1.0
+Movie:457, User: 4
+--Prediction: 0.07196386643891017
+--Actual Rating: 5.0
+Movie:475, User: 4
+--Prediction: 0.03344768439108137
+--Actual Rating: 5.0
+Movie:539, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:553, User: 4
+--Prediction: 0.5
+--Actual Rating: 2.0
+Movie:593, User: 4
+--Prediction: 0.7729572513138745
+--Actual Rating: 5.0
+Movie:595, User: 4
+--Prediction: 2.2364979236255307
+--Actual Rating: 3.0
+Movie:899, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:919, User: 4
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1025, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1057, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:1073, User: 4
+--Prediction: 0.18292323030492152
+--Actual Rating: 4.0
+Movie:1077, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 5.0
+Movie:1079, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 2.0
+Movie:1179, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:1183, User: 4
+--Prediction: 4.439548162859981
+--Actual Rating: 1.0
+Movie:1197, User: 4
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1213, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1219, User: 4
+--Prediction: 1.6017982078232746
+--Actual Rating: 4.0
+Movie:1259, User: 4
+--Prediction: 0.26135098071542995
+--Actual Rating: 4.0
+Movie:1265, User: 4
+--Prediction: 0.19583654440546994
+--Actual Rating: 4.0
+Movie:1291, User: 4
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1391, User: 4
+--Prediction: 0.47548788547733434
+--Actual Rating: 1.0
+Movie:1517, User: 4
+--Prediction: 1.6017982078232729
+--Actual Rating: 4.0
+Movie:1597, User: 4
+--Prediction: 0.47548788547733434
+--Actual Rating: 1.0
+Movie:1617, User: 4
+--Prediction: 1.6017982078232738
+--Actual Rating: 2.0
+Movie:1885, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:1895, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:1907, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 3.0
+Movie:1923, User: 4
+--Prediction: 1.7968413112715504
+--Actual Rating: 3.0
+Movie:1967, User: 4
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:2019, User: 4
+--Prediction: 1.9499178370454446
+--Actual Rating: 2.0
+Movie:2145, User: 4
+--Prediction: 0.5435322403160443
+--Actual Rating: 3.0
+Movie:2203, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:2359, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:2395, User: 4
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:2467, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:2571, User: 4
+--Prediction: 0.014489434975889282
+--Actual Rating: 1.0
+Movie:2683, User: 4
+--Prediction: 2.750981306529966
+--Actual Rating: 4.0
+Movie:2763, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:2791, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 5.0
+Movie:2959, User: 4
+--Prediction: 0.011949286111829771
+--Actual Rating: 2.0
+Movie:2997, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 4.0
+Movie:3033, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 4.0
+Movie:3175, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:3255, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 4.0
+Movie:3481, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 2.0
+Movie:3489, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 1.0
+Movie:3591, User: 4
+--Prediction: 1.0624144501999515
+--Actual Rating: 1.0
+Movie:3809, User: 4
+--Prediction: 0.18292323030492064
+--Actual Rating: 3.0
+Movie:3897, User: 4
+--Prediction: 0.024650030432137093
+--Actual Rating: 4.0
+Movie:3, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 5.0
+Movie:7, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:13, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:15, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:19, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 2.0
+Movie:21, User: 6
+--Prediction: 0.5
+--Actual Rating: 2.0
+Movie:31, User: 6
+--Prediction: 1.097844895390908
+--Actual Rating: 3.0
+Movie:41, User: 6
+--Prediction: 0.2728727660709529
+--Actual Rating: 4.0
+Movie:47, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:65, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:87, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:95, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:135, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:141, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 4.0
+Movie:151, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:153, User: 6
+--Prediction: 0.19207216231554458
+--Actual Rating: 3.0
+Movie:161, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:163, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:165, User: 6
+--Prediction: 1.660772321805176
+--Actual Rating: 3.0
+Movie:185, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:231, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 3.0
+Movie:253, User: 6
+--Prediction: 0.4118620778291424
+--Actual Rating: 3.0
+Movie:261, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:265, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:273, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:289, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:291, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:293, User: 6
+--Prediction: 0.1120527218794356
+--Actual Rating: 3.0
+Movie:329, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:333, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 5.0
+Movie:339, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:349, User: 6
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:351, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:353, User: 6
+--Prediction: 0.9263454607335788
+--Actual Rating: 4.0
+Movie:355, User: 6
+--Prediction: 0.08559418314019585
+--Actual Rating: 4.0
+Movie:357, User: 6
+--Prediction: 0.4118620778291424
+--Actual Rating: 3.0
+Movie:367, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:371, User: 6
+--Prediction: 0.2728727660709529
+--Actual Rating: 3.0
+Movie:377, User: 6
+--Prediction: 0.33941889601096076
+--Actual Rating: 5.0
+Movie:435, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:445, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:455, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:457, User: 6
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:475, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:485, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:493, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:497, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:515, User: 6
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:527, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:531, User: 6
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:537, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:539, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:543, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 3.0
+Movie:553, User: 6
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:575, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:587, User: 6
+--Prediction: 2.6149123170635926
+--Actual Rating: 5.0
+Movie:589, User: 6
+--Prediction: 0.9930579686960872
+--Actual Rating: 3.0
+Movie:593, User: 6
+--Prediction: 0.6368882618475009
+--Actual Rating: 4.0
+Movie:595, User: 6
+--Prediction: 2.100428934159157
+--Actual Rating: 5.0
+Movie:597, User: 6
+--Prediction: 0.23743506554134974
+--Actual Rating: 4.0
+Movie:637, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:647, User: 6
+--Prediction: 1.097844895390908
+--Actual Rating: 4.0
+Movie:709, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 5.0
+Movie:711, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 4.0
+Movie:719, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 2.0
+Movie:783, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 5.0
+Movie:799, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:837, User: 6
+--Prediction: 0.9263454607335779
+--Actual Rating: 3.0
+Movie:839, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:881, User: 6
+--Prediction: 0.9263454607335784
+--Actual Rating: 3.0
+Movie:1049, User: 6
+--Prediction: 0.04685424083854706
+--Actual Rating: 5.0
+Movie:1073, User: 6
+--Prediction: 0.046854240838547945
+--Actual Rating: 3.0
+Movie:21, User: 8
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:39, User: 8
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:47, User: 8
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:141, User: 8
+--Prediction: 0.9310646679067731
+--Actual Rating: 3.0
+Movie:153, User: 8
+--Prediction: 0.19679136948873843
+--Actual Rating: 2.0
+Movie:185, User: 8
+--Prediction: 0.9310646679067727
+--Actual Rating: 5.0
+Movie:231, User: 8
+--Prediction: 0.051573448011741796
+--Actual Rating: 4.0
+Movie:235, User: 8
+--Prediction: 0.051573448011741796
+--Actual Rating: 3.0
+Movie:253, User: 8
+--Prediction: 0.41658128500233715
+--Actual Rating: 5.0
+Movie:339, User: 8
+--Prediction: 0.9310646679067727
+--Actual Rating: 3.0
+Movie:357, User: 8
+--Prediction: 0.41658128500233715
+--Actual Rating: 5.0
+Movie:367, User: 8
+--Prediction: 0.0017482660404608552
+--Actual Rating: 3.0
+Movie:377, User: 8
+--Prediction: 0.3441381031841555
+--Actual Rating: 4.0
+Movie:457, User: 8
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:527, User: 8
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:539, User: 8
+--Prediction: 0.9310646679067727
+--Actual Rating: 3.0
+Movie:587, User: 8
+--Prediction: 2.6196315242367874
+--Actual Rating: 3.0
+Movie:593, User: 8
+--Prediction: 0.6416074690206948
+--Actual Rating: 4.0
+Movie:597, User: 8
+--Prediction: 0.24215427271454448
+--Actual Rating: 3.0
+Movie:597, User: 10
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:1307, User: 10
+--Prediction: 0.5705692311401496
+--Actual Rating: 3.0
+Movie:1907, User: 10
+--Prediction: 0.5705692311401496
+--Actual Rating: 4.0
+Movie:2571, User: 10
+--Prediction: 0.5
+--Actual Rating: 0.5
+Movie:2671, User: 10
+--Prediction: 3.947702943800179
+--Actual Rating: 3.5
+Movie:2959, User: 10
+--Prediction: 0.5
+--Actual Rating: 0.5
+Movie:4993, User: 10
+--Prediction: 0.6407649314988948
+--Actual Rating: 4.0
+Movie:4995, User: 10
+--Prediction: 1.8387604486734732
+--Actual Rating: 4.0
+Movie:6377, User: 10
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:7153, User: 10
+--Prediction: 1.4580726179856427
+--Actual Rating: 4.0
+Movie:8665, User: 10
+--Prediction: 3.947702943800179
+--Actual Rating: 3.5
+Movie:8961, User: 10
+--Prediction: 1.8387604486734732
+--Actual Rating: 2.5
+Movie:58559, User: 10
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:91529, User: 10
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:109487, User: 10
+--Prediction: 0.5
+--Actual Rating: 0.5
+Movie:39, User: 12
+--Prediction: 0.9261363636363633
+--Actual Rating: 4.0
+Movie:261, User: 12
+--Prediction: 0.9261363636363633
+--Actual Rating: 4.5
+Movie:357, User: 12
+--Prediction: 1.4406197465407988
+--Actual Rating: 3.5
+Movie:543, User: 12
+--Prediction: 1.0756119095502035
+--Actual Rating: 3.5
+Movie:1265, User: 12
+--Prediction: 1.0885252236507537
+--Actual Rating: 3.5
+Movie:1405, User: 12
+--Prediction: 1.1540396599607128
+--Actual Rating: 3.0
+Movie:1721, User: 12
+--Prediction: 0.84929435483871
+--Actual Rating: 5.0
+Movie:2485, User: 12
+--Prediction: 1.9551031294452343
+--Actual Rating: 5.0
+Movie:2581, User: 12
+--Prediction: 1.9551031294452343
+--Actual Rating: 5.0
+Movie:2717, User: 12
+--Prediction: 2.546772054008896
+--Actual Rating: 5.0
+Movie:7, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 3.0
+Movie:19, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 1.0
+Movie:39, User: 14
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:47, User: 14
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:95, User: 14
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:153, User: 14
+--Prediction: 0.049634178853287914
+--Actual Rating: 2.0
+Movie:231, User: 14
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:339, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 4.0
+Movie:351, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 3.0
+Movie:367, User: 14
+--Prediction: 0.5
+--Actual Rating: 1.0
+Movie:377, User: 14
+--Prediction: 0.1969809125487041
+--Actual Rating: 3.0
+Movie:455, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 3.0
+Movie:527, User: 14
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:539, User: 14
+--Prediction: 0.7839074772713213
+--Actual Rating: 4.0
+Movie:553, User: 14
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:593, User: 14
+--Prediction: 0.49445027838524247
+--Actual Rating: 4.0
+Movie:597, User: 14
+--Prediction: 0.09499708207909308
+--Actual Rating: 3.0
+Movie:47, User: 16
+--Prediction: 0.015132659675717974
+--Actual Rating: 3.5
+Movie:111, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:293, User: 16
+--Prediction: 0.248764936045637
+--Actual Rating: 4.0
+Movie:319, User: 16
+--Prediction: 1.0630576748997798
+--Actual Rating: 4.0
+Movie:527, User: 16
+--Prediction: 0.0511920773989738
+--Actual Rating: 4.0
+Movie:541, User: 16
+--Prediction: 0.26199420541525775
+--Actual Rating: 4.5
+Movie:593, User: 16
+--Prediction: 0.7736004760137014
+--Actual Rating: 3.0
+Movie:745, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:849, User: 16
+--Prediction: 0.8399737272544288
+--Actual Rating: 4.0
+Movie:913, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:923, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:1089, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1193, User: 16
+--Prediction: 0.26199420541525775
+--Actual Rating: 4.0
+Movie:1197, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1201, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:1213, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:1219, User: 16
+--Prediction: 1.6024414325231016
+--Actual Rating: 3.0
+Movie:1267, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:1617, User: 16
+--Prediction: 1.6024414325231016
+--Actual Rating: 3.5
+Movie:2019, User: 16
+--Prediction: 1.9505610617452724
+--Actual Rating: 4.0
+Movie:2329, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:2427, User: 16
+--Prediction: 0.5
+--Actual Rating: 1.5
+Movie:2571, User: 16
+--Prediction: 0.015132659675717974
+--Actual Rating: 3.5
+Movie:2641, User: 16
+--Prediction: 0.18356645500474844
+--Actual Rating: 3.0
+Movie:2723, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 3.5
+Movie:2959, User: 16
+--Prediction: 0.012592510811657576
+--Actual Rating: 3.5
+Movie:3683, User: 16
+--Prediction: 1.0630576748997793
+--Actual Rating: 4.0
+Movie:3949, User: 16
+--Prediction: 0.30593141426474624
+--Actual Rating: 4.0
+Movie:4011, User: 16
+--Prediction: 0.025293255131964898
+--Actual Rating: 3.0
+Movie:4993, User: 16
+--Prediction: 1.1332533752585245
+--Actual Rating: 3.5
+Movie:5971, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:7099, User: 16
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:7153, User: 16
+--Prediction: 1.9505610617452724
+--Actual Rating: 3.5
+Movie:27773, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:58559, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:60069, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:78499, User: 16
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:91529, User: 16
+--Prediction: 0.22230639730639723
+--Actual Rating: 4.5
+Movie:1, User: 18
+--Prediction: 0.7305110040863214
+--Actual Rating: 3.5
+Movie:47, User: 18
+--Prediction: 0.053324730762525974
+--Actual Rating: 4.5
+Movie:111, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:163, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:165, User: 18
+--Prediction: 1.8356766070581862
+--Actual Rating: 4.0
+Movie:223, User: 18
+--Prediction: 0.2970980345023584
+--Actual Rating: 4.0
+Movie:231, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 2.5
+Movie:235, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 4.5
+Movie:293, User: 18
+--Prediction: 0.286957007132445
+--Actual Rating: 4.5
+Movie:329, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:367, User: 18
+--Prediction: 0.1719333441202755
+--Actual Rating: 2.5
+Movie:377, User: 18
+--Prediction: 0.5143231812639701
+--Actual Rating: 2.5
+Movie:435, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 2.0
+Movie:457, User: 18
+--Prediction: 0.11079916222554509
+--Actual Rating: 3.5
+Movie:527, User: 18
+--Prediction: 0.0893841484857818
+--Actual Rating: 4.5
+Movie:541, User: 18
+--Prediction: 0.30018627650206575
+--Actual Rating: 4.0
+Movie:589, User: 18
+--Prediction: 0.8475368661552869
+--Actual Rating: 4.5
+Movie:593, User: 18
+--Prediction: 0.8117925471005094
+--Actual Rating: 4.5
+Movie:595, User: 18
+--Prediction: 2.2753332194121665
+--Actual Rating: 3.0
+Movie:653, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.0
+Movie:673, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.0
+Movie:745, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:849, User: 18
+--Prediction: 0.8781657983412368
+--Actual Rating: 3.5
+Movie:913, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:919, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:923, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1089, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1095, User: 18
+--Prediction: 0.4477770513239623
+--Actual Rating: 4.0
+Movie:1193, User: 18
+--Prediction: 0.30018627650206575
+--Actual Rating: 4.5
+Movie:1201, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1209, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1213, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:1219, User: 18
+--Prediction: 1.6406335036099096
+--Actual Rating: 4.5
+Movie:1221, User: 18
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1275, User: 18
+--Prediction: 0.3075082434202212
+--Actual Rating: 3.5
+Movie:1291, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1371, User: 18
+--Prediction: 1.186999463315252
+--Actual Rating: 4.0
+Movie:1375, User: 18
+--Prediction: 0.30018627650206575
+--Actual Rating: 3.5
+Movie:1391, User: 18
+--Prediction: 0.5143231812639701
+--Actual Rating: 3.0
+Movie:1517, User: 18
+--Prediction: 1.6406335036099096
+--Actual Rating: 2.5
+Movie:1527, User: 18
+--Prediction: 0.6808741071898963
+--Actual Rating: 3.5
+Movie:1617, User: 18
+--Prediction: 1.6406335036099096
+--Actual Rating: 4.0
+Movie:1625, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.5
+Movie:1653, User: 18
+--Prediction: 0.6808741071898963
+--Actual Rating: 3.5
+Movie:1721, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:1805, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.5
+Movie:1917, User: 18
+--Prediction: 1.8356766070581862
+--Actual Rating: 3.0
+Movie:2001, User: 18
+--Prediction: 0.6808741071898963
+--Actual Rating: 3.5
+Movie:2011, User: 18
+--Prediction: 0.6031750885679186
+--Actual Rating: 3.5
+Movie:2019, User: 18
+--Prediction: 1.9887531328320804
+--Actual Rating: 4.0
+Movie:2115, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 4.0
+Movie:2291, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:2329, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:2571, User: 18
+--Prediction: 0.053324730762525974
+--Actual Rating: 4.5
+Movie:2683, User: 18
+--Prediction: 2.789816602316602
+--Actual Rating: 2.5
+Movie:2953, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.0
+Movie:2959, User: 18
+--Prediction: 0.050784581898465575
+--Actual Rating: 4.5
+Movie:2997, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 4.0
+Movie:3081, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 4.0
+Movie:3147, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:3253, User: 18
+--Prediction: 0.22175852609155644
+--Actual Rating: 3.0
+Movie:3257, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.0
+Movie:3681, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:3751, User: 18
+--Prediction: 1.1012497459865873
+--Actual Rating: 3.5
+Movie:3785, User: 18
+--Prediction: 1.1012497459865878
+--Actual Rating: 2.0
+Movie:3793, User: 18
+--Prediction: 1.246346459262126
+--Actual Rating: 4.0
+Movie:3949, User: 18
+--Prediction: 0.34412348535155424
+--Actual Rating: 4.5
+Movie:4011, User: 18
+--Prediction: 0.0634853262187729
+--Actual Rating: 4.5
+Movie:4643, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.0
+Movie:4963, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:4993, User: 18
+--Prediction: 1.1714454463453325
+--Actual Rating: 4.5
+Movie:4995, User: 18
+--Prediction: 2.369440963519911
+--Actual Rating: 4.5
+Movie:5349, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:5445, User: 18
+--Prediction: 1.7288863261212617
+--Actual Rating: 4.0
+Movie:5459, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 2.5
+Movie:5481, User: 18
+--Prediction: 0.4477770513239623
+--Actual Rating: 3.0
+Movie:5989, User: 18
+--Prediction: 2.369440963519911
+--Actual Rating: 4.0
+Movie:6333, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:6365, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:6377, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:6539, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.5
+Movie:6863, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:7153, User: 18
+--Prediction: 1.9887531328320804
+--Actual Rating: 4.5
+Movie:8665, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:8957, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:8961, User: 18
+--Prediction: 2.369440963519911
+--Actual Rating: 3.5
+Movie:27773, User: 18
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:32587, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:37741, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:45499, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 4.0
+Movie:45517, User: 18
+--Prediction: 4.478383458646617
+--Actual Rating: 3.5
+Movie:58559, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:59315, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:64839, User: 18
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:68157, User: 18
+--Prediction: 0.5
+--Actual Rating: 3.5
+Movie:69757, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:78499, User: 18
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:89745, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:91529, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:109487, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.5
+Movie:111759, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 3.5
+Movie:115713, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.5
+Movie:134853, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 3.5
+Movie:166635, User: 18
+--Prediction: 0.26049846839320523
+--Actual Rating: 4.0
+Movie:13, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:107, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:531, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:551, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:595, User: 20
+--Prediction: 2.07075164352122
+--Actual Rating: 5.0
+Movie:661, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 5.0
+Movie:709, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.0
+Movie:783, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:837, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:899, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.0
+Movie:919, User: 20
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1021, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 2.0
+Movie:1025, User: 20
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:1029, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:1031, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 3.0
+Movie:1073, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 5.0
+Movie:1097, User: 20
+--Prediction: 0.01717695020061072
+--Actual Rating: 5.0
+Movie:1333, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:1367, User: 20
+--Prediction: 0.8966681700956411
+--Actual Rating: 3.0
+Movie:1489, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:1907, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:1919, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:2005, User: 20
+--Prediction: 0.5
+--Actual Rating: 5.0
+Movie:2033, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 4.0
+Movie:2081, User: 20
+--Prediction: 0.47629253129894966
+--Actual Rating: 5.0
+Movie:2085, User: 20
+--Prediction: 0.05591689250225862
+--Actual Rating: 4.0
+Movie:2137, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 4.5
+Movie:2141, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:2161, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:2167, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 2.0
+Movie:2355, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:2617, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 2.5
+Movie:2657, User: 20
+--Prediction: 0.01717695020060983
+--Actual Rating: 5.0
+Movie:2687, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.5
+Movie:2701, User: 20
+--Prediction: 2.5852350264256554
+--Actual Rating: 1.0
+Movie:2709, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:2761, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:2857, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 4.0
+Movie:2987, User: 20
+--Prediction: 0.01717695020061072
+--Actual Rating: 5.0
+Movie:3301, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:3397, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:3483, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 3.5
+Movie:3535, User: 20
+--Prediction: 0.47629253129894966
+--Actual Rating: 1.0
+Movie:3555, User: 20
+--Prediction: 0.05591689250225862
+--Actual Rating: 3.0
+Movie:3623, User: 20
+--Prediction: 2.5852350264256554
+--Actual Rating: 3.0
+Movie:3751, User: 20
+--Prediction: 0.8966681700956407
+--Actual Rating: 5.0
+Movie:3753, User: 20
+--Prediction: 0.5
+--Actual Rating: 3.0
+Movie:3793, User: 20
+--Prediction: 1.0417648833711795
+--Actual Rating: 3.5
+Movie:3897, User: 20
+--Prediction: 0.5
+--Actual Rating: 4.5
+Movie:3977, User: 20
+--Prediction: 2.066352816541748
+--Actual Rating: 3.5
+Movie:4643, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 3.0
+Movie:4993, User: 20
+--Prediction: 0.9668638704543859
+--Actual Rating: 5.0
+Movie:4995, User: 20
+--Prediction: 2.1648593876289643
+--Actual Rating: 5.0
+Movie:5349, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 3.0
+Movie:5445, User: 20
+--Prediction: 1.524304750230315
+--Actual Rating: 4.5
+Movie:5481, User: 20
+--Prediction: 0.24319547543301567
+--Actual Rating: 1.0
+Movie:5507, User: 20
+--Prediction: 0.24319547543301567
+--Actual Rating: 0.5
+Movie:5989, User: 20
+--Prediction: 2.1648593876289643
+--Actual Rating: 4.5
+Movie:5991, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 5.0
+Movie:6333, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
+Movie:6365, User: 20
+--Prediction: 4.27380188275567
+--Actual Rating: 4.0
